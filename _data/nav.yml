@@ -9,11 +9,11 @@
 
 - title: "projects"
   href: "/projects/"
-    subcategories:
-    - subtitle: "Project 1"
-      subhref: "/projects/project1.html"
-    - subtitle: "Project 2"
-      subhref: "/projects/project2.html"
+  subcategories:
+  - subtitle: "Project 1"
+    subhref: "/projects/project1.html"
+  - subtitle: "Project 2"
+    subhref: "/projects/project2.html"
 
 - title: "publications"
   href: "/publications/"
