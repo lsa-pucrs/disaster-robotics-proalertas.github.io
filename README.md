@@ -7,7 +7,7 @@ Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pick
 - Projects at [projects.md](projects.md)
   - Each project is described in detail in a markdown file at [projects/](projects/)
 - Publications at [publications.md](publications.md)
-- Contact information at [contact.md]
+- Contact information at [contact.md](contact.md)
 
 ## TODOs
 - Add missing basic files
