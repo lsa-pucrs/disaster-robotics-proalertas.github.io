@@ -9,7 +9,11 @@
 	{% for nav in site.data.nav %}
 	  {% if nav.subcategories != null %}
 	    <li class="dropdown">
-	      <a href="{{ site.github.url }}{{ nav.url }}">{{ nav.title }}</a>
+              {% if nav.href != null %}
+	        <a href="{{ site.github.url }}{{ nav.href }}">{{ nav.title }}</a>
+              {% else %}
+                <a href="{{ site.github.url }}{{ nav.url }}">{{ nav.title }}</a>
+              {% endif %}
 		<ul>
 		  {% for subcategory in nav.subcategories %}
 		    <li><a href="{{ site.github.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
