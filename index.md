@@ -9,6 +9,6 @@ TODO add project description
 - Topic 1
 - Topic 2
 
-- Main areas of application:
+## Main areas of application:
 - Topic 1
 - Topic 2
