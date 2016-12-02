@@ -8,11 +8,12 @@
   href: "/people/"
 
 - title: "projects"
+  href: "/projects/"
   subcategories:
     - subtitle: "Project 1"
       subhref: "/projects/project1.html"
     - subtitle: "Project 2"
-      subhref: "/documentation/project2.html"
+      subhref: "/projects/project2.html"
 
 - title: "publications"
   href: "/publications/"
