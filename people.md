@@ -4,14 +4,14 @@ title: People
 permalink: /people/
 ---
 
-# Academic Staff
+## Academic Staff
 - Foo person
   - Bar link
 
-# Research Students
+## Research Students
 - Foo person
   - Bar link
 
-# Main Collaborators
+## Main Collaborators
 - Foo person
   - Bar link
