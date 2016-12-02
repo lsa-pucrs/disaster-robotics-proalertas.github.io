@@ -2,6 +2,9 @@
 Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pickins-jekyll-theme).
 
 ## Sitemap
+- Menu
+  - Navigation at [data/nav.yml](data/nav.yml)
+  - Social media links at [data/socials.yml](data/socials.yml)
 - Home at [index.md](index.md)
 - People at [people.md](people.md)
 - Projects at [projects.md](projects.md)
@@ -10,6 +13,5 @@ Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pick
 - Contact information at [contact.md](contact.md)
 
 ## TODOs
-- Add missing basic files
 - Fill pages with info
 - Add publication bibtex information and PDFs
