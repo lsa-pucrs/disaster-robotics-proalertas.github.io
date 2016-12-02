@@ -1,5 +1,4 @@
 # slim-pickins-jekyll-theme
-
 Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pickins-jekyll-theme).
 
 ## Sitemap
@@ -10,7 +9,7 @@ Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pick
 - Publications at [publications.md](publications.md)
 - Contact information at [contact.md]
 
-# TODOs
+## TODOs
 - Add missing basic files
 - Fill pages with info
 - Add publication bibtex information and PDFs
