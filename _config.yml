@@ -1,14 +1,14 @@
 # Site settings
-name: Slim Pickins Jekyll Theme
+name: disaster-robotics-proalertas
 email: 
-author: Chrisanthropic
+author: 
 
-keywords: jekyll, jekyll theme, jekyll framework, stuffthings
+keywords: disaster robotics proalertas
 description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://maumagnaguagno.github.io/slim-pickins-jekyll-theme"
+  url: "https://disaster-robotics-proalertas.github.io"
 
 header: yes
 header_sm: images/banner-small.jpg
