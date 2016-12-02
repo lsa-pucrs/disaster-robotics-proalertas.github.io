@@ -8,7 +8,7 @@ description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme"
+  url: "https://maumagnaguagno.github.io/slim-pickins-jekyll-theme"
 
 header: yes
 header_sm: images/banner-small.jpg
@@ -16,10 +16,8 @@ header_med: images/banner-med.jpg
 header_large: images/banner-large.jpg
 header_xl: images/banner-xl.jpg
 
-
 # Exclude our ruby stuff
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
-
 
 # Build settings
 markdown: kramdown
