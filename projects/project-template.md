@@ -7,7 +7,7 @@ title: Project 1
 
 Brief description with some main image or diagram to explain the project.
 
-![Alt text](./proj1.jpg?raw=true "Project diagram")
+![Alt text](./proj-template.jpg?raw=true "Project diagram")
 
 ### Goals
 

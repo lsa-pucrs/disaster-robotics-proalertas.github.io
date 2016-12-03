@@ -4,6 +4,11 @@ title: People
 permalink: /people/
 ---
 
+
+## Coordinators
+- Foo person
+  - Bar link
+  
 ## Academic Staff
 - Foo person
   - Bar link
