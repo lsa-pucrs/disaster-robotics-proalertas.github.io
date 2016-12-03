@@ -8,8 +8,8 @@ permalink: /links/
 
 | | |
 | --- | --- |
-| <a href="http://www.pucrs.br/" rel="PUCRS">![Foo](../images/pucrs.png)]</a> |  <a href="http://www.ufrn.br/" rel="UFRN">![Foo](../images/ufrn.png)]</a>  |
-| <a href="http://www.ufrgs.br/" rel="UFRGS">![Foo](../images/ufrn.jpg)]</a>  | <a href="http://www.ufsc.br/" rel="UFSC">![Foo](../images/ufsc.png)]</a>  |
+| <a href="http://www.pucrs.br/" rel="PUCRS">![Foo](../images/pucrs.png)</a> |  <a href="http://www.ufrn.br/" rel="UFRN">![Foo](../images/ufrn.png)</a>  |
+| <a href="http://www.ufrgs.br/" rel="UFRGS">![Foo](../images/ufrgs.jpg)</a>  | <a href="http://www.ufsc.br/" rel="UFSC">![Foo](../images/ufsc.png)</a>  |
 
 
 ## Research Groups
@@ -29,8 +29,8 @@ permalink: /links/
  
 ## Others
 
-- <a href="http://www.cemaden.gov.br/" rel="CEMADEN">![Foo](../images/cemaden.jpg)]</a> 
-- <a href="http://www.capes.gov.br/" rel="CAPES">![Foo](../images/capes.png)]</a> 
+- <a href="http://www.cemaden.gov.br/" rel="CEMADEN">![Foo](../images/cemaden.jpg)</a> 
+- <a href="http://www.capes.gov.br/" rel="CAPES">![Foo](../images/capes.png)</a> 
 - [CAPES Pró-Alertas](http://www.capes.gov.br/bolsas/programas-especiais/pro-alertas)
 - [Platypus autonomous boats](http://senseplatypus.com/)
 
