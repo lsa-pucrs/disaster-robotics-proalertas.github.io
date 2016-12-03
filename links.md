@@ -1,3 +1,8 @@
+---
+layout: page
+title: Links
+permalink: /links/
+---
 
  - links p capes p pagina do pro-alertas
  - universidades e grupos de pesquisa
