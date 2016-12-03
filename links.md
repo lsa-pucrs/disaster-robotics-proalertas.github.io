@@ -4,29 +4,29 @@ title: Links
 permalink: /links/
 ---
 
-# Universities
+## Universities
 
 | | |
 | --- | --- |
-| ![Alt text](../images/pucrs.png?raw=true "PUCRS" ) | ![Alt text](../images/ufrn.png?raw=true "UFRN" ) |
+| <a href="http://www.pucrs.br/" rel="PUCRS">![Foo](../images/pucrs.png)]</a> | ![Alt text](../images/ufrn.png?raw=true "UFRN" ) |
 | ![Alt text](../images/ufrgs.jpg?raw=true "UFRGS" ) | ![Alt text](../images/ufsc.png?raw=true "UFSC" ) |
 
 
-# Research Groups
+## Research Groups
 
 
  - universidades e grupos de pesquisa
  
-# Related Projects 
+## Related Projects 
  
 - PVE Felipe
 
-# More on Robots for Disaster
+## More on Robots for Disaster
 
 - [Disaster Robotics Book](https://mitpress.mit.edu/books/disaster-robotics)
 - [Robin Murphy's TED Talk](https://www.ted.com/talks/robin_murphy_these_robots_come_to_the_rescue_after_a_disaster)
  
-# Others
+## Others
 
 - ![Alt text](../images/cemaden.jpg?raw=true "CEMADEN" )
 - ![Alt text](../images/capes.png?raw=true "CAPES" )
