@@ -8,8 +8,8 @@ permalink: /links/
 
 | | |
 | --- | --- |
-| ![Alt text](../images/pucrs.jpg?raw=true "PUCRS" ) | ![Alt text](../images/ufrn.jpg?raw=true "UFRN" ) |
-| ![Alt text](../images/ufrgs.jpg?raw=true "UFRGS" ) | ![Alt text](../images/ufsc.jpg?raw=true "UFSC" ) |
+| ![Alt text](../images/pucrs.png?raw=true "PUCRS" ) | ![Alt text](../images/ufrn.png?raw=true "UFRN" ) |
+| ![Alt text](../images/ufrgs.jpg?raw=true "UFRGS" ) | ![Alt text](../images/ufsc.png?raw=true "UFSC" ) |
 
 
 # Research Groups
