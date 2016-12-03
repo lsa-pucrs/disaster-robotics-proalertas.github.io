@@ -14,6 +14,10 @@ TODO add project description
 - Topic 2
 
 
+## Interested students:
+
+Undergraduate, master, phd, pos-doc positions are available. Interested students must send CV to LINK.  
+
 Logo das universidades, capes, cemaden.
 
 
