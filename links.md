@@ -8,15 +8,16 @@ permalink: /links/
 
 | | |
 | --- | --- |
-| <a href="http://www.pucrs.br/" rel="PUCRS">![Foo](../images/pucrs.png)]</a> | ![Alt text](../images/ufrn.png?raw=true "UFRN" ) |
-| ![Alt text](../images/ufrgs.jpg?raw=true "UFRGS" ) | ![Alt text](../images/ufsc.png?raw=true "UFSC" ) |
+| <a href="http://www.pucrs.br/" rel="PUCRS">![Foo](../images/pucrs.png)]</a> |  <a href="http://www.ufrn.br/" rel="UFRN">![Foo](../images/ufrn.png)]</a>  |
+| <a href="http://www.ufrgs.br/" rel="UFRGS">![Foo](../images/ufrn.jpg)]</a>  | <a href="http://www.ufsc.br/" rel="UFSC">![Foo](../images/ufsc.png)]</a>  |
 
 
 ## Research Groups
 
 
  - universidades e grupos de pesquisa
- 
+
+
 ## Related Projects 
  
 - PVE Felipe
