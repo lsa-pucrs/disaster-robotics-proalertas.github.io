@@ -29,8 +29,8 @@ permalink: /links/
  
 ## Others
 
-- ![Alt text](../images/cemaden.jpg?raw=true "CEMADEN" )
-- ![Alt text](../images/capes.png?raw=true "CAPES" )
+- <a href="http://www.cemaden.gov.br/" rel="CEMADEN">![Foo](../images/cemaden.jpg)]</a> 
+- <a href="http://www.capes.gov.br/" rel="CAPES">![Foo](../images/capes.png)]</a> 
 - [CAPES Pró-Alertas](http://www.capes.gov.br/bolsas/programas-especiais/pro-alertas)
 - [Platypus autonomous boats](http://senseplatypus.com/)
 
