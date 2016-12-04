@@ -5,7 +5,7 @@ title: POA Flooding
 
 ## Project description
 
-This project combines historical flooding data, digital elevation map, drainage network map, and real time preciptation data to forecast flooding in urban areas of Porto Alegre.
+This project combines historical flooding data, digital elevation map, drainage network map, hydrography analysis, and real time preciptation data to forecast flooding in urban areas of Porto Alegre.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
@@ -41,7 +41,7 @@ This project combines historical flooding data, digital elevation map, drainage 
 
 #### Students
 
- - Everton Quadros, master student on Science on Education/PUCRS, advised by Regis Lahm, role: GIS analysis.
+ - Everton Quadros, master student on Science on Education/PUCRS, advised by Regis Lahm, role: GIS and hydrography analysis.
  - Vagner Macedo Martins, master student on Computer Science/PUCRS, advised by Alexandre Amory, role: application design.
  - Carlisson Thomaz, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
  - Alice Maura Dias, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
