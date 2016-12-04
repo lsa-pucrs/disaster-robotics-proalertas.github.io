@@ -8,8 +8,8 @@ permalink: /links/
 
 | | |
 | --- | --- |
-| <a href="http://www.pucrs.br/" rel="PUCRS">![Foo](../images/pucrs.png)</a> |  <a href="http://www.ufrn.br/" rel="UFRN">![Foo](../images/ufrn.png)</a>  |
-| <a href="http://www.ufrgs.br/" rel="UFRGS">![Foo](../images/ufrgs.jpg)</a>  | <a href="http://www.ufsc.br/" rel="UFSC">![Foo](../images/ufsc.png)</a>  |
+| <a href="http://www.pucrs.br/" rel="PUCRS">![Foo](../images/pucrs.png)</a> |  <a href="http://www.ufsc.br/" rel="UFSC">![Foo](../images/ufsc.png)</a>    |
+| <a href="http://www.ufrn.br/" rel="UFRN">![Foo](../images/ufrn.png)</a>    |  <a href="http://www.ufrgs.br/" rel="UFRGS">![Foo](../images/ufrgs.jpg)</a> |
 
 
 ## Research Groups
