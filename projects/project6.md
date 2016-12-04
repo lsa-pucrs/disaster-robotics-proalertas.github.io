@@ -26,10 +26,11 @@ Decision-making software for autonomous behaviour of single or multiple agents.
 
 ### Coordinator
 
- - Rafael Bordini, PUCRS.
+ - ???
 
 ### Academic Collaborators
 
+ - Rafael Bordini, PUCRS.
  - Felipe Meneguzzi, PUCRS.
  - Jomi Hübner, UFSC.
 
