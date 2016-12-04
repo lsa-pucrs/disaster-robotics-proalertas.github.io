@@ -3,7 +3,7 @@ layout: page
 title: Project 1
 ---
 
-## Project name
+## Project description
 
 Brief description with some main image or diagram to explain the project.
 

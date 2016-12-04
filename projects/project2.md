@@ -3,7 +3,7 @@ layout: page
 title: POA Flooding
 ---
 
-## Project name
+## Project description
 
 This project combines historical flooding data, digital elevation map, drainage network map, and real time preciptation data to forecast flooding in urban areas.
 
@@ -29,17 +29,21 @@ This project combines historical flooding data, digital elevation map, drainage 
 
 ### People
 
+
 #### Coordinator
 
- - name, university, links of the coordinator.
+ - prof. Regis Lahn, PUCRS University, links of the coordinator.
 
 #### Academic Collaborators
 
- - name, university, main role, links.
+ - prof. Alexandre Amory, FACIN, PUCRS University;
 
 #### Students
 
  - name, university, advisor, course, main tasks, links.
+ - Everton, Master student on , 
+ - Vagner, Master student on Computer Science, application design 
+ 
 
 ### Papers
 
@@ -47,7 +51,7 @@ This project combines historical flooding data, digital elevation map, drainage 
 
 ### Repositories
 
- - links to public repositories.
+ - [POA Flooding](https://github.com/disaster-robotics-proalertas/poa-flooding)
 
 ### Media 
 
