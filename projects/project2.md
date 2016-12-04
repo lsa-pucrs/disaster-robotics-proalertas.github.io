@@ -11,7 +11,7 @@ This project combines historical flooding data, digital elevation map, drainage 
 
 | | | | |
 | --- | --- | --- | --- |
-| ![alerts](../images/alert.png "generates alerts") |  ![mobile app](../images/mob-app.png "[mobile app") | ![GIS](../images/geo.png "GIS app")  | ![sensors](../images/sensor.png "sensors") |
+| ![alerts](../images/alert.png "generates alerts") |  ![mobile app](../images/mob-app.png "mobile app") | ![GIS](../images/geo.png "GIS app")  | ![sensors](../images/sensor.png "sensors") |
 
 
 ### Goals
@@ -33,18 +33,18 @@ This project combines historical flooding data, digital elevation map, drainage 
  - Milestone 8: get real time precipitation data from nearby weather stations.
  - Milestone 9: integration with crowdsourcing GIS such as, for example, Nokia Here or TomTom.
 
-### People
+## People
 
 
-#### Coordinator
+### Coordinator
 
  - prof. Regis Lahm, [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University.
 
-#### Academic Collaborators
+### Academic Collaborators
 
  - prof. Alexandre Amory, FACIN, PUCRS University;
 
-#### Students
+### Students
 
  - Everton Quadros, master student on Science on Education/PUCRS, advised by Regis Lahm, role: GIS and hydrography analysis.
  - Vagner Macedo Martins, master student on Computer Science/PUCRS, advised by Alexandre Amory, role: application design.
@@ -52,15 +52,15 @@ This project combines historical flooding data, digital elevation map, drainage 
  - Alice Maura Dias, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
  
 
-### Papers
+## Papers
 
  - title and link. full bibio data is already available at ...
 
-### Repositories
+## Repositories
 
  - [POA Flooding](https://github.com/disaster-robotics-proalertas/poa-flooding)
 
-### Media 
+## Media 
 
 videos and photos.
 
