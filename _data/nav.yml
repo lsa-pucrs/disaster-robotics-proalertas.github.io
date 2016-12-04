@@ -20,6 +20,8 @@
     subhref: "/projects/project4.html"
   - subtitle: "Autonomous UAV"
     subhref: "/projects/project5.html"
+  - subtitle: "Planning for Agents"
+    subhref: "/projects/project6.html"
 
 - title: "publications"
   href: "/publications/"

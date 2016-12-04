@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 5
+title: Autonomous UAV
 ---
 
 ## Project description

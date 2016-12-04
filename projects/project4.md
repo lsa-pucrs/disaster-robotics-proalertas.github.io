@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 4
+title: Autonomous Boat
 ---
 
 ## Project description

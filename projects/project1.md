@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1
+title: Master Project
 ---
 
 ## Project description

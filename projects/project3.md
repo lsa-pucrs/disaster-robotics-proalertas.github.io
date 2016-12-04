@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 3
+title: Autonomous Sail Boat
 ---
 
 ## Project description

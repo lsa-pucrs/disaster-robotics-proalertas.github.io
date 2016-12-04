@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 6
+title: Planning for Single/Multiple Agents 
 ---
 
 ## Project description
