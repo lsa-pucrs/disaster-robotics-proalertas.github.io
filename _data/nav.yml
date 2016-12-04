@@ -10,10 +10,16 @@
 - title: "projects"
   href: "/projects/"
   subcategories:
-  - subtitle: "Project 1"
+  - subtitle: "Master Project"
     subhref: "/projects/project1.html"
-  - subtitle: "Project 2"
+  - subtitle: "POA Flooding"
     subhref: "/projects/project2.html"
+  - subtitle: "Autonomous Sail Boat"
+    subhref: "/projects/project3.html"
+  - subtitle: "Autonomous Boat"
+    subhref: "/projects/project4.html"
+  - subtitle: "Autonomous UAV"
+    subhref: "/projects/project5.html"
 
 - title: "publications"
   href: "/publications/"
