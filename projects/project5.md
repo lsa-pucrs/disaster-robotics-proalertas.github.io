@@ -5,7 +5,8 @@ title: Autonomous UAV
 
 ## Project description
 
-Brief description with some main image or diagram to explain the project.
+
+Aerial platform for photography and photogrammetry.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
@@ -22,7 +23,9 @@ Brief description with some main image or diagram to explain the project.
 
 #### Coordinator
 
- - name, university, links of the coordinator.
+ - Luiz Marcos, UFRN.
+ - Jomi Hübner, UFSC.
+ - Mario Reiss, UFRGS.
 
 #### Academic Collaborators
 
@@ -39,6 +42,10 @@ Brief description with some main image or diagram to explain the project.
 ### Repositories
 
  - links to public repositories.
+
+### Main Hardware Resources
+
+ - drone ABC
 
 ### Media 
 

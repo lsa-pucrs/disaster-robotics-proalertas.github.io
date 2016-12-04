@@ -9,28 +9,28 @@ permalink: /people/
 
 1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
-    - **Institution**: Autonomous System Labs(LSA) - [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/FACIN - PUCRS University;
+    - **Institution**: Autonomous System Labs(LSA) - [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
     - **Role**: Main coordinator;
     - **Project(s)**: [Master Project](../projects/project1.html), [Poa Flooding](../projects/project2.html), [Autonomous Boat](../projects/project4.html);
     - **Papers**: NA.
 
-2. [Luiz Marcos Gonçalves](http://lattes.cnpq.br/1562357566810393)
-    - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
-    - **Institution**: Autonomous System Labs - PPGCC/FACIN - UFRN University;
+2. [Luiz Marcos Garcia Gonçalves](http://lattes.cnpq.br/1562357566810393)
+    - **Research subjects**: embedded system, computer vision, robotics, control;
+    - **Institution**: ???? Labs - [DCA](http://www.dca.ufrn.br/) - [UFRN University](http:/www.ufrn.br/);
     - **Role**: Local coordinator;
     - **Project(s)**: [Autonomous Sail Boat](../projects/project3.html),[Autonomous UAV](../projects/project5.html);
     - **Papers**: NA.
 
 3. [Jomi Fred Hübner](http://lattes.cnpq.br/0526242321357828)
-    - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
-    - **Institution**: Autonomous System Labs - PPGCC/FACIN - UFSC University;
+    - **Research subjects**: autonomous agents, norm based programming for Multi-Agent Systems;
+    - **Institution**: ???? Labs - [PPGEAS](http://pgeas.ufsc.br/)/DAS - [UFSC University](http://ufsc.br/);
     - **Role**: Local coordinator;
     - **Project(s)**: [Planning for Agents](../projects/project6.html), [Autonomous UAV](../projects/project5.html);
     - **Papers**: NA.
 
-4. [Mario Reiss](http://lattes.cnpq.br/3254713655194108)
-    - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
-    - **Institution**: Autonomous System Labs - PPGCC/FACIN - UFRGS University;
+4. [Mario Luiz Lopes Reiss](http://lattes.cnpq.br/3254713655194108)
+    - **Research subjects**: photogrammetry using UAV;
+    - **Institution**: [Photogrammetry Laboratory(LaFoto)](https://www.ufrgs.br/lafoto/) - [IGEO](http://www.ufrgs.br/igeo/ig/) - [UFRGS University](http://www.ufrgs.br);
     - **Role**: Local coordinator;
     - **Project(s)**: [Autonomous UAV](../projects/project5.html);
     - **Papers**: NA.

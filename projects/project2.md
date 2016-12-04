@@ -5,7 +5,7 @@ title: POA Flooding
 
 ## Project description
 
-This project combines historical flooding data, digital elevation map, drainage network map, and real time preciptation data to forecast flooding in urban areas.
+This project combines historical flooding data, digital elevation map, drainage network map, and real time preciptation data to forecast flooding in urban areas of Porto Alegre.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
@@ -13,7 +13,7 @@ This project combines historical flooding data, digital elevation map, drainage 
 
  - Goal 1: tool for quering historical flooding events;
  - Goal 2: web-based application to add new flooding and precipitation data;
- - Goal 3: estimate if the drainage network requires maintanace;
+ - Goal 3: estimate where and when the drainage network requires maintenance;
  - Goal 4: estimate the amount of precipitation for the most commonly flooded areas.
 
 ### Milestones
@@ -26,13 +26,14 @@ This project combines historical flooding data, digital elevation map, drainage 
  - Milestone 6: add Digital Elevation Map to the database;
  - Milestone 7: add drainage network map to the database;
  - Milestone 8: get real time precipitation data from nearby weather stations.
+ - Milestone 9: integration with crowdsourcing GIS such as, for example, Nokia Here or TomTom.
 
 ### People
 
 
 #### Coordinator
 
- - prof. Regis Lahn, PUCRS University, links of the coordinator.
+ - prof. Regis Lahm, [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University.
 
 #### Academic Collaborators
 
@@ -40,9 +41,10 @@ This project combines historical flooding data, digital elevation map, drainage 
 
 #### Students
 
- - name, university, advisor, course, main tasks, links.
- - Everton, Master student on , 
- - Vagner, Master student on Computer Science, application design 
+ - Everton Quadros, master student on Science on Education/PUCRS, advised by Regis Lahm, role: GIS analysis.
+ - Vagner Macedo Martins, master student on Computer Science/PUCRS, advised by Alexandre Amory, role: application design.
+ - Carlisson Thomaz, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
+ - Alice Maura Dias, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
  
 
 ### Papers

@@ -5,7 +5,7 @@ title: Planning for Single/Multiple Agents
 
 ## Project description
 
-Brief description with some main image or diagram to explain the project.
+Decision-making software for autonomous behaviour of single or multiple agents.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
@@ -22,16 +22,23 @@ Brief description with some main image or diagram to explain the project.
 
 #### Coordinator
 
- - name, university, links of the coordinator.
+ - Rafael Bordini, PUCRS.
 
 #### Academic Collaborators
 
- - name, university, main role, links.
+ - Felipe Meneguzzi, PUCRS.
+ - Jomi Hübner, UFSC.
 
 #### Students
 
- - name, university, advisor, course, main tasks, links.
-
+ - Anderson Nascimento, Master student on Computer Science/PUCRS, advised by Felipe Meneguzzi.
+ - Guilherme  Villagran Barreto de Azevedo, Master student on Computer Science/PUCRS, advised by Felipe Meneguzzi.
+ - Maurício Cecílio Magnaguagno,  PhD student on Computer Science/PUCRS, advised by Felipe Meneguzzi.
+ - Rafael Cauê Cardoso,  PhD student on Computer Science/PUCRS, advised by Rafael Bordini.
+ - Tulio Lima Basegio,  PhD student on Computer Science/PUCRS, advised by Rafael Bordini.
+ - Tabajara Krausburg Rodrigues,  Master student on Computer Science/PUCRS, advised by Rafael Bordini.
+ - Marcelo Sousa Menegol, Master student UFSC, advised by Jomi Hübner.
+ 
 ### Papers
 
  - title and link. full bibio data is already available at ...

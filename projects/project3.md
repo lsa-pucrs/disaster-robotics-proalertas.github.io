@@ -5,7 +5,7 @@ title: Autonomous Sail Boat
 
 ## Project description
 
-Brief description with some main image or diagram to explain the project.
+Autonomous sail boat to monitor large bodies of water and oceans.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
@@ -22,15 +22,16 @@ Brief description with some main image or diagram to explain the project.
 
 #### Coordinator
 
- - name, university, links of the coordinator.
+ - Luiz Marcos, UFRN.
 
 #### Academic Collaborators
 
- - name, university, main role, links.
+ - Alexandre Amory, PUCRS.
 
 #### Students
 
- - name, university, advisor, course, main tasks, links.
+ - Renan Guedes Maidana, Master student on Computer Science/PUCRS, Adivised by Alexandre Amory, role: system localization, perception, integration to middleware.
+ - Marcelo Paravisi, PhD student on Computer Science/PUCRS, Adivised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
 
 ### Papers
 
@@ -40,6 +41,12 @@ Brief description with some main image or diagram to explain the project.
 
  - links to public repositories.
 
+### Main Hardware Resources
+
+ - NBoat.
+ - Zed Camera
+ - Jetson board by NVIDIA
+ 
 ### Media 
 
 videos and photos.

@@ -5,7 +5,7 @@ title: Master Project
 
 ## Project description
 
-Brief description with some main image or diagram to explain the project.
+Combine the technology created in the other projects into a single system.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
@@ -22,11 +22,13 @@ Brief description with some main image or diagram to explain the project.
 
 #### Coordinator
 
- - name, university, links of the coordinator.
+ - Alexandre Amory, MIR/FACIN/PUCRS.
 
 #### Academic Collaborators
 
- - name, university, main role, links.
+ - Felipe Meneguzzi, MIR/FACIN/PUCRS.
+ - Rafael Bordini, SMART/FACIN/PUCRS.
+ - Luiz Marcos, DCA/UFRN.
 
 #### Students
 
