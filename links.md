@@ -32,6 +32,8 @@ permalink: /links/
 
 - [Disaster Robotics Book](https://mitpress.mit.edu/books/disaster-robotics)
 - [Robin Murphy's TED Talk](https://www.ted.com/talks/robin_murphy_these_robots_come_to_the_rescue_after_a_disaster)
+- [Center for Robot-Assisted Search and Rescue (CRASAR)](http://crasar.org/)
+- [International Symposium on Safety, Security and Rescue Robotics (SSRR)](http://ssrrobotics.org/), [SSRR on IEEE](http://ieeexplore.ieee.org/xpl/conhome.jsp?reload=true&punumber=1001327)
  
 ## Others
 
