@@ -11,7 +11,7 @@ Decision-making software for autonomous behaviour of single or multiple agents.
 
 | | | 
 | --- | --- | 
-| ![AI](../images/ai.png "AI") |  ![planning](../images/planning.png "planning") | 
+| ![AI](../images/ia.png "AI") |  ![planning](../images/planning.png "planning") | 
 
 ### Goals
 

@@ -12,7 +12,7 @@ Aerial platform for photography and photogrammetry.
 
 | | | |
 | --- | --- | --- |
-| ![rescue](../images/rescue.png "for rescue") |  ![drone](../images/drone.png "drone") | ![AI](../images/ai.png "AI")  |
+| ![rescue](../images/rescue.png "for rescue") |  ![drone](../images/drone.png "drone") | ![AI](../images/ia.png "AI")  |
 
 ### Goals
 

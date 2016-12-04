@@ -13,7 +13,7 @@ Combine the technology created in the other projects into a single system.
 | --- | --- | --- | --- |
 | ![alerts](../images/alert.png "generates alerts") |   ![rescue](../images/rescue.png "for rescue") | ![mobile app](../images/mob-app.png "mobile app") |  ![sensors](../images/sensor.png "sensors") |
 |![drone](../images/drone.png "drone") |  ![land robot](../images/land-robot.png "land robot") | ![sail boat](../images/sail-boat.png "sail boat")  | ![electronics](../images/electronics.png "electronics")  |
-| ![AI](../images/ai.png "AI") |  ![planning](../images/planning.png "planning") |  ![GIS](../images/geo.png "GIS app")   |  |
+| ![AI](../images/ia.png "AI") |  ![planning](../images/planning.png "planning") |  ![GIS](../images/geo.png "GIS app")   |  |
 
 ### Goals
 
