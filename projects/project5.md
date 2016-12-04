@@ -10,6 +10,10 @@ Aerial platform for photography and photogrammetry.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
+| | | |
+| --- | --- | --- |
+| ![rescue](../images/rescue.png "for rescue") |  ![drone](../images/drone.png "drone") | ![AI](../images/ai.png "AI")  |
+
 ### Goals
 
  - Goal 1: brief description
@@ -19,35 +23,35 @@ Aerial platform for photography and photogrammetry.
  - Milestone 1: brief description; status (%)
 
 
-### People
+## People
 
-#### Coordinator
+### Coordinator
 
  - Luiz Marcos, UFRN.
  - Jomi Hübner, UFSC.
  - Mario Reiss, UFRGS.
 
-#### Academic Collaborators
+### Academic Collaborators
 
  - name, university, main role, links.
 
-#### Students
+### Students
 
  - name, university, advisor, course, main tasks, links.
 
-### Papers
+## Papers
 
  - title and link. full bibio data is already available at ...
 
-### Repositories
+## Repositories
 
  - links to public repositories.
 
-### Main Hardware Resources
+## Main Hardware Resources
 
  - drone ABC
 
-### Media 
+## Media 
 
 videos and photos.
 

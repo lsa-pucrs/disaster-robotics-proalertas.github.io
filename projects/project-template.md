@@ -18,29 +18,29 @@ Brief description with some main image or diagram to explain the project.
  - Milestone 1: brief description; status (%)
 
 
-### People
+## People
 
-#### Coordinator
+### Coordinator
 
  - name, university, links of the coordinator.
 
-#### Academic Collaborators
+### Academic Collaborators
 
  - name, university, main role, links.
 
-#### Students
+### Students
 
  - name, university, advisor, course, main tasks, links.
 
-### Papers
+## Papers
 
  - title and link. full bibio data is already available at ...
 
-### Repositories
+## Repositories
 
  - links to public repositories.
 
-### Media 
+## Media 
 
 videos and photos.
 

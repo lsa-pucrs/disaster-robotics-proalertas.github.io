@@ -9,6 +9,10 @@ Decision-making software for autonomous behaviour of single or multiple agents.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
+| | | 
+| --- | --- | 
+| ![AI](../images/ai.png "AI") |  ![planning](../images/planning.png "planning") | 
+
 ### Goals
 
  - Goal 1: brief description
@@ -18,18 +22,18 @@ Decision-making software for autonomous behaviour of single or multiple agents.
  - Milestone 1: brief description; status (%)
 
 
-### People
+## People
 
-#### Coordinator
+### Coordinator
 
  - Rafael Bordini, PUCRS.
 
-#### Academic Collaborators
+### Academic Collaborators
 
  - Felipe Meneguzzi, PUCRS.
  - Jomi Hübner, UFSC.
 
-#### Students
+### Students
 
  - Anderson Nascimento, Master student on Computer Science/PUCRS, advised by Felipe Meneguzzi.
  - Guilherme  Villagran Barreto de Azevedo, Master student on Computer Science/PUCRS, advised by Felipe Meneguzzi.
@@ -39,15 +43,15 @@ Decision-making software for autonomous behaviour of single or multiple agents.
  - Tabajara Krausburg Rodrigues,  Master student on Computer Science/PUCRS, advised by Rafael Bordini.
  - Marcelo Sousa Menegol, Master student UFSC, advised by Jomi Hübner.
  
-### Papers
+## Papers
 
  - title and link. full bibio data is already available at ...
 
-### Repositories
+## Repositories
 
  - links to public repositories.
 
-### Media 
+## Media 
 
 videos and photos.
 

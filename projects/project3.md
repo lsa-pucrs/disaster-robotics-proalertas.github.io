@@ -9,6 +9,11 @@ Autonomous sail boat to monitor large bodies of water and oceans.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
+| | | |
+| --- | --- | --- |
+| ![sail boat](../images/sail-boat.png "sail boat") |  ![electronics](../images/electronics.png "electronics") | ![sensors](../images/sensor.png "sensors") |
+
+
 ### Goals
 
  - Goal 1: brief description
@@ -18,36 +23,36 @@ Autonomous sail boat to monitor large bodies of water and oceans.
  - Milestone 1: brief description; status (%)
 
 
-### People
+## People
 
-#### Coordinator
+### Coordinator
 
  - Luiz Marcos, UFRN.
 
-#### Academic Collaborators
+### Academic Collaborators
 
  - Alexandre Amory, PUCRS.
 
-#### Students
+### Students
 
  - Renan Guedes Maidana, Master student on Computer Science/PUCRS, Adivised by Alexandre Amory, role: system localization, perception, integration to middleware.
  - Marcelo Paravisi, PhD student on Computer Science/PUCRS, Adivised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
 
-### Papers
+## Papers
 
  - title and link. full bibio data is already available at ...
 
-### Repositories
+## Repositories
 
  - links to public repositories.
 
-### Main Hardware Resources
+## Main Hardware Resources
 
  - NBoat.
  - Zed Camera
  - Jetson board by NVIDIA
  
-### Media 
+## Media 
 
 videos and photos.
 
