@@ -9,6 +9,12 @@ This project combines historical flooding data, digital elevation map, drainage 
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
+| | |
+| --- | --- |
+| ![Foo](../images/alert.png) |  ![Foo](../images/mob-app.png)  |
+| ![Foo](../images/geo.jpg)  | ![Foo](../images/sensor.png) |
+
+
 ### Goals
 
  - Goal 1: tool for quering historical flooding events;
