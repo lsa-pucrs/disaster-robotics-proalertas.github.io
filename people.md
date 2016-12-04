@@ -11,28 +11,28 @@ permalink: /people/
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
     - **Institution**: Autonomous System Labs(LSA) - [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/FACIN - PUCRS University;
     - **Role**: Main coordinator;
-    - **Project(s)**: [Poa Flooding](./projects/project2.html), [Autonomous Boat](./projects/project4.html);
+    - **Project(s)**: [Poa Flooding](../projects/project2.html), [Autonomous Boat](../projects/project4.html);
     - **Papers**: NA.
 
 2. [Luiz Marcos Gonçalves](http://lattes.cnpq.br/1562357566810393)
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
     - **Institution**: Autonomous System Labs - PPGCC/FACIN - UFRN University;
     - **Role**: Local coordinator;
-    - **Project(s)**: [Autonomous Sail Boat](./projects/project3.html),[Autonomous UAV](./projects/project5.html);
+    - **Project(s)**: [Autonomous Sail Boat](../projects/project3.html),[Autonomous UAV](../projects/project5.html);
     - **Papers**: NA.
 
 3. [Jomi Fred Hübner](http://lattes.cnpq.br/0526242321357828)
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
     - **Institution**: Autonomous System Labs - PPGCC/FACIN - UFSC University;
     - **Role**: Local coordinator;
-    - **Project(s)**: [Autonomous UAV](./projects/project5.html);
+    - **Project(s)**: [Autonomous UAV](../projects/project5.html);
     - **Papers**: NA.
 
 4. [Mario Reiss](http://lattes.cnpq.br/3254713655194108)
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
     - **Institution**: Autonomous System Labs - PPGCC/FACIN - UFRGS University;
     - **Role**: Local coordinator;
-    - **Project(s)**: [Autonomous UAV](./projects/project5.html);
+    - **Project(s)**: [Autonomous UAV](../projects/project5.html);
     - **Papers**: NA.
     
 ## Academic Staff
