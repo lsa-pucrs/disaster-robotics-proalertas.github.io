@@ -38,7 +38,7 @@ permalink: /people/
 ## Academic Staff
 
 1. [Aurélio Tergolina Salton](http://lattes.cnpq.br/7181063742089743)
-    - **Research subjects**: control, sesor fusion;
+    - **Research subjects**: control, sensor fusion;
     - **Institution**: [GACS](http://www.feng.pucrs.br/~gacs/) - PPGEE/FACIN - PUCRS University;
     - **Project(s)**: [Autonomous Boat](../projects/project4.html);
     - **Papers**: NA
