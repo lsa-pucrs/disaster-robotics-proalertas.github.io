@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Resources
+permalink: /resources/
 ---
+
 
 ## [Pró-Alertas Disaster Robotics](./pro-alertas.html)
 - Large project involving 4 universities and tens of researchers to build a robotic framework to help in case of disasters.
