@@ -1,14 +1,14 @@
 # Site settings
-name: disaster-robotics-proalertas
+name: lsa pucrs
 email: 
 author: 
 
-keywords: disaster robotics proalertas
+keywords: robotics
 description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://disaster-robotics-proalertas.github.io"
+  url: "https://lsa-pucrs.github.io"
 
 header: yes
 header_sm: images/banner-small.jpg

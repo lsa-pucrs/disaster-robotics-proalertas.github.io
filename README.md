@@ -1,4 +1,4 @@
-# [disaster-robotics-proalertas.github.io](https://disaster-robotics-proalertas.github.io)
+# [lsa-pucrs.github.io](https://lsa-pucrs.github.io)
 **Organization website**
 
 Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pickins-jekyll-theme).
@@ -14,9 +14,8 @@ Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pick
   - Each project is described in detail in a Markdown file at [projects/](projects/)
 - Publications at [publications.md](publications.md) use a [BibBase](https://bibbase.org/) script 
   - Publication data is stored at [publications.bib](publications.bib)
-- Media at [media.md](media.md)
+- Hardware reseources at [resources.md](resources.md)
 - Links at [links.md](links.md)
-- Contact information at [contact.md](contact.md)
 
 ## TODOs
 - Fill pages with info
