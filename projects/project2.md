@@ -1,6 +1,6 @@
 ---
 layout: page
-title: POA Flooding
+title: Painter robot for shipbuilding
 ---
 
 ## Project description

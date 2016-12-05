@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planning for Single/Multiple Agents 
+title: Roffi biped robot
 ---
 
 ## Project description

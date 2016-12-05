@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous UAV
+title: Gripper for Turtlebot
 ---
 
 ## Project description

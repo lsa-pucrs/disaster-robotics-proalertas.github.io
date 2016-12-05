@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Boat
+title: Donnie: assistive robot
 ---
 
 ## Project description

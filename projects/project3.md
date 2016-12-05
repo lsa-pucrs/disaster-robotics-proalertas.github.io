@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Sail Boat
+title: Autonomous deminig robot
 ---
 
 ## Project description

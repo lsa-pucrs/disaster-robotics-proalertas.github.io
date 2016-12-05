@@ -1,0 +1,34 @@
+@phdthesis{wachter2015,
+    title    = {{Layered approach for runtime fault recovery in NOC-Based MPSOCS}},
+    school   = {Faculdade de Informática, {Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)}},
+    author   = {Wachter, Eduardo Weber},
+    year     = {2015},
+    address  = {Porto Alegre, Brasil},
+    keywords = {GAPH,MPSoC, fault tolerance, coadvised},
+    url_link = {http://hdl.handle.net/10923/7538},
+    abstract   = {Mechanisms for fault-tolerance in MPSoCs are mandatory to cope with defects during fabrication or faults during product lifetime. For instance, permanent faults on the interconnect network can stall or crash applications, even though the MPSoCs’ network has alternative faultfree paths to a given destination. Runtime Fault Tolerance provide self-organization mechanisms to continue delivering their processing services despite defective cores due to the presence of permanent and/or transient faults throughout their lifetime. This Thesis presents a runtime layered approach to a fault-tolerant MPSoC, where each layer is responsible for solving one part of the problem. The approach is built on top of a novel small specialized network used to search fault-free paths. The first layer, named physical layer, is responsible for the fault detection and fault isolation of defective routers. The second layer, named the network layer, is responsible for replacing the original faulty path by an alternative fault-free path. A fault-tolerant routing method executes a path search mechanism and reconfigures the network to use the faulty-free path. The third layer, named transport layer, implements a fault-tolerant communication protocol that triggers the path search in the network layer when a packet does not reach its destination.The last layer, application layer, is responsible for moving tasks from the defective processing element (PE) to a healthy PE, saving the task’s internal state, and restoring it in case of fault while executing a task. Results at the network layer, show a fast path finding method. The entire process of finding alternative paths takes typically less than 2000 clock cycles or 20 microseconds. In the transport layer, different approaches were evaluated being capable of detecting a lost message and start the retransmission. The results show that the overhead to retransmit the message is 2.46X compared to the time to transmit a message without fault, being all other messages transmitted with no overhead. For the DTW, MPEG, and synthetic applications the average-case application execution overhead was 0.17%, 0.09%, and 0.42%, respectively. This represents less than 5% of the application execution overhead worst case. At the application layer, the entire fault recovery protocol executes fast, with a low execution time overhead with no faults (5.67%) and with faults (17.33% - 28.34%).}
+}
+
+
+@mastersthesis{morais2015,
+  author     = {Morais, Márcio Godoy},
+  title      = {{Integration of a multi-agent system into a robotic framework: a case study of a cooperative fault diagnosis application}},
+  school     = {Faculdade de Informática, {Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)}},
+  year       = {2015},
+  address    = {Porto Alegre, Brasil},
+  url_link   = {http://hdl.handle.net/10923/7687},
+  keywords   = {LSA,robotics, amory},
+  abstract   = {Programming multi-robot autonomous systems can be extremely complex without appropriate software development techniques to abstract hardware faults, as well as can be hard to deal with the complexity of software required the coordinated autonomous behavior. Real environments are dynamic and unexpected events may occur, leading a robot to unforeseen situations or even fault situations. This work presents a method of integration of Jason multi-agent system into ROS robotic framework. Through this integration, can be easier to describe complex missions by using Jason agent language and its resources, as well as abstracting hardware details from the decision-taken process. Moreover, software modules related to the hardware control and modules which have a high CPU cost are separated from the planning and decision-taken process in software layers, allowing plan and software modules reuse in different missions and robots.Through this integration, Jason resources such as plans reconsideration and contingency plans can be used in a way where they can enable the robot to reconsider its actions and strategies in order to reach its goals or to take actions to deal with unforeseen situations due the environment unpredictability or even some robot hardware fault. The presented integration method also allows the cooperation between multiple robots through a standardized language of communication between agents. The proposed method is validated by a case study applied in real robots where a robot can detect a fault in its hardware and diagnose it through the help of another robot, in a highly abstract method of cooperative diagnosis.}
+}
+
+@mastersthesis{romani2015,
+  author     = {Roman, Felipe de Fraga},
+  title      = {{Fault supervision for multi robotics systems}},
+  school     = {Faculdade de Informática, {Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)}},
+  year       = {2015},
+  address    = {Porto Alegre, Brasil},
+  url_link   = {http://hdl.handle.net/10923/7732},
+  keywords   = {LSA,robotics, amory},
+  abstract   = {As robotics becomes more common and people start to use it in routine tasks, dependability becomes more and more relevant to create trustworthy solutions. A commonly used approach to provide reliability and availability is the use of multi robots instead of a single robot. However, in case of a large teams of robots (tens or more), determining the system status can be a challenge. This work presents a runtime monitoring solution for Multi Robotic Systems. It integrates Nagios IT Monitoring tool and ROS robotic middleware. One of the potential advantages of this approach is that the use of a consolidated IT infrastructure tool enables the reuse of several relevant features developed to monitor large datacenters. Another important advantage of that this solution does not require additional software at the robot side. The experimental results demonstrate that the proposed monitoring system has a small performance impact on the robot and the monitoring server can easily support hundreds or even thousands of monitored robots.}
+}
+

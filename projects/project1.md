@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master Project
+title: Pró-Alertas Disaster Robotics
 ---
 
 ## Project description

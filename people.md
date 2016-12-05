@@ -10,42 +10,19 @@ permalink: /people/
 1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
     - **Institution**: Autonomous System Labs(LSA) - [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
-    - **Role**: Main coordinator;
     - **Project(s)**: [Master Project](../projects/project1.html), [Poa Flooding](../projects/project2.html), [Autonomous Boat](../projects/project4.html);
-    - **Papers**: NA.
+1. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
+    - **Research subjects**: ;
+    - **Institution**: [MIR](https://mir-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
+    - **Project(s)**: [Planning for Agents](../projects/project6.html), [Autonomous Boat](../projects/project4.html);
 
-2. [Luiz Marcos Garcia Gonçalves](http://lattes.cnpq.br/1562357566810393)
-    - **Research subjects**: embedded system, computer vision, robotics, control;
-    - **Institution**: ???? Labs - [DCA](http://www.dca.ufrn.br/) - [UFRN University](http:/www.ufrn.br/);
-    - **Role**: Local coordinator;
-    - **Project(s)**: [Autonomous Sail Boat](../projects/project3.html),[Autonomous UAV](../projects/project5.html);
-    - **Papers**: NA.
-
-3. [Jomi Fred Hübner](http://lattes.cnpq.br/0526242321357828)
-    - **Research subjects**: autonomous agents, norm based programming for Multi-Agent Systems;
-    - **Institution**: [PPGEAS](http://pgeas.ufsc.br/)/DAS - [UFSC University](http://ufsc.br/);
-    - **Role**: Local coordinator;
-    - **Project(s)**: [Planning for Agents](../projects/project6.html), [Autonomous UAV](../projects/project5.html);
-    - **Papers**: NA.
-
-4. [Mario Luiz Lopes Reiss](http://lattes.cnpq.br/3254713655194108)
-    - **Research subjects**: photogrammetry using UAV;
-    - **Institution**: [Photogrammetry Laboratory(LaFoto)](https://www.ufrgs.br/lafoto/) - [IGEO](http://www.ufrgs.br/igeo/ig/) - [UFRGS University](http://www.ufrgs.br);
-    - **Role**: Local coordinator;
-    - **Project(s)**: [Autonomous UAV](../projects/project5.html);
-    - **Papers**: NA.
     
-## Academic Staff
+## Academic Collaborators
 
 1. [Aurélio Tergolina Salton](http://lattes.cnpq.br/7181063742089743)
     - **Research subjects**: control, sensor fusion;
     - **Institution**: [GACS](http://www.feng.pucrs.br/~gacs/) - PPGEE/FACIN - PUCRS University;
     - **Project(s)**: [Autonomous Boat](../projects/project4.html);
-    - **Papers**: NA
-1. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
-    - **Research subjects**: ;
-    - **Institution**: [MIR](https://mir-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
-    - **Project(s)**: [Planning for Agents](../projects/project6.html), [Autonomous Boat](../projects/project4.html);
     - **Papers**: NA
 1. [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690)
     - **Research subjects**: ;
@@ -62,8 +39,19 @@ permalink: /people/
     - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
     - **Project(s)**: [Poa Flooding](../projects/project2.html);
     - **Papers**: NA
+1. [Edson Prestes](http://lattes.cnpq.br/)
+    - **Research subjects**: ;
+    - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
+    - **Project(s)**: [Poa Flooding](../projects/project2.html);
+    - **Papers**: NA
+2. [Luiz Marcos Garcia Gonçalves](http://lattes.cnpq.br/1562357566810393)
+    - **Research subjects**: embedded system, computer vision, robotics, control;
+    - **Institution**: ???? Labs - [DCA](http://www.dca.ufrn.br/) - [UFRN University](http:/www.ufrn.br/);
+    - **Role**: Local coordinator;
+    - **Project(s)**: [Autonomous Sail Boat](../projects/project3.html),[Autonomous UAV](../projects/project5.html);
+    - **Papers**: NA.
     
-## Research Students
+## Students
 
 ### Pos-Doc
 
@@ -83,20 +71,6 @@ permalink: /people/
     - **Monography title**: Navegação de barcos autônomos
     - **Project(s)**: [Autonomous Boat](../projects/project4.html), [Autonomous Sail Boat](../projects/project3.html), [Master Project](../projects/project1.html);
     - **Conclusion date**: Jul/2020
-    - **Papers**: NA
-1. [Tulio Lima Basegio](http://lattes.cnpq.br/6921752096982888)
-    - **Degree**: PhD in Computer Science - PUCRS
-    - **Advisors**: Rafael Bordini
-    - **Monography title**: Alocação Dinâmica de Tarefas em Times de Agentes Heterogêneos
-    - **Project(s)**: [Planning for Agents](../projects/project6.html)
-    - **Conclusion date**: 
-    - **Papers**: NA
-1. [Rafael Cauê Cardoso](http://lattes.cnpq.br/8923327438861033)
-    - **Degree**: PhD in Computer Science - PUCRS
-    - **Advisors**: Rafael Bordini
-    - **Monography title**: [Distributed Online Multi-Agent Planning framework (DOMAP)](https://github.com/smart-pucrs/DOMAP)
-    - **Project(s)**: [Planning for Agents](../projects/project6.html)
-    - **Conclusion date**: Mar/2018
     - **Papers**: NA
 1. [Maurício Cecílio Magnaguagno](http://lattes.cnpq.br/9371795006843888)
     - **Degree**: PhD in Computer Science - PUCRS
@@ -122,13 +96,6 @@ permalink: /people/
     - **Project(s)**: [Poa Flooding](../projects/project2.html)
     - **Conclusion date**: Aug/2018
     - **Papers**: NA
-1. [Tabajara Krausburg Rodrigues](http://lattes.cnpq.br/5382334937056578)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Rafael Bordini
-    - **Monography title**: Formação de Times Mistos Robô-Humanos em Situações de Resgate em Desastres Naturais
-    - **Project(s)**: [Planning for Agents](../projects/project6.html)
-    - **Conclusion date**: 
-    - **Papers**: NA
 1. [Guilherme Villagran Barreto de Azevedo](http://lattes.cnpq.br/8032574985840371)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi and Aurélio Salton
@@ -143,45 +110,11 @@ permalink: /people/
     - **Project(s)**: [Planning for Agents](../projects/project6.html)
     - **Conclusion date**: Agosto/2017
     - **Papers**: NA
-1. [Mateus Eugenio Colet](http://lattes.cnpq.br/1208210801446212)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Isabel H. Manssour
-    - **Monography title**: Um Método para Identificação de Superfície Aquática Turva para Navegação Autônoma
-    - **Project(s)**: [Autonomous Boat](../projects/project4.html)
-    - **Conclusion date**: March/2016
-    - **Papers**: NA
-1. [Everton Quadros](http://lattes.cnpq.br/6503462375302976)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Regis Lahm
-    - **Monography title**: Previsão de alagamento urbano baseados em dados de redes sociais
-    - **Project(s)**: [Poa Flooding](../projects/project2.html)
-    - **Conclusion date**: Jun/2017
-    - **Papers**: NA
-1. [Marcelo Sousa Menegol](https://www.linkedin.com/in/marcelo-sousa-menegol-655558113)
-    - **Degree**: Master in Engineering and Automation - UFSC
-    - **Advisors**: Jomi F. Hubner 
-    - **Monography title**: Coordenação de VANTS considerando consumo de energia
-    - **Project(s)**: [Planning for Agents](../projects/project6.html), [Autonomous UAV](../projects/project5.html)
-    - **Conclusion date**: Mar/2018
-    - **Papers**: NA
     
 ### Undergraduate
 
-1. [Carlisson Thomaz](http://lattes.cnpq.br/1127283294820193)
-    - **Degree**: Undergradute student in Geography - PUCRS
-    - **Advisors**: Regis Lahm
-    - **Monography title**: Previsão de alagamento urbano baseados em dados de redes sociais
-    - **Project(s)**: [Poa Flooding](./projects/project2.html)
-    - **Conclusion date**: 
-    - **Papers**: NA
+
 1. [Alice Maura Dias](http://lattes.cnpq.br/3168851231239141)
-    - **Degree**: Undergradute student in Geography - PUCRS
-    - **Advisors**: Regis Lahm
-    - **Monography title**: Previsão de alagamento urbano baseados em dados de redes sociais
-    - **Project(s)**: [Poa Flooding](../projects/project2.html)
-    - **Conclusion date**: 
-    - **Papers**: NA
-1. 
     - **Degree**: Undergradute student in Geography - PUCRS
     - **Advisors**: 
     - **Monography title**: 
@@ -190,6 +123,45 @@ permalink: /people/
     - **Papers**: NA
 
 
-## Main Collaborators
-- Foo person
-  - Bar link
+
+### Former Graduated Students
+
+## PhD
+
+1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    - **Monography title**: Bottom up induction of HTN methods
+    - **Project(s)**: [Planning for Agents](../projects/project6.html)
+    - **Conclusion date**: Agosto/2017
+    - **Papers**: NA
+
+## Master
+
+1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    - **Monography title**: Bottom up induction of HTN methods
+    - **Project(s)**: [Planning for Agents](../projects/project6.html)
+    - **Conclusion date**: Agosto/2017
+    - **Papers**: NA
+
+## End of Term Project
+
+1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    - **Monography title**: Bottom up induction of HTN methods
+    - **Project(s)**: [Planning for Agents](../projects/project6.html)
+    - **Conclusion date**: Agosto/2017
+    - **Papers**: NA
+
+## Undergraduate Research Assistant
+
+1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    - **Monography title**: Bottom up induction of HTN methods
+    - **Project(s)**: [Planning for Agents](../projects/project6.html)
+    - **Conclusion date**: Agosto/2017
+    - **Papers**: NA
