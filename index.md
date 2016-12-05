@@ -10,4 +10,6 @@ The laboratory combines researchers from different areas (embedded systems, comp
 
 Undergraduate, master, phd, pos-doc positions are available. Interested students must send CV to LINK.  
 
-![Alt text](./proj1.jpg?raw=true "Project diagram")
+| | | |
+| --- | --- | --- |
+| <a href="http://mir-pucrs.github.io" rel="MIR">![Machine Inteligence and Robotics (MIR) Nucleus](../images/mir-logo.png "Machine Inteligence and Robotics (MIR) Nucleus")</a> |  <a href="http://www.pucrs.br/facin/ppgcc/" rel="PPGCC">![PPGCC/FACIN](../images/facin.jpg "PPGCC/FACIN")</a> | <a href="http://www.pucrs.br/" rel="PUCRS">![PUCRS University](../images/pucrs.png "PUCRS University")</a>  |
