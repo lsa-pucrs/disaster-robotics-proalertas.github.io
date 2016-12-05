@@ -4,42 +4,38 @@ title: Links
 permalink: /links/
 ---
 
-## Universities
+## Partner Groups
 
-| | |
-| --- | --- |
-| <a href="http://www.pucrs.br/" rel="PUCRS">![Foo](../images/pucrs.png)</a> |  <a href="http://www.ufsc.br/" rel="UFSC">![Foo](../images/ufsc.png)</a>    |
-| <a href="http://www.ufrn.br/" rel="UFRN">![Foo](../images/ufrn.png)</a>    |  <a href="http://www.ufrgs.br/" rel="UFRGS">![Foo](../images/ufrgs.jpg)</a> |
-
-
-## Research Groups
-
-
- - [Machine Intelligence and Robotics (MIR)](https://mir-pucrs.github.io/) - PUCRS
- - [Autonomous System Lab (LSA)](http://lsa.pucrs.br/) - PUCRS
  - [Semantic, Multi-Agent, and Robotic Technologies (SMART)](https://smart-pucrs.github.io/) - PUCRS
  - [Grupo de Automação e Controle de Sistemas (GACS)](http://www.feng.pucrs.br/~gacs/) - PUCRS
+ - [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
  - [Laboratório de Pesquisas em Fotogrametria (LAFOTO)](https://www.ufrgs.br/lafoto/) - UFRGS
+ --[Phi - Robotics Research Groupy(phi)](http://www.inf.ufrgs.br/phi-group/phi-r2/Welcome.html) - [Computer Science Graduate Program (PPGC)](http://www.inf.ufrgs.br/ppgc/); 
+ - UNISC
  - UFSC
  - UFRN
 
+## Funding Agencies and Companies
 
-## Related Projects 
- 
-- PVE Felipe
+### Governmental 
 
-## More on Robots for Disaster
+ | | | |
+| --- | --- | --- |
+|  <a href="http://www.capes.gov.br/" rel="CAPES">![CAPES](../images/capes.png)</a>  |   <a href="http://www.cnpq.gov.br/" rel="CNPq">![CNPq](../images/cnpq.png)</a>  | <a href="http://www.scit.rs.gov.br/" rel="SCIT/RS">![SCIT/RS](../images/scit.png "SCIT/RS")</a>  |
 
-- [Disaster Robotics Book](https://mitpress.mit.edu/books/disaster-robotics)
-- [Robin Murphy's TED Talk](https://www.ted.com/talks/robin_murphy_these_robots_come_to_the_rescue_after_a_disaster)
-- [Center for Robot-Assisted Search and Rescue (CRASAR)](http://crasar.org/)
-- [International Symposium on Safety, Security and Rescue Robotics (SSRR)](http://ssrrobotics.org/), [SSRR on IEEE](http://ieeexplore.ieee.org/xpl/conhome.jsp?reload=true&punumber=1001327)
- 
-## Others
+### Companies 
 
-- <a href="http://www.cemaden.gov.br/" rel="CEMADEN">![Foo](../images/cemaden.jpg)</a> 
-- <a href="http://www.capes.gov.br/" rel="CAPES">![Foo](../images/capes.png)</a> 
-- [CAPES Pró-Alertas](http://www.capes.gov.br/bolsas/programas-especiais/pro-alertas)
+ | | | |
+| --- | --- | --- |
+|  <a href="http://www.instor.com.br/" rel="INSTOR">![INSTOR](../images/instor.png)</a>  |   <a href="http://www.cnpq.gov.br/" rel="CNPq">![CNPq](../images/cnpq.png)</a>  | <a href="http://www.scit.rs.gov.br/" rel="SCIT/RS">![SCIT/RS](../images/scit.png "SCIT/RS")</a>  |
+
+
+## Main Conferences
+
+
+## Main Journals
+
+
+## Main Hardware Providers
+
 - [Platypus autonomous boats](http://senseplatypus.com/)
-
- 

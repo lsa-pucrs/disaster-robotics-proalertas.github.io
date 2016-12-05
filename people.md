@@ -25,12 +25,12 @@ permalink: /people/
     - **Project(s)**: [Autonomous Boat](../projects/project4.html);
     - **Papers**: NA
 1. [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690)
-    - **Research subjects**: ;
+    - **Research subjects**: computer vision;
     - **Institution**: Autonomous System Labs(LSA) - PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Autonomous Boat](../projects/project4.html);
     - **Papers**: NA
 1. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
-    - **Research subjects**: ;
+    - **Research subjects**: AI, multi-agents systems;
     - **Institution**: [SMART](https://smart-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Planning for Agents](../projects/project6.html), [Autonomous Boat](../projects/project4.html);
     - **Papers**: NA    
@@ -39,8 +39,8 @@ permalink: /people/
     - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
     - **Project(s)**: [Poa Flooding](../projects/project2.html);
     - **Papers**: NA
-1. [Edson Prestes](http://lattes.cnpq.br/)
-    - **Research subjects**: ;
+1. [Edson Prestes](http://lattes.cnpq.br/2604911000898464)
+    - **Research subjects**: Robotics, ontologies for robotics, robot ethics, positive robotics;
     - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
     - **Project(s)**: [Poa Flooding](../projects/project2.html);
     - **Papers**: NA
@@ -69,14 +69,14 @@ permalink: /people/
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
     - **Monography title**: Navegação de barcos autônomos
-    - **Project(s)**: [Autonomous Boat](../projects/project4.html), [Autonomous Sail Boat](../projects/project3.html), [Master Project](../projects/project1.html);
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas.html)
     - **Conclusion date**: Jul/2020
     - **Papers**: NA
 1. [Maurício Cecílio Magnaguagno](http://lattes.cnpq.br/9371795006843888)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
     - **Monography title**: Search-space pruning for Symbolic-Geometric Planning 
-    - **Project(s)**: [Planning for Agents](../projects/project6.html)
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas.html)
     - **Conclusion date**: Mar/2020
     - **Papers**: NA
     
@@ -86,21 +86,21 @@ permalink: /people/
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory and Aurélio Salton
     - **Monography title**: Sistema modular de localização e percepção de barcos autônomos
-    - **Project(s)**: [Autonomous Boat](../projects/project4.html)
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas.html)
     - **Conclusion date**: Jan/2018
     - **Papers**: NA
 1. [Vagner Macedo Martins](http://lattes.cnpq.br/3353898327493243)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
     - **Monography title**: Previsão de alagamento urbano baseados em dados de redes sociais
-    - **Project(s)**: [Poa Flooding](../projects/project2.html)
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas.html)
     - **Conclusion date**: Aug/2018
     - **Papers**: NA
 1. [Guilherme Villagran Barreto de Azevedo](http://lattes.cnpq.br/8032574985840371)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi and Aurélio Salton
     - **Monography title**: Symbolic-geometric planning for Non-Holonomic Robotics
-    - **Project(s)**: [Planning for Agents](../projects/project6.html), [Autonomous Boat](../projects/project4.html)
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas.html)
     - **Conclusion date**: Mar/2018
     - **Papers**: NA
 1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
@@ -114,14 +114,18 @@ permalink: /people/
 ### Undergraduate
 
 
-1. [Alice Maura Dias](http://lattes.cnpq.br/3168851231239141)
-    - **Degree**: Undergradute student in Geography - PUCRS
-    - **Advisors**: 
-    - **Monography title**: 
-    - **Project(s)**:
+1. [Guilherme Henrique Marculino Marques](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8705844Y2)
+    - **Degree**: Undergradute student in Computer Engineering - PUCRS
+    - **Advisors**: Alexandre Amory
+    - **Project(s)**: [Donnie](../projects/donnie.hmtl), [Turtlebot gripper](../projects/turtle-gripper.html),  [Roffi](../projects/roffi.html)
     - **Conclusion date**: 
     - **Papers**: NA
-
+1. [Augusto Cezar Peschke Bergamin]()
+    - **Degree**: Undergradute student in Computer Engineering - PUCRS
+    - **Advisors**: Alexandre Amory
+    - **Project(s)**: [Donnie](../projects/donnie.hmtl), [Demining robot](../projects/hratc.hmtl)
+    - **Conclusion date**: 
+    - **Papers**: NA
 
 
 ### Former Graduated Students
@@ -138,14 +142,28 @@ permalink: /people/
 
 ## Master
 
-1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
+1. [Marcio Godoy Morais](http://lattes.cnpq.br/8817950522501166)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Alexandre Amory
+    - **Monography title**: [Integration of a multi-agent system into a robotic framework: a case study of a cooperative fault diagnosis application](http://repositorio.pucrs.br/dspace/handle/10923/7687)
+    - **Project(s)**: 
+    - **Conclusion date**: March/2015
+    - **Papers**: NA
+1. [Felipe Roman](http://lattes.cnpq.br/8817950522501166)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Alexandre Amory
+    - **Monography title**: [Fault supervision for multi robotics systems](http://repositorio.pucrs.br/dspace/handle/10923/7732)
+    - **Project(s)**: 
+    - **Conclusion date**: March/2015
+    - **Papers**: NA
+1. [Rodrigo Weiz]()
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
-    - **Monography title**: Bottom up induction of HTN methods
-    - **Project(s)**: [Planning for Agents](../projects/project6.html)
-    - **Conclusion date**: Agosto/2017
+    - **Monography title**: 
+    - **Project(s)**: 
+    - **Conclusion date**: March/2015
     - **Papers**: NA
-
+    
 ## End of Term Project
 
 1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
