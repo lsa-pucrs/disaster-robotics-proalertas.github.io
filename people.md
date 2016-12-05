@@ -23,7 +23,7 @@ permalink: /people/
 
 3. [Jomi Fred Hübner](http://lattes.cnpq.br/0526242321357828)
     - **Research subjects**: autonomous agents, norm based programming for Multi-Agent Systems;
-    - **Institution**: ???? Labs - [PPGEAS](http://pgeas.ufsc.br/)/DAS - [UFSC University](http://ufsc.br/);
+    - **Institution**: [PPGEAS](http://pgeas.ufsc.br/)/DAS - [UFSC University](http://ufsc.br/);
     - **Role**: Local coordinator;
     - **Project(s)**: [Planning for Agents](../projects/project6.html), [Autonomous UAV](../projects/project5.html);
     - **Papers**: NA.
@@ -158,7 +158,7 @@ permalink: /people/
     - **Conclusion date**: Jun/2017
     - **Papers**: NA
 1. [Marcelo Sousa Menegol](https://www.linkedin.com/in/marcelo-sousa-menegol-655558113)
-    - **Degree**: Master in Computer Science - UFSC
+    - **Degree**: Master in Engineering and Automation - UFSC
     - **Advisors**: Jomi F. Hubner 
     - **Monography title**: Coordenação de VANTS considerando consumo de energia
     - **Project(s)**: [Planning for Agents](../projects/project6.html), [Autonomous UAV](../projects/project5.html)
