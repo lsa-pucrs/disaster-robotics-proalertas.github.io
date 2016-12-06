@@ -7,6 +7,9 @@ permalink: /projects/
 ## [Pró-Alertas Disaster Robotics](projects/pro-alertas)
 - Large project involving 4 universities and tens of researchers to build a robotic framework to help in case of disasters.
 
+## [Autonomous boats for environmental monitoring](projects/pve-boats)
+- multi-robot programming environment to control two autonomous boat able to collect water pollution data and bathymetry.
+
 ## [Painter robot](projects/instor)
 - A magnetic robot for paiting metalic structures, like ship hull and oil tanks.
 

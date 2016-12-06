@@ -18,6 +18,8 @@
     subhref: "/projects/hratc"
   - subtitle: "Donnie: assistive robot"
     subhref: "/projects/donnie"
+  - subtitle: "Environmental monitoring boats"
+    subhref: "/projects/pve-boats"
   - subtitle: "Undergraduate robot projects"
     subhref: "/projects/undergrad-robots"
 
