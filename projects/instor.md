@@ -5,46 +5,56 @@ title: Painter robot for shipbuilding
 
 ## Project description
 
-This project combines historical flooding data, digital elevation map, drainage network map, hydrography analysis, and real time preciptation data to forecast flooding in urban areas of Porto Alegre.
+Large metal structures such as oil tanks and large ships requires regular mantainance to reduce the effects of corrosion.
+Painting is one of the tasks regularly performed to increase the lifespam of these structures.
+However, the manual painting process takes a long time. In addition it is unhealthy and unsafe for the worker.
 
-![Alt text](./proj1.jpg?raw=true "Project diagram")
+The goal of this project is to design a robot, in cooperation with [Instor](www.instor.com.br) and [UNISC](), and partially funded by [SCIT/RS](www.scit.rs.gov.br).
+
+![](../images/projects/instor/instor-model.jpg)
+![](../images/projects/instor/instor-robot.jpg)
+
+---
+
+![](../images/projects/instor/shipbuilding.jpg)
+![](../images/projects/instor/tanque.jpg)
+
 
 | | | | |
-| --- | --- | --- | --- |
-| ![alerts](../images/alert.png "generates alerts") |  ![mobile app](../images/mob-app.png "mobile app") | ![GIS](../images/geo.png "GIS app")  | ![sensors](../images/sensor.png "sensors") |
-
-https://github.com/lsa-pucrs/painter-robot-instor
+| --- | --- | --- | --- | 
+| ![electronics](../images/icons/electronics.png "electronics") |  ![healthier and safer work](../images/icons/dust-mask.png "healthier and safer work") | ![tracked robot](../images/icons/land-robot.png "tracked robot")  | ![IA](../images/icons/ia.png "autonomous robot")  |
 
 
 ### Goals
 
- - Goal 1: tool for quering historical flooding events;
- - Goal 2: web-based application to add new flooding and precipitation data;
- - Goal 3: estimate where and when the drainage network requires maintenance;
- - Goal 4: estimate the amount of precipitation for the most commonly flooded areas.
+ - Goal 1: build the magnetic tracked robot;
+ - Goal 2: design basic control for tele-operation;
+ - Goal 3: design simulation model;
+ - Goal 4: design robot tracking and autonomous navigation/painting.
 
 ### Milestones
 
- - Milestone 1: database of flood events and precipitation data. 85%;
- - Milestone 2: generate statistics about the frequent flooded areas;
- - Milestone 3: web-based application to add data to the database and perform queries. 30%;
- - Milestone 4: web-based map to show the flooded areas and the forecasts;
- - Milestone 5: regression method to perform flooding forecast;
- - Milestone 6: add Digital Elevation Map to the database;
- - Milestone 7: add drainage network map to the database;
- - Milestone 8: get real time precipitation data from nearby weather stations.
- - Milestone 9: integration with crowdsourcing GIS such as, for example, Nokia Here or TomTom.
+ - Milestone 1: specify robot architecture, find and buy robot parts. 100%;
+ - Milestone 2: build the custom parts and build the robot hardware. 100%;
+ - Milestone 3: design software for tele-operation. 100%;
+ - Milestone 4: design driver to interface with Linux computer;
+ - Milestone 5: design camera-based robot tracking software. 30%;
+ - Milestone 6: design simulation model;
+ - Milestone 7: design navigation software and area coverage algorithms. 30%;
+ - Milestone 8: integrated test in simulation environment;
+ - Milestone 9: integrated test and field tests.
+ - Milestone 10: design software to control multiple robots in collaborative tasks;
 
 ## People
 
 
 ### Coordinator
 
- - prof. Regis Lahm, [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University.
+ - Alexandre Amory.
 
 ### Academic Collaborators
 
- - prof. Alexandre Amory, FACIN, PUCRS University;
+ - prof. [Leonel Tedesco](http://lattes.cnpq.br/2520175088634553), [GPSEM](http://inf.unisc.br/gpsem/), UNISC University;
 
 ### Students
 
@@ -60,9 +70,16 @@ https://github.com/lsa-pucrs/painter-robot-instor
 
 ## Repositories
 
- - [POA Flooding](https://github.com/disaster-robotics-proalertas/poa-flooding)
+ - [Painter robot](https://github.com/lsa-pucrs/painter-robot-instor)
 
 ## Media 
 
-videos and photos.
+Area coverage for the painter robot.
+![](../images/projects/instor/instor-painting.png)
+
+Class about robotics presented in [Pão dos Pobres](www.paodospobres.org.br/), April, 2016.
+![](../images/projects/instor/instor-pdp1.jpg)
+![](../images/projects/instor/instor-pdp2.jpg)
+![](../images/projects/instor/instor-pdp3.png)
+![](../images/projects/instor/instor-pdp4.jpg)
 
