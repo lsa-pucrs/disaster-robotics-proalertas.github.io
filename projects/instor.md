@@ -5,11 +5,11 @@ title: Painter robot for shipbuilding
 
 ## Project description
 
-Large metal structures such as oil tanks and large ships requires regular mantainance to reduce the effects of corrosion.
-Painting is one of the tasks regularly performed to increase the lifespam of these structures.
-However, the manual painting process takes a long time. In addition it is unhealthy and unsafe for the worker.
+Large metal structures such as oil tanks and large ships require regular maintenance to reduce the effects of corrosion.
+Painting is one of the tasks regularly performed to increase the lifespan of these structures.
+However, the manual painting process takes a long time. Besides, it is unhealthy and unsafe for the worker.
 
-The goal of this project is to design a robot, in cooperation with [Instor](www.instor.com.br) and [UNISC](), and partially funded by [SCIT/RS](www.scit.rs.gov.br).
+The goal of this project is to design a robot, in cooperation with [Instor](www.instor.com.br) and [UNISC](http://inf.unisc.br/gpsem/), and partially funded by [SCIT/RS](www.scit.rs.gov.br).
 
 ![](../images/projects/instor/instor-model.jpg)
 ![](../images/projects/instor/instor-robot.jpg)
