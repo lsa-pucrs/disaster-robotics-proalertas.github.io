@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Donnie: assistive robot
+title: "Donnie: assistive robot"
 ---
 
 ## Project description
