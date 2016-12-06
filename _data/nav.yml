@@ -18,10 +18,8 @@
     subhref: "/projects/hratc.html"
   - subtitle: "Donnie: assistive robot"
     subhref: "/projects/donnie.html"
-  - subtitle: "Gripper for Turtlebot"
-    subhref: "/projects/turtle-gripper.html"
-  - subtitle: "Roffi biped robot"
-    subhref: "/projects/roffi.html"
+  - subtitle: "Undergraduate robot projects"
+    subhref: "/projects/undergrad-robots.html"
 
 - title: "publications"
   href: "/publications/"

@@ -13,6 +13,11 @@ Small autonomous boat to monitor shallow streams of water and small/medium river
 | --- | --- | --- |
 | ![small boat](../images/sail-boat.png "small boat") |  ![electronics](../images/electronics.png "electronics") | ![sensors](../images/sensor.png "sensors") |
 
+https://github.com/lsa-pucrs/donnie-assistive-robot-sw
+https://github.com/lsa-pucrs/donnie-assistive-robot-hw
+https://github.com/lsa-pucrs/donnie-assistive-robot-3d
+
+
 ### Goals
 
  - Goal 1: deliver a small boat with safe autonomous navigation;

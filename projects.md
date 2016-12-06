@@ -16,8 +16,5 @@ permalink: /projects/
 ## [Donnie assistive robot](projects/donnie.md)
 - Donnie is an educational robot programming framework for blind people.
 
-## [Turtlebot Gripper](projects/turtle-gripper.md)
-- an ROS-enabled 3D printer gripper for Turtlebot.
-
-## [Roffi biped robot](projects/roffi.md)
-- Autonomous version of Roffi robot powered by a Raspberry Pi and ROS.
+## [Undergraduate robot projects](projects/undergrad-robots.md)
+- Series of small projects for undergraduate students 

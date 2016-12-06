@@ -13,6 +13,7 @@ Autonomous sail boat to monitor large bodies of water and oceans.
 | --- | --- | --- |
 | ![sail boat](../images/sail-boat.png "sail boat") |  ![electronics](../images/electronics.png "electronics") | ![sensors](../images/sensor.png "sensors") |
 
+<a href="http://www.inf.ufrgs.br/hratc2017/HRATC2017/Welcome.html" rel="MIR">![bla](../images/trouble.png "Demining Robot")</a>
 
 ### Goals
 
@@ -45,6 +46,13 @@ Autonomous sail boat to monitor large bodies of water and oceans.
 ## Repositories
 
  - links to public repositories.
+
+http://inf.ufrgs.br/hratc2017/HRATC2017/Welcome.html
+https://github.com/lsa-pucrs/hratc2017_robot
+https://github.com/lsa-pucrs/metal_detector_msgs
+https://github.com/lsa-pucrs/hratc2017_framework
+https://github.com/ras-sight/
+
 
 ## Main Hardware Resources
 
