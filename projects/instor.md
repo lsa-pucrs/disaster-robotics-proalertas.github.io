@@ -58,10 +58,10 @@ The goal of this project is to design a robot, in cooperation with [Instor](www.
 
 ### Students
 
- - Everton Quadros, master student on Science on Education/PUCRS, advised by Regis Lahm, role: GIS and hydrography analysis.
- - Vagner Macedo Martins, master student on Computer Science/PUCRS, advised by Alexandre Amory, role: application design.
- - Carlisson Thomaz, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
- - Alice Maura Dias, undergraduate student on Geography/PUCRS, advised by Regis Lahm, role: data analysis.
+ - aluno 1, advised by Alexandre Amory, role: abcd.
+ - aluno 2, advised by Alexandre Amory, role: abcd.
+ - aluno 3, advised by Leonel Tedesco, role: abcd.
+ - aluno 4, advised by Alexandre Amory, role: abcd.
  
 
 ## Papers
@@ -74,10 +74,12 @@ The goal of this project is to design a robot, in cooperation with [Instor](www.
 
 ## Media 
 
-Area coverage for the painter robot.
+- Area coverage for the painter robot.
+
 ![](../images/projects/instor/instor-painting.png)
 
-Class about robotics presented in [Pão dos Pobres](www.paodospobres.org.br/), April, 2016.
+- Class about robotics presented in [Pão dos Pobres](www.paodospobres.org.br/), April, 2016.
+
 ![](../images/projects/instor/instor-pdp1.jpg)
 ![](../images/projects/instor/instor-pdp2.jpg)
 ![](../images/projects/instor/instor-pdp3.png)

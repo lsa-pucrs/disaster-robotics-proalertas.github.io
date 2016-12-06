@@ -10,7 +10,7 @@ permalink: /people/
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hratc), [Undergraduate robot projects](../projects/undergrad-robots);
-1. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
+2. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
     - **Research subjects**: ;
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University];
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats);
@@ -38,22 +38,27 @@ permalink: /people/
     - **Institution**: PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Environmental Monitoring Boats](../projects/pve-boats), [Donnie](../projects/donnie)
     - **Papers**: NA
-5. [Luiz Marcos Garcia Gonçalves](http://lattes.cnpq.br/1562357566810393)
+5. [Leonel Tedesco](http://lattes.cnpq.br/2520175088634553)
+    - **Research subjects**: embedded system, computer vision, robotics, microelectronics;
+    - **Institution**: [GPSEM](http://inf.unisc.br/gpsem/), UNISC University;
+    - **Project(s)**: [Painter Robot](../projects/instor)
+    - **Papers**: NA.
+6. [Luiz Marcos Garcia Gonçalves](http://lattes.cnpq.br/1562357566810393)
     - **Research subjects**: embedded system, computer vision, robotics, control;
     - **Institution**: ???? Labs - [DCA](http://www.dca.ufrn.br/) - [UFRN University](http:/www.ufrn.br/);
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
     - **Papers**: NA.
-6. [Marcia Borba Campos](http://lattes.cnpq.br/3266082770151361)
+7. [Marcia Borba Campos](http://lattes.cnpq.br/3266082770151361)
     - **Research subjects**: assitive technology;
     - **Institution**: PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Donnie](../projects/donnie)
     - **Papers**: NA
-7. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
+8. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
     - **Research subjects**: AI, multi-agents systems;
     - **Institution**: [SMART](https://smart-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
     - **Papers**: NA    
-8. [Regis Alexandre Lahm](http://lattes.cnpq.br/0407648694453994)
+9. [Regis Alexandre Lahm](http://lattes.cnpq.br/0407648694453994)
     - **Research subjects**: ;
     - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
@@ -73,19 +78,19 @@ permalink: /people/
 
 ### PhD
 
-1. [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209)
-    - **Degree**: PhD in Computer Science - PUCRS
-    - **Advisors**: Alexandre Amory
-    - **Monography title**: Navegação de barcos autônomos
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
-    - **Conclusion date**: Jul/2020
-    - **Papers**: NA
 1. [Maurício Cecílio Magnaguagno](http://lattes.cnpq.br/9371795006843888)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
     - **Monography title**: Search-space pruning for Symbolic-Geometric Planning 
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
     - **Conclusion date**: Mar/2020
+    - **Papers**: NA
+2. [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209)
+    - **Degree**: PhD in Computer Science - PUCRS
+    - **Advisors**: Alexandre Amory
+    - **Monography title**: Navegação de barcos autônomos
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
+    - **Conclusion date**: Jul/2020
     - **Papers**: NA
     
 ### Master
@@ -122,16 +127,16 @@ permalink: /people/
 ### Undergraduate
 
 
-1. [Guilherme Henrique Marculino Marques](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8705844Y2)
-    - **Degree**: Undergradute student in Computer Engineering - PUCRS
-    - **Advisors**: Alexandre Amory
-    - **Project(s)**: [Donnie](../projects/donnie), [Turtlebot gripper and Roffi](../projects/undergrad-robots)
-    - **Conclusion date**: 
-    - **Papers**: NA
-2. [Augusto Cezar Peschke Bergamin]()
+1. [Augusto Cezar Peschke Bergamin]()
     - **Degree**: Undergradute student in Computer Engineering - PUCRS
     - **Advisors**: Alexandre Amory
     - **Project(s)**: [Donnie](../projects/donnie), [Demining robot](../projects/hratc)
+    - **Conclusion date**: 
+    - **Papers**: NA
+2. [Guilherme Henrique Marculino Marques](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8705844Y2)
+    - **Degree**: Undergradute student in Computer Engineering - PUCRS
+    - **Advisors**: Alexandre Amory
+    - **Project(s)**: [Donnie](../projects/donnie), [Turtlebot gripper and Roffi](../projects/undergrad-robots)
     - **Conclusion date**: 
     - **Papers**: NA
 
@@ -159,7 +164,7 @@ permalink: /people/
     - **Conclusion date**: March/2015
     - **Repository**: [RASON: A ROS/Jason integration](https://github.com/lsa-pucrs/rason)
     - **Papers**: [Distributed fault diagnosis for multiple mobile robots using an agent programming language](http://www.meneguzzi.eu/felipe/pubs/icar-ros-jason-2015.pdf)
-1. [Felipe Roman](http://lattes.cnpq.br/8817950522501166)
+2. [Felipe Roman](http://lattes.cnpq.br/8817950522501166)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
     - **Research proposal**: [PEP doc](../documentation/master_thesis/pep-doc-felipe-roman-2014.pdf), [PEP ppt](../documentation/master_thesis/pep-ppt-felipe-roman-2014.pdf), [SA doc](../documentation/master_thesis/sa-felipe-roman-2014.pdf)
@@ -168,7 +173,7 @@ permalink: /people/
     - **Repository**:  [Multirobot supervision system using Nagios and ROS](https://github.com/lsa-pucrs/multirobot-monitoring)
     - **Conclusion date**: March/2015
     - **Papers**: NA
-1. [Rodrigo Weiz]()
+3. [Rodrigo Weiz]()
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
     - **Monography title**: 

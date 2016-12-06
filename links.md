@@ -8,10 +8,10 @@ permalink: /links/
 
  - [Semantic, Multi-Agent, and Robotic Technologies (SMART)](https://smart-pucrs.github.io/) - PUCRS
  - [Grupo de Automação e Controle de Sistemas (GACS)](http://www.feng.pucrs.br/~gacs/) - PUCRS
- - [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
+ - [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS;
  - [Laboratório de Pesquisas em Fotogrametria (LAFOTO)](https://www.ufrgs.br/lafoto/) - UFRGS
  --[Phi - Robotics Research Groupy(phi)](http://www.inf.ufrgs.br/phi-group/phi-r2/Welcome.html) - [Computer Science Graduate Program (PPGC)](http://www.inf.ufrgs.br/ppgc/); 
- - UNISC
+ - [GPSEM](http://inf.unisc.br/gpsem/), UNISC;
  - UFSC
  - UFRN
 
