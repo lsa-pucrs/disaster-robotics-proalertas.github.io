@@ -153,6 +153,7 @@ permalink: /people/
 1. [Marcio Godoy Morais](http://lattes.cnpq.br/8817950522501166)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
+    - **Research proposal**: [PEP doc](./documentation/master_thesis/pep-doc-marcio-godoy-2014.pdf) [PEP ppt](./documentation/master_thesis/pep-ppt-marcio-godoy-2014.pdf) [SA doc](./documentation/master_thesis/sa-marcio-godoy-2014.pdf)
     - **Monography title**: [Integration of a multi-agent system into a robotic framework: a case study of a cooperative fault diagnosis application](http://repositorio.pucrs.br/dspace/handle/10923/7687)
     - **Project(s)**: NA
     - **Conclusion date**: March/2015
@@ -161,6 +162,7 @@ permalink: /people/
 1. [Felipe Roman](http://lattes.cnpq.br/8817950522501166)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
+    - **Research proposal**: [PEP doc](./documentation/master_thesis/pep-doc-felipe-roman-2014.pdf) [PEP ppt](./documentation/master_thesis/pep-ppt-felipe-roman-2014.pdf) [SA doc](./documentation/master_thesis/sa-felipe-roman-2014.pdf)
     - **Monography title**: [Fault supervision for multi robotics systems](http://repositorio.pucrs.br/dspace/handle/10923/7732)
     - **Project(s)**: NA
     - **Repository**:  [Multirobot supervision system using Nagios and ROS](https://github.com/lsa-pucrs/multirobot-monitoring)
