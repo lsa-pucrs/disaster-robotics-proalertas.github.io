@@ -83,9 +83,11 @@ The goal of this project is to design a robot, in cooperation with [Instor](www.
 ![](../images/projects/instor/instor-pdp1.jpg)
 
 - Comparison with a dog and a robot dog
+
 ![](../images/projects/instor/instor-pdp2.jpg)
 ![](../images/projects/instor/instor-pdp3.png)
 
 - Students watching the robot demo
+
 ![](../images/projects/instor/instor-pdp4.jpg)
 
