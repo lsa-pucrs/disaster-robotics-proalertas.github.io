@@ -164,6 +164,7 @@ permalink: /people/
     - **Conclusion date**: March/2015
     - **Repository**: [RASON: A ROS/Jason integration](https://github.com/lsa-pucrs/rason)
     - **Papers**: [Distributed fault diagnosis for multiple mobile robots using an agent programming language](http://www.meneguzzi.eu/felipe/pubs/icar-ros-jason-2015.pdf)
+    - **Demo Video**: [youtube](https://www.youtube.com/watch?v=_0O9KFGzxTY)
 2. [Felipe Roman](http://lattes.cnpq.br/8817950522501166)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
