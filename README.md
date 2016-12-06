@@ -14,6 +14,7 @@ Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pick
   - Each project is described in detail in a Markdown file at [projects/](projects/)
 - Publications at [publications.md](publications.md) use a [BibBase](https://bibbase.org/) script 
   - Publication data is stored at [publications.bib](publications.bib)
+  - PhD, Master, and End of Term reports are stored at [monographies.bib](monographies.bib)
 - Hardware reseources at [resources.md](resources.md)
 - Links at [links.md](links.md)
 

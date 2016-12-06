@@ -12,4 +12,4 @@ Undergraduate, master, phd, pos-doc positions are available. Interested students
 
 | | | |
 | --- | --- | --- |
-| <a href="http://mir-pucrs.github.io" rel="MIR">![Machine Inteligence and Robotics (MIR) Nucleus](../images/mir-logo.png "Machine Inteligence and Robotics (MIR) Nucleus")</a> |  <a href="http://www.pucrs.br/facin/ppgcc/" rel="PPGCC">![PPGCC/FACIN](../images/facin.jpg "PPGCC/FACIN")</a> | <a href="http://www.pucrs.br/" rel="PUCRS">![PUCRS University](../images/pucrs.png "PUCRS University")</a>  |
+| <a href="http://mir-pucrs.github.io" rel="MIR">![Machine Inteligence and Robotics (MIR) Nucleus](../images/logos/mir-logo.png "Machine Inteligence and Robotics (MIR) Nucleus")</a> |  <a href="http://www.pucrs.br/facin/ppgcc/" rel="PPGCC">![PPGCC/FACIN](../images/logos/facin.jpg "PPGCC/FACIN")</a> | <a href="http://www.pucrs.br/" rel="PUCRS">![PUCRS University](../images/logos/pucrs.png "PUCRS University")</a>  |
