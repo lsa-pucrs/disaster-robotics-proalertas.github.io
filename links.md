@@ -21,13 +21,13 @@ permalink: /links/
 
  | | | |
 | --- | --- | --- |
-|  <a href="http://www.capes.gov.br/" rel="CAPES">![CAPES](../images/capes.png)</a>  |   <a href="http://www.cnpq.gov.br/" rel="CNPq">![CNPq](../images/cnpq.png)</a>  | <a href="http://www.scit.rs.gov.br/" rel="SCIT/RS">![SCIT/RS](../images/scit.png "SCIT/RS")</a>  |
+|  <a href="http://www.capes.gov.br/" rel="CAPES">![CAPES](../images/logos/capes.png)</a>  |   <a href="http://www.cnpq.gov.br/" rel="CNPq">![CNPq](../images/logos/cnpq.png)</a>  | <a href="http://www.scit.rs.gov.br/" rel="SCIT/RS">![SCIT/RS](../images/logos/scit.png "SCIT/RS")</a>  |
 
 ### Companies 
 
  | | | |
 | --- | --- | --- |
-|  <a href="http://www.instor.com.br/" rel="INSTOR">![INSTOR](../images/instor.png)</a>  |   <a href="http://www.cnpq.gov.br/" rel="CNPq">![CNPq](../images/cnpq.png)</a>  | <a href="http://www.scit.rs.gov.br/" rel="SCIT/RS">![SCIT/RS](../images/scit.png "SCIT/RS")</a>  |
+|  <a href="http://www.instor.com.br/" rel="INSTOR">![INSTOR](../images/logos/instor.png)</a>  |   <a href="http://www.instor.com.br/" rel="INSTOR">![INSTOR](../images/logos/instor.png)</a>  | <a href="http://www.instor.com.br/" rel="INSTOR">![INSTOR](../images/logos/instor.png)</a>  |
 
 
 ## Main Conferences

@@ -9,7 +9,7 @@ permalink: /people/
 1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hartc), [Undergraduate robot projects](../projects/undergrad-robots);
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hratc), [Undergraduate robot projects](../projects/undergrad-robots);
 1. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
     - **Research subjects**: ;
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University];
@@ -26,7 +26,7 @@ permalink: /people/
 2. [Edson Prestes](http://lattes.cnpq.br/2604911000898464)
     - **Research subjects**: Robotics, ontologies for robotics, robot ethics, positive robotics;
     - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
-    - **Project(s)**: [Demining Robot](../projects/hartc)
+    - **Project(s)**: [Demining Robot](../projects/hratc)
     - **Papers**: NA
 3. [Edson Moreno](http://lattes.cnpq.br/4717801972607133)
     - **Research subjects**: robotics, embedded systems, vlsi design;
@@ -84,7 +84,7 @@ permalink: /people/
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
     - **Monography title**: Search-space pruning for Symbolic-Geometric Planning 
-    - **Project(s)**: [Pró-Alertas]../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
     - **Conclusion date**: Mar/2020
     - **Papers**: NA
     
@@ -94,7 +94,7 @@ permalink: /people/
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory and Aurélio Salton
     - **Monography title**: Sistema modular de localização e percepção de barcos autônomos
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Demining Robot](../projects/hratc)
     - **Conclusion date**: Jan/2018
     - **Papers**: NA
 1. [Vagner Macedo Martins](http://lattes.cnpq.br/3353898327493243)
