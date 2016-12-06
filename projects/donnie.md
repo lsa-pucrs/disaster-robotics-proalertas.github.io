@@ -5,41 +5,36 @@ title: "Donnie: assistive robot"
 
 ## Project description
 
-Most robot programming environment to teach programming for kids and young people are highly visual, with drag and drop features.
-Thus, these interfaces can not be used by blind people or people with a severe visual impairment. 
-The goal of this project it to propose a new assitive robot programming environmet that can also be used by blind people to learn programming.
-In addition to the visual feedback normaly provided by ordinary robot programming environment, the proposed system also provides sound and vibration feedback to the user.
+Most robot programming environment to teach programming for kids and young people are highly visual, 
+with drag and drop features. Thus, these interfaces can not be used by blind people or people with a 
+severe visual impairment. The goal of this project it to propose a new assitive robot programming 
+environment that can be used by blind people. In addition to the visual feedback normally provided by 
+ordinary robot programming environment, the proposed system also provides sound and vibration feedback 
+to the user.
 
-The same system can also used by blind users to learn and pratice about orientation and mobility skills in a given floorplan in reduced scale.
-The user can practice how to move in a certain environment in reduced scale by using a simulated or a real robot. 
-This way, when the user goes to the actual environment with the same floorplan, he/she will be able to remember the flooplan and move with more autonomy. 
+The same system can also be used by blind users to learn and practice about orientation and mobility 
+skills in a given floorplan in reduced scale. The user can practice how to move in a certain environment 
+in reduced scale by using a simulated or a real robot. This way, when the user goes to the actual environment 
+with the same floorplan, he/she will be able to remember the floorplan and move with more autonomy. 
 
 ![Donnie 3D model](../images/projects/donnie/model.png "Donnie 3D model")   
-![Stage simulation environment of a floorplan](../images/projects/donnie/stage-env.png "Stage simulation environment of a floorplan"
+![Stage simulation environment of a floorplan](../images/projects/donnie/stage-env.png "Stage simulation environment of a floorplan")
 
 ---
 
-| | | |
-| --- | --- | --- |
-| ![land robot](../images/icons/land-robot.png "land robot") |  ![electronics](../images/icons/electronics.png "electronics") | ![Assistive app for blind people](../images/icons/blind.png "Assistive app for blind people") |
+| | | | |
+| --- | --- | --- | --- |
+| ![land robot](../images/icons/land-robot.png "land robot") |  ![electronics](../images/icons/electronics.png "electronics") | ![Assistive app for blind people](../images/icons/blind.png "Assistive app for blind people") | ![Braille content ](../images/icons/braille.png "Braille content") |
 
 
 
 ### Goals
 
- - Goal 1: deliver a small boat with safe autonomous navigation;
- - Goal 2: deliver a boat control system integrated to planning frameworks;
- - Goal 3: deliver a system to control multiple boats;
+ - Goal 1: ....
 
 ### Milestones
 
- - Milestone 1: integrate more sensors to the Lutra boat to enable autonomous behaviors; status (%)
- - Milestone 2: improve localization for safe autonomous navigation nearby manmade structures (docks) and shores; status (%)
- - Milestone 3: detect obstacles (both underwater and over the water) for safe autonomous navigation nearby manmade structures and shores; status (%)
- - Milestone 4: integrate different navigation strategies (fast, safe, coverage navigation) under real life disturbances (drag, wind, waves) for safe autonomous navigation nearby manmade structures and shores; status (%)
- - Milestone 5: integrate the boat middlware to the AI and planning frameworks; status (%)
- - Milestone 6: control simultaneously multiple boats in formations; status (%)
- - Milestone 7: field test controling simultaneously multiple boats; status (%)
+ - Milestone 1: ....
 
 ## People
 
