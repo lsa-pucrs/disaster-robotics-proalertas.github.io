@@ -8,11 +8,13 @@ permalink: /people/
 
 1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
+    - [webpage](https://amamory.github.io/)
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hratc), [Undergraduate robot projects](../projects/undergrad-robots);
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hratc), [Donnie assistive robot](../projects/donnie), [Undergraduate robot projects](../projects/undergrad-robots);
 2. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
     - **Research subjects**: ;
-    - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University];
+    - [webpage](http://www.inf.pucrs.br/felipe.meneguzzi/)
+    - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats);
 
     
@@ -36,7 +38,7 @@ permalink: /people/
 4. [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690)
     - **Research subjects**: computer vision;
     - **Institution**: PPGCC/FACIN - PUCRS University;
-    - **Project(s)**: [Environmental Monitoring Boats](../projects/pve-boats), [Donnie](../projects/donnie)
+    - **Project(s)**: [Environmental Monitoring Boats](../projects/pve-boats), [Donnie assistive robot](../projects/donnie)
     - **Papers**: NA
 5. [Leonel Tedesco](http://lattes.cnpq.br/2520175088634553)
     - **Research subjects**: embedded system, computer vision, robotics, microelectronics;
@@ -51,7 +53,7 @@ permalink: /people/
 7. [Marcia Borba Campos](http://lattes.cnpq.br/3266082770151361)
     - **Research subjects**: assitive technology;
     - **Institution**: PPGCC/FACIN - PUCRS University;
-    - **Project(s)**: [Donnie](../projects/donnie)
+    - **Project(s)**: [Donnie assistive robot](../projects/donnie)
     - **Papers**: NA
 8. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
     - **Research subjects**: AI, multi-agents systems;

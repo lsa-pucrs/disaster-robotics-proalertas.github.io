@@ -5,17 +5,24 @@ title: "Donnie: assistive robot"
 
 ## Project description
 
-Small autonomous boat to monitor shallow streams of water and small/medium rivers. 
+Most robot programming environment to teach programming for kids and young people are highly visual, with drag and drop features.
+Thus, these interfaces can not be used by blind people or people with a severe visual impairment. 
+The goal of this project it to propose a new assitive robot programming environmet that can also be used by blind people to learn programming.
+In addition to the visual feedback normaly provided by ordinary robot programming environment, the proposed system also provides sound and vibration feedback to the user.
 
-![Alt text](../images/lutra.png?raw=true "Lutra Airboat")
+The same system can also used by blind users to learn and pratice about orientation and mobility skills in a given floorplan in reduced scale.
+The user can practice how to move in a certain environment in reduced scale by using a simulated or a real robot. 
+This way, when the user goes to the actual environment with the same floorplan, he/she will be able to remember the flooplan and move with more autonomy. 
+
+![Donnie 3D model](../images/projects/donnie/model.png "Donnie 3D model")   
+![Stage simulation environment of a floorplan](../images/projects/donnie/stage-env.png "Stage simulation environment of a floorplan"
+
+---
 
 | | | |
 | --- | --- | --- |
-| ![small boat](../images/sail-boat.png "small boat") |  ![electronics](../images/electronics.png "electronics") | ![sensors](../images/sensor.png "sensors") |
+| ![land robot](../images/icons/land-robot.png "land robot") |  ![electronics](../images/icons/electronics.png "electronics") | ![Assistive app for blind people](../images/icons/blind.png "Assistive app for blind people") |
 
-https://github.com/lsa-pucrs/donnie-assistive-robot-sw
-https://github.com/lsa-pucrs/donnie-assistive-robot-hw
-https://github.com/lsa-pucrs/donnie-assistive-robot-3d
 
 
 ### Goals
@@ -39,34 +46,57 @@ https://github.com/lsa-pucrs/donnie-assistive-robot-3d
 ### Coordinator
 
  - Alexandre Amory and Felipe Menegguzzi, PUCRS.
+ - [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690)
+ - [Marcia Borba Campos](http://lattes.cnpq.br/3266082770151361)
 
 ### Academic Collaborators
 
- - Rafael Bordini, PUCRS.
- - Isabel Manssour, PUCRS.
+ - ...
 
 ### Students
 
- - Renan Guedes Maidana, Master student on Computer Science/PUCRS, advised by Alexandre Amory, role: system localization, perception, integration to middleware.
- - Marcelo Paravisi, PhD student on Computer Science/PUCRS, advised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
- - Mateus Eugenio Colet, Master student on Computer Science/PUCRS, advised by Isabel Manssour, role: image-based obstacle detection for boats.
- - Guilherme  Villagran Barreto de Azevedo, Master student on Computer Science/PUCRS, advised by Felipe Meneguzzi. 
+ - Juliana Damasio, Master student on Computer Science/PUCRS, advised by Marcia Campos, role: usability test, bibliography survey, tests with users.
+ - Augusto Cezar Peschke Bergamin, undergraduate student on Computer engineering/PUCRS, advised by Alexandre Amory, role: GoDonnie parser, Player/Stage models.
+ - Guilherme Henrique Marculino Marques, undergraduate student on Computer engineering/PUCRS, advised by Alexandre Amory, role: 3D models, electronics, Arduino and Raspberry Pi programming,  Player device drivers.
+ - Camila Kolling dos Reis, undergraduate student on Computer engineering/PUCRS, advised by Marcia Campos, role: usability tests.
+ - Henry Nunes, undergraduate student on Computer Science/PUCRS, advised by Marcia Campos, role: usability tests.
+ - Joice Marek, undergraduate student on Computer Science/PUCRS, advised by Isabel Manssour, role: computer vision, visual odometry.
+ - Daniel Centeno Einloft, undergraduate student on Computer Science/PUCRS, advised by Isabel Manssour, role: computer vision, blob finder, Player driver.
 
-## Papers
+## Funding
+
+ - **2017**: [Chamada CNPq/MCTIC/SECIS Nº 20/2016 - TECNOLOGIA ASSISTIVA](resultado.cnpq.br/2914092840905117), BPA/PECDES
+ - **2016**: Edital Interno FACIN, BPA/PECDES
+ - **2015**: Edital Interno FACIN, BPA/PECDES
+ - **2014**: Edital Interno FACIN, BPA/PECDES
+
+## Papers and Reports
 
  - title and link. full bibio data is already available at ...
 
 ## Repositories
 
- - links to public repositories.
+ - [Donnie's software enviroment](https://github.com/lsa-pucrs/donnie-assistive-robot-sw)
+ - [Donnie's hardware design](https://github.com/lsa-pucrs/donnie-assistive-robot-hw)
+ - [Donnie's 3D models for printing](https://github.com/lsa-pucrs/donnie-assistive-robot-3d)
 
-## Main Hardware Resources
+## Main Resources
 
- - [Lutra airboat by Platypus LLC](http://senseplatypus.com/lutra-airboat/). Two units acquired via PVE Project XXX, coordinated by Felipe Meneguzzi.
- - Zed Camera
- - Jetson board by NVIDIA
- - Maxbotix ultrasonic sensors
+### Hardware
  
+ - Raspberry Pi 2
+ - Arduino Mega
+ - Speakers
+ - Vibration motors
+ - Tacticle marks (3D printed)
+
+### Software
+
+ - Player middleware
+ - Stage simulator
+ - OpenCV
+ - Arduino programming
+ - Text to Speech
 
 ## Media 
 

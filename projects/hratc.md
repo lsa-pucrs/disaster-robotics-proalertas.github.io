@@ -11,7 +11,7 @@ The LSA's goal in the [HRATC2017](http://inf.ufrgs.br/hratc2017/HRATC2017/Welcom
 
 | | | |
 | --- | --- | --- |
-| ![land robot](../images/icons/land-robot.png "land robot") |  ![electronics](../images/icons/electronics.png "electronics") | ![sensors](../images/icons/humanitarian.png "Humanitatian app") |
+| ![land robot](../images/icons/land-robot.png "land robot") |  ![electronics](../images/icons/electronics.png "electronics") | ![Humanitatian app](../images/icons/humanitarian.png "Humanitatian app") |
 | ![AI](../images/icons/ia.png "Ai") |  ![path planning](../images/icons/planning.png "path planning") | ![geo](../images/icons/geo.png "geo app") |
 
 
