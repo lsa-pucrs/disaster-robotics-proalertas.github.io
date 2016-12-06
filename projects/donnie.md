@@ -30,17 +30,19 @@ with the same floorplan, he/she will be able to remember the floorplan and move 
 
 ### Goals
 
- - Goal 1: ....
+ - Goal 1: provide an environment (hardware and software) to teach robot programming for blind people
+ - Goal 2: provide a tool to practive and improve the orientation and mobility skills of blind people
 
 ### Milestones
 
- - Milestone 1: ....
+ - Milestone 1: Build the robot hardware prototype (electronics and 3D models)
+ 
 
 ## People
 
-### Coordinator
+### Coordinators
 
- - Alexandre Amory and Felipe Menegguzzi, PUCRS.
+ - Alexandre Amory, PUCRS.
  - [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690)
  - [Marcia Borba Campos](http://lattes.cnpq.br/3266082770151361)
 
