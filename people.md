@@ -28,27 +28,32 @@ permalink: /people/
     - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
     - **Project(s)**: [Demining Robot](projects/hartc.html)
     - **Papers**: NA
-3. [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690)
+3. [Edson Moreno](http://lattes.cnpq.br/4717801972607133)
+    - **Research subjects**: robotics, embedded systems, vlsi design;
+    - **Institution**: FACIN - PUCRS University;
+    - **Project(s)**: [Undergraduate robot projects](projects/undergrad-robots.html)
+    - **Papers**: NA
+4. [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690)
     - **Research subjects**: computer vision;
     - **Institution**: PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Environmental Monitoring Boats](projects/pve-boats.md), [Donnie](projects/donnie.md)
     - **Papers**: NA
-4. [Luiz Marcos Garcia Gonçalves](http://lattes.cnpq.br/1562357566810393)
+5. [Luiz Marcos Garcia Gonçalves](http://lattes.cnpq.br/1562357566810393)
     - **Research subjects**: embedded system, computer vision, robotics, control;
     - **Institution**: ???? Labs - [DCA](http://www.dca.ufrn.br/) - [UFRN University](http:/www.ufrn.br/);
     - **Project(s)**: [Pró-Alertas](projects/pro-alertas.md)
     - **Papers**: NA.
-5. [Marcia Borba Campos](http://lattes.cnpq.br/3266082770151361)
+6. [Marcia Borba Campos](http://lattes.cnpq.br/3266082770151361)
     - **Research subjects**: assitive technology;
     - **Institution**: PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Donnie](projects/donnie.md)
     - **Papers**: NA
-6. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
+7. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
     - **Research subjects**: AI, multi-agents systems;
     - **Institution**: [SMART](https://smart-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Pró-Alertas](projects/pro-alertas.md)
     - **Papers**: NA    
-7. [Regis Alexandre Lahm](http://lattes.cnpq.br/0407648694453994)
+8. [Regis Alexandre Lahm](http://lattes.cnpq.br/0407648694453994)
     - **Research subjects**: ;
     - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
     - **Project(s)**: [Pró-Alertas](projects/pro-alertas.md)
@@ -149,14 +154,16 @@ permalink: /people/
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
     - **Monography title**: [Integration of a multi-agent system into a robotic framework: a case study of a cooperative fault diagnosis application](http://repositorio.pucrs.br/dspace/handle/10923/7687)
-    - **Project(s)**: 
+    - **Project(s)**: NA
     - **Conclusion date**: March/2015
-    - **Papers**: NA
+    - **Repository**: [RASON: A ROS/Jason integration](https://github.com/lsa-pucrs/rason)
+    - **Papers**: [Distributed fault diagnosis for multiple mobile robots using an agent programming language](http://www.meneguzzi.eu/felipe/pubs/icar-ros-jason-2015.pdf)
 1. [Felipe Roman](http://lattes.cnpq.br/8817950522501166)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
     - **Monography title**: [Fault supervision for multi robotics systems](http://repositorio.pucrs.br/dspace/handle/10923/7732)
-    - **Project(s)**: 
+    - **Project(s)**: NA
+    - **Repository**:  [Multirobot supervision system using Nagios and ROS](https://github.com/lsa-pucrs/multirobot-monitoring)
     - **Conclusion date**: March/2015
     - **Papers**: NA
 1. [Rodrigo Weiz]()
