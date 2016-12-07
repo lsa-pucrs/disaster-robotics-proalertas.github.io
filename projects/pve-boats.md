@@ -15,9 +15,9 @@ Thus, we hope it could be used to help environmental law reinforcament, protecti
 
 | | | |
 | --- | --- | --- | 
-![rescue](../images/rescue.png "for rescue") | ![mobile app](../images/mob-app.png "mobile app") |  ![sensors](../images/sensor.png "sensors") |
-| ![sail boat](../images/sail-boat.png "sail boat")  | ![electronics](../images/electronics.png "electronics")  | |
-| ![AI](../images/ia.png "AI") |  ![planning](../images/planning.png "planning") |  ![GIS](../images/geo.png "GIS app")   | 
+![rescue](../images/icons/rescue.png "for rescue") | ![mobile app](../images/icons/mob-app.png "mobile app") |  ![sensors](../images/icons/sensor.png "sensors") |
+| ![sail boat](../images/icons/sail-boat.png "sail boat")  | ![electronics](../images/icons/electronics.png "electronics")  | |
+| ![AI](../images/icons/ia.png "AI") |  ![planning](../images/icons/planning.png "planning") |  ![GIS](../images/icons/geo.png "GIS app")   | 
 
 ### Goals
 
