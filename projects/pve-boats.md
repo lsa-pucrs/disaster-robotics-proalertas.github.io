@@ -5,15 +5,19 @@ title: Environmental Monitoring Boats
 
 ## Project description
 
-Combine the technology created in the other projects into a single system and create a citywide simulation environment to test responses and planning under diferent disaster scenarios.
+The main sources of water are being polluted by industry and population growth in unplanned areas, near the river beds.
+The goal of this project is to design intelligent software system to control multiple small autonomous boats to measure pollution paramerter and take water samples.
+Thus, we hope it could be used to help environmental law reinforcament, protecting our water sources.
 
-![Alt text](./proj1.jpg?raw=true "Project diagram")
+![Alt text](../images/projects/pve-boats/lutra.png?raw=true "Lutra Airboat")
 
-| | | | |
-| --- | --- | --- | --- |
-| ![alerts](../images/alert.png "generates alerts") |   ![rescue](../images/rescue.png "for rescue") | ![mobile app](../images/mob-app.png "mobile app") |  ![sensors](../images/sensor.png "sensors") |
-|![drone](../images/drone.png "drone") |  ![land robot](../images/land-robot.png "land robot") | ![sail boat](../images/sail-boat.png "sail boat")  | ![electronics](../images/electronics.png "electronics")  |
-| ![AI](../images/ia.png "AI") |  ![planning](../images/planning.png "planning") |  ![GIS](../images/geo.png "GIS app")   |  |
+---
+
+| | | |
+| --- | --- | --- | 
+![rescue](../images/rescue.png "for rescue") | ![mobile app](../images/mob-app.png "mobile app") |  ![sensors](../images/sensor.png "sensors") |
+| ![sail boat](../images/sail-boat.png "sail boat")  | ![electronics](../images/electronics.png "electronics")  | |
+| ![AI](../images/ia.png "AI") |  ![planning](../images/planning.png "planning") |  ![GIS](../images/geo.png "GIS app")   | 
 
 ### Goals
 
@@ -34,18 +38,18 @@ Combine the technology created in the other projects into a single system and cr
 
 ### Coordinator
 
- - Alexandre Amory, MIR/FACIN/PUCRS.
+ - Felipe Meneguzzi, MIR/FACIN/PUCRS.
 
 ### Academic Collaborators
 
- - Felipe Meneguzzi, MIR/FACIN/PUCRS.
- - Rafael Bordini, SMART/FACIN/PUCRS.
- - Luiz Marcos, DCA/UFRN.
- - ???
+ - Alexandre Amory, MIR/FACIN/PUCRS.
+ - [Paul Scerri](http://www.cs.cmu.edu/~pscerri/), [Platypus LLC](http://senseplatypus.com/), former member of [Robotics Institute/CMU](http://www.ri.cmu.edu/).
+
 
 ### Students
 
  - Marcelo Paravisi, PhD student on Computer Science/PUCRS, Adivised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
+ - to be completed
 
 ## Papers
 

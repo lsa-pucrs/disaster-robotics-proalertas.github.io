@@ -9,7 +9,7 @@ Large metal structures such as oil tanks and large ships require regular mainten
 Painting is one of the tasks regularly performed to increase the lifespan of these structures.
 However, the manual painting process takes a long time. Besides, it is unhealthy and unsafe for the worker.
 
-The goal of this project is to design a robot, in cooperation with [Instor](www.instor.com.br) and [UNISC](http://inf.unisc.br/gpsem/), and partially funded by [SCIT/RS](www.scit.rs.gov.br).
+The goal of this project is to design a robot, in cooperation with [Instor](http://www.instor.com.br) and [UNISC](http://inf.unisc.br/gpsem/), and partially funded by [SCIT/RS](http://www.scit.rs.gov.br).
 
 ![](../images/projects/instor/instor-model.jpg)
 ![](../images/projects/instor/instor-robot.jpg)
@@ -78,7 +78,7 @@ The goal of this project is to design a robot, in cooperation with [Instor](www.
 
 ![](../images/projects/instor/instor-painting.png)
 
-- Class about robotics presented in [Pão dos Pobres](www.paodospobres.org.br/), April, 2016.
+- Class about robotics presented in [Pão dos Pobres](http://www.paodospobres.org.br/), April, 2016.
 
 ![](../images/projects/instor/instor-pdp1.jpg)
 

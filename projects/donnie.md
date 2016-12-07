@@ -62,7 +62,7 @@ with the same floorplan, he/she will be able to remember the floorplan and move 
 
 ## Funding
 
- - **2017**: [Chamada CNPq/MCTIC/SECIS Nº 20/2016 - TECNOLOGIA ASSISTIVA](resultado.cnpq.br/2914092840905117), BPA/PECDES
+ - **2017**: [Chamada CNPq/MCTIC/SECIS Nº 20/2016 - TECNOLOGIA ASSISTIVA](http://resultado.cnpq.br/2914092840905117), BPA/PECDES
  - **2016**: Edital Interno FACIN, BPA/PECDES
  - **2015**: Edital Interno FACIN, BPA/PECDES
  - **2014**: Edital Interno FACIN, BPA/PECDES
