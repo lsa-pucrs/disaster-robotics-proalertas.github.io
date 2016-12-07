@@ -45,6 +45,11 @@ The ultimate goal of this project is to create a single system able to coordinat
  - [Pró-Alertas repositories](https://github.com/disaster-robotics-proalertas)
  - [Pró-Alertas website](https://disaster-robotics-proalertas.github.io/)
 
+## Funding
+
+ - This work is partially funded by [Programa de Apoio ao Ensino e à Pesquisa Científica e Tecnológica em Desastres Naturais (Pró-Alertas)](http://www.capes.gov.br/bolsas/programas-especiais/pro-alertas)
+
+
 ## Media 
 
 videos and photos.

@@ -27,15 +27,17 @@ permalink: /links/
 
 ### Companies 
 
- -[INSTOR](http://www.instor.com.br/)
+ - [INSTOR](http://www.instor.com.br/)
 
 
 ## Main Conferences
 
-
+ - ...
+ 
 ## Main Journals
 
-
+ - ...
+ 
 ## Main Hardware Providers
 
 - [Platypus autonomous boats](http://senseplatypus.com/)
