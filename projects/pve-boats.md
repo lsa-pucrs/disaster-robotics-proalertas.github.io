@@ -21,18 +21,11 @@ Thus, we hope it could be used to help environmental law reinforcament, protecti
 
 ### Goals
 
- - Goal 1: an integrated simulation environment to test and evaluate different strategies under diferent disaster scenarios.
- - Goal 2: test the integrated environment in real life application with heterogeneous agents.
+ - Goal 1: to appear
 
 ### Milestones
 
- - Milestone 1: Integrate Digital Elevation Map of Porto Alegre into the simulator; status (%)
- - Milestone 2: Model different types of agents (UAVs, USVs, response team) into the simulator; status (%)
- - Milestone 3: Integrate multi-agent framework into the simulation model; status (%)
- - Milestone 4: Integrate alert framework into the simulation model; status (%)
- - Milestone 5: Test flow alert --> planning --> agent action into the simulation model; status (%)
- - Milestone 6: Model different disaster scenarios; status (%)
- - Milestone 7: Field tests with different agents in using real robots under realistic scenarios; status (%)
+ - Milestone 1: to appear
 
 ## People
 
