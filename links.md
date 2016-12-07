@@ -23,6 +23,13 @@ permalink: /links/
 | --- | --- | --- |
 |  <a href="http://www.capes.gov.br/" rel="CAPES">![CAPES](../images/logos/capes.png)</a>  |   <a href="http://www.cnpq.gov.br/" rel="CNPq">![CNPq](../images/logos/cnpq.png)</a>  | <a href="http://www.scit.rs.gov.br/" rel="SCIT/RS">![SCIT/RS](../images/logos/scit.png "SCIT/RS")</a>  |
 
+<table width="70%" align="center" cellspacing="7" cellpadding="7"> 
+<tr> 
+<td align="center"><a href="http://www.capes.gov.br/" rel="lightbox" ><img src="../images/logos/capes.png" alt="" width="107" height="160" /></a></td> 
+<td align="center"><a href="http://www.cnpq.gov.br/"  rel="lightbox" ><img src="../images/logos/cnpq.png"  alt="" width="107" height="160" /></a></td> 
+</tr> 
+</table>
+
 ---
 
 ### Companies 
