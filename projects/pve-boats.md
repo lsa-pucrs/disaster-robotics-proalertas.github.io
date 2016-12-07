@@ -41,7 +41,8 @@ Thus, we hope it could be used to help environmental law reinforcament, protecti
 
 ### Students
 
- - Marcelo Paravisi, PhD student on Computer Science/PUCRS, Adivised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
+ - [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209), PhD student on Computer Science/PUCRS, Adivised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
+ - [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734), Master in Computer Science/PUCRS, advised by Alexandre Amory and Aurélio Salton, role: Sistema modular de localização e percepção de barcos autônomos
  - to be completed
 
 ## Papers
