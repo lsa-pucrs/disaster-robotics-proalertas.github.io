@@ -62,6 +62,7 @@ The goal of this project is to design a robot, in cooperation with [Instor](http
  - aluno 2, advised by Alexandre Amory, role: abcd.
  - aluno 3, advised by Leonel Tedesco, role: abcd.
  - aluno 4, advised by Alexandre Amory, role: abcd.
+ - **currently looking for a interested student. It is an ideal project for TCC or master.**
  
 
 ## Papers

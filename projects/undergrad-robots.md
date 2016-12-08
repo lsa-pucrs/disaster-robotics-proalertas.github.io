@@ -40,7 +40,7 @@ Design a low cost biped robot to play soccer.
 ### Students
 
  - Guilherme Henrique Marculino Marques, undergraduate student on Computer engineering/PUCRS, advised by Alexandre Amory, role: 3D model, Arduino firmware.
- - currently looking for a interested student. It is an ideal project for TCC or master.
+ - **currently looking for a interested student. It is an ideal project for TCC or master.**
 
  
 ## Papers
@@ -88,7 +88,7 @@ Design software for an autonomous hexapod for rough terrain, climbing obstacles 
 
 ### Students
 
- - currently looking for a interested student. It is an ideal project for TCC  or master.
+ - **currently looking for a interested student. It is an ideal project for TCC  or master.**
 
  
 ## Papers
@@ -143,7 +143,7 @@ A simple to control gripper to execute pick-and-place applications with Turtlebo
 
  - Guilherme Henrique Marculino Marques, undergraduate student on Computer engineering/PUCRS, advised by Alexandre Amory, role: 3D model, Arduino firmware.
  - [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734), Master in Computer Science/PUCRS, advised by Alexandre Amory and Aurélio Salton, role: control algorithm and Arduino firmware
- - currently looking for a interested student. It is an ideal project for TCC or master.
+ - **currently looking for a interested student. It is an ideal project for TCC or master.**
 
  
 ## Papers

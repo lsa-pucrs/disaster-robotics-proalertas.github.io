@@ -39,6 +39,7 @@ The ultimate goal of this project is to create a single system able to coordinat
 4. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942), PPGCC/FACIN - PUCRS University;   
 5. [Regis Alexandre Lahm](http://lattes.cnpq.br/0407648694453994), [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
 6. colabs from UFRN.
+7. - **currently looking for a interested student. It is an ideal project for undergrad, master, or phd student.**
 
 ## Repositories
 
