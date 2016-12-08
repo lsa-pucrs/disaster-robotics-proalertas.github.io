@@ -143,9 +143,9 @@ permalink: /people/
     - **Papers**: NA
 
 
-### Former Graduated Students
+## Former Graduated Students
 
-## PhD
+### PhD
 
 1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
     - **Degree**: Master in Computer Science - PUCRS
@@ -155,7 +155,7 @@ permalink: /people/
     - **Conclusion date**: Agosto/2017
     - **Papers**: NA
 
-## Master
+### Master
 
 1. [Marcio Godoy Morais](http://lattes.cnpq.br/8817950522501166)
     - **Degree**: Master in Computer Science - PUCRS
@@ -184,7 +184,7 @@ permalink: /people/
     - **Conclusion date**: March/2015
     - **Papers**: NA
     
-## End of Term Project
+### End of Term Project
 
 1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
     - **Degree**: Master in Computer Science - PUCRS
@@ -194,7 +194,7 @@ permalink: /people/
     - **Conclusion date**: Agosto/2017
     - **Papers**: NA
 
-## Undergraduate Research Assistant
+### Undergraduate Research Assistant
 
 - Alessandro Collioni (Computer Science student);
 - Gustavo Robinson Moraes (Control and Automation Engineering student);
