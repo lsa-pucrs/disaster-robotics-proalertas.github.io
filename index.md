@@ -29,12 +29,6 @@ LSA is part of the [Machine Intelligence and Robotics (MIR)](https://mir-pucrs.g
 Undergraduate, master, phd, pos-doc positions are available. Interested students must send CV to ![email](../images/email.png "email").
 
 
-| | | |
-| --- | --- | --- |
-| <a href="http://mir-pucrs.github.io" rel="MIR">![Machine Inteligence and Robotics (MIR) Nucleus](../images/logos/mir-logo.png "Machine Inteligence and Robotics (MIR) Nucleus")</a> |  <a href="http://www.pucrs.br/facin/ppgcc/" rel="PPGCC">![PPGCC/FACIN](../images/logos/facin.jpg "PPGCC/FACIN")</a> | <a href="http://www.pucrs.br/" rel="PUCRS">![PUCRS University](../images/logos/pucrs.png "PUCRS University")</a>  |
-
-
-
 <table width="70%" align="center" cellspacing="7" cellpadding="7"> 
 <tr> 
 <td align="center"><a href="http://mir-pucrs.github.io"        rel="lightbox" ><img src="../images/logos/mir-logo.png" alt="" width="107" height="160" /></a></td> 

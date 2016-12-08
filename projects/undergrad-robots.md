@@ -9,6 +9,8 @@ title: Undergraduate Robot Projects
 
 Design a low cost biped robot to play soccer.
 
+![Alt text](../images/projects/undergrad/roffi.png?raw=true "Roffi biped")
+
 ### Goals
 
  - Goal 1: improve computational power of Roffi and integrate with middleware;
@@ -63,6 +65,8 @@ videos and photos.
 
 Design software for an autonomous hexapod for rough terrain, climbing obstacles including stairs.
 
+![Alt text](../images/projects/undergrad/hexapod.png?raw=true "Hexapod")
+
 ### Goals
 
  - Goal 1: improve computational power of the hexapod and integrate with middleware;
@@ -113,6 +117,8 @@ videos and photos.
 ## Project description
 
 A simple to control gripper to execute pick-and-place applications with Turtlebot.
+
+![Alt text](../images/projects/undergrad/turtle-gripper.png?raw=true "Turtlebot Gripper")
 
 ### Goals
 
