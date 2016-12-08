@@ -40,7 +40,7 @@
 	  {% endif %}
 	{% endfor %}
 	{% for socials in site.data.socials %}
-	  <li><a href="{{ socials.href }}"><img src="images/logos/{{ socials.title }}" style="vertical-align:middle" width="20px" alt="{{ socials.description }}" title="{{ socials.description }}"></a></li>
+	  <li><a href="{{ socials.href }}"><img src="{{ site.github.url }}images/logos/{{ socials.title }}" style="vertical-align:middle" width="20px" alt="{{ socials.description }}" title="{{ socials.description }}"></a></li>
 	{% endfor %}
       </ul>
     </div>
