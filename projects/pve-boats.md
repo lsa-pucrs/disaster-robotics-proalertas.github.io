@@ -55,7 +55,8 @@ Thus, we hope it could be used to help environmental law reinforcament, protecti
 
 ## Repositories
 
- - links to public repositories.
+ - [Lutra Airboats spec](http://senseplatypus.com/lutra-airboat/)
+ - software repo
 
 ## Media 
 

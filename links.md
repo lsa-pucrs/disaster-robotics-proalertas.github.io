@@ -44,3 +44,4 @@ permalink: /links/
 ## Main Hardware Providers
 
 - [Platypus autonomous boats](http://senseplatypus.com/)
+- [TrossenRobotics](http://www.trossenrobotics.com/)

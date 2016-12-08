@@ -35,8 +35,12 @@ with the same floorplan, he/she will be able to remember the floorplan and move 
 
 ### Milestones
 
- - Milestone 1: Build the robot hardware prototype (electronics and 3D models)
- 
+ - Milestone 1: build the robot hardware prototype (electronics and 3D models). 100%;
+ - Milestone 2: design robot's Arduino protocol and firmware. 100%;
+ - Milestone 3: Integrate the robot computer (Rasp) with Player middleware and design Player drivers. 95%;
+ - Milestone 4: design parser and interpreter for new assisitive programming language called GoDonnie. 80%;
+ - Milestone 5: design simulation environment for Donnie using Stage. 90%;
+ - Milestone 6: test the software and hardware with blind people. 0%;
 
 ## People
 
