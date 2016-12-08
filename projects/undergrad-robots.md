@@ -9,7 +9,7 @@ title: Undergraduate Robot Projects
 
 Design a low cost biped robot to play soccer.
 
-![Alt text](../images/projects/undergrad/roffi.png?raw=true "Roffi biped")
+![Alt text](../images/projects/undergrad/roffi.jpg?raw=true "Roffi biped")
 
 ### Goals
 
@@ -25,8 +25,9 @@ Design a low cost biped robot to play soccer.
  - Milestone 4: implement a localization method;
  - Milestone 5: implement a path planning method;
  - Milestone 6: integrate machine learning method to learn new movemnts;
- - Milestone 7: implement algoritms for soccer;
- - Milestone 8: integrate software to multi-agent system to control a soccer team of Roffi;
+ - Milestone 7: integrate model into Gazebo simulator;
+ - Milestone 8: implement algoritms for soccer;
+ - Milestone 9: integrate software to multi-agent system to control a soccer team of Roffi;
 
 
 ## People
@@ -65,7 +66,7 @@ videos and photos.
 
 Design software for an autonomous hexapod for rough terrain, climbing obstacles including stairs.
 
-![Alt text](../images/projects/undergrad/hexapod.png?raw=true "Hexapod")
+![Alt text](../images/projects/undergrad/hexapod.jpg?raw=true "Hexapod")
 
 ### Goals
 
@@ -118,7 +119,7 @@ videos and photos.
 
 A simple to control gripper to execute pick-and-place applications with Turtlebot.
 
-![Alt text](../images/projects/undergrad/turtle-gripper.png?raw=true "Turtlebot Gripper")
+![Alt text](../images/projects/undergrad/gripper.jpg?raw=true "Turtlebot Gripper")
 
 ### Goals
 
