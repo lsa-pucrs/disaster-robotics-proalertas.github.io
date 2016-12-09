@@ -15,7 +15,7 @@ Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pick
 - Publications at [publications.md](publications.md) use a [BibBase](https://bibbase.org/) script 
   - Publication data is stored at [publications.bib](publications.bib)
   - PhD, Master, and End of Term reports are stored at [monographies.bib](monographies.bib)
-- Hardware reseources at [resources.md](resources.md)
+- Hardware resources at [resources.md](resources.md)
 - Links at [links.md](links.md)
 - 404 pages redirect to [404.md](404.md)
 
