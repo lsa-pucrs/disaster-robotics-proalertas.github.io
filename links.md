@@ -36,6 +36,8 @@ permalink: /links/
 ## Main Conferences
 
  - [IEEE Robotics and Automation Society](https://ras.papercept.net/conferences/scripts/start.pl)
+ - [Qualis conferences](http://qualis.ic.ufmt.br/)
+ - [wikiCfP](http://www.wikicfp.com/cfp/)
  
 ## Main Journals
 
