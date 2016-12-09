@@ -35,7 +35,7 @@ permalink: /links/
 
 ## Main Conferences
 
- - ...
+ - [IEEE Robotics and Automation Society](https://ras.papercept.net/conferences/scripts/start.pl)
  
 ## Main Journals
 
@@ -44,4 +44,5 @@ permalink: /links/
 ## Main Hardware Providers
 
 - [Platypus autonomous boats](http://senseplatypus.com/)
-- [TrossenRobotics](http://www.trossenrobotics.com/)
+- [Trossen Robotics](http://www.trossenrobotics.com/)
+- [Seeedstudio PCB service](https://www.seeedstudio.com/fusion_pcb.html)
