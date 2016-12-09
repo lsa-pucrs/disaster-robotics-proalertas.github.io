@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Computing Resources
 
- - 1 server PowerEdge T620 with 2 sockets para processadores Intel Xeon E5-26, 32G RAM, GPU XXXX
+ - 1 server PowerEdge T620 with 2 sockets for Intel Xeon E5-26 processors, 32G RAM, GPU XXXX
  - 1 workstation T3610 w/ Intel Xeon E5-1650 v2, 32G RAM, Dual NVIDIA Quadro K4000 DUPLA w/ 3 GB 
  - 8 desktop PowerEdge T320, Xeon 1.90GHz Core i7, 16GB RAM, 2TB HD, GPU NVIDIA GT 640, and Linux OS;
  - laser printer;
@@ -36,7 +36,7 @@ permalink: /resources/
  - Other GPSs
  - Infrared and ultrassonic sensors;
 
-## Wirelless
+## Wireless
 
  - [Wifi adaptator - tp-link wn722n](http://www.tp-link.com/en/download/TL-WN722N.html)
  - omni, sector, focused external antennas
@@ -71,9 +71,8 @@ permalink: /resources/
 
 ## Other Robot Stuff
 
- - Baterias LiPO diversas e carregadores de bateria;
+ - Several LiPO batteries and chargers;
 
 ## Other Equipaments
 
  - Pequeno laboratório eletrônico para reparos equipados com osciloscópio, multímetro, estação de solda, trena laser, medidor de temperatura infravermelho, conjuntos de alicates e chaves;
-
