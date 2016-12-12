@@ -46,5 +46,9 @@ permalink: /links/
 ## Main Hardware Providers
 
 - [Platypus autonomous boats](http://senseplatypus.com/)
-- [Trossen Robotics](http://www.trossenrobotics.com/)
+- [NVIDIA GPUs](http://www.nvidia.com.br/). **Thanks for the donations !!!**
+- [Trossen Robotics](http://www.trossenrobotics.com/). Arms, crawller, servos.
 - [Seeedstudio PCB service](https://www.seeedstudio.com/fusion_pcb.html)
+- [Pololu](https://www.pololu.com/). drivers, motors w/ encoders.
+- [Ameridroid](http://ameridroid.com/). Embedded computers.
+- [Adafruit](https://www.adafruit.com/). Sensors.
