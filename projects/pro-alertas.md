@@ -26,7 +26,7 @@ The ultimate goal of this project is to create a single system able to coordinat
 
 ### Coordinators
 
- - [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720), FACIN/PUCRS
+ - [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720), MIR/FACIN/PUCRS
  - [Luiz Marcos Garcia Gonçalves](http://lattes.cnpq.br/1562357566810393), UFRN
  - [Jomi Fred Hübner](http://lattes.cnpq.br/0526242321357828), UFSC
  - [Mario Luiz Lopes Reiss](http://lattes.cnpq.br/3254713655194108), UFRGS
@@ -34,7 +34,7 @@ The ultimate goal of this project is to create a single system able to coordinat
 ### Academic Collaborators
 
 1. [Aurélio Tergolina Salton](http://lattes.cnpq.br/7181063742089743), [GACS](http://www.feng.pucrs.br/~gacs/) - PPGEE/FENG - PUCRS University;
-2. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724), PPGCC/FACIN - PUCRS University;
+2. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724), MIR/PPGCC/FACIN - PUCRS University;
 3. [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690), PPGCC/FACIN - PUCRS University;
 4. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942), PPGCC/FACIN - PUCRS University;   
 5. [Regis Alexandre Lahm](http://lattes.cnpq.br/0407648694453994), [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;

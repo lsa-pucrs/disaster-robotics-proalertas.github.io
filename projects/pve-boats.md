@@ -21,21 +21,32 @@ Thus, we hope it could be used to help environmental law reinforcament, protecti
 
 ### Goals
 
- - Goal 1: to appear
+ - G1: Improvements to the robot boat design
+ - G2: Improvements to the algorithms for robot/team control
+ - G3: Novel algorithms and missions for local problems
+ - G4: Design and execution of robotic surveys
+ - G5: Ensure long-term survey capability
 
 ### Milestones
 
- - Milestone 1: to appear
+Most milestones delayed given delays in government implementation of the project
 
+ - M1: Mission from Postdoc 1 to CMU for training in the robot platform 
+ - M2: Sandwich PhD 1 starts at CMU for training in the robot platform
+ - M3: Mission from CMU PhD students to support survey
+ - M4 Sandwich PhD 2 starts at CMU for work on novel algorithms 
+ - M5 Mission from Postdoc 2 to CMU for testing novel algorithms
+ - M6 Mission from CMU PhD students to support survey
+ 
 ## People
 
 ### Coordinator
 
- - Felipe Meneguzzi, MIR/FACIN/PUCRS.
+ - [Felipe Meneguzzi](http://www.meneguzzi.eu/felipe), MIR/FACIN/PUCRS.
 
 ### Academic Collaborators
 
- - Alexandre Amory, MIR/FACIN/PUCRS.
+ - - [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720), MIR/FACIN/PUCRS;
  - [Paul Scerri](http://www.cs.cmu.edu/~pscerri/), [Platypus LLC](http://senseplatypus.com/), former member of [Robotics Institute/CMU](http://www.ri.cmu.edu/).
 
 
@@ -51,14 +62,14 @@ Thus, we hope it could be used to help environmental law reinforcament, protecti
  
 ## Papers
 
- - title and link. full bibio data is already available at ...
+ - Include a bibsonomy generated bit
 
 ## Repositories
 
  - [Lutra Airboats spec](http://senseplatypus.com/lutra-airboat/)
- - software repo
+ - Software repo (to appear)
 
 ## Media 
 
-videos and photos.
+- [First trial of Lutra Boats in Porto Alegre](https://www.youtube.com/watch?v=oUJLjZ63BJ4)
 
