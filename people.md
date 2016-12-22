@@ -70,12 +70,12 @@ permalink: /people/
 
 ### Pos-Doc
 
-1. 
-    - **Degree**: 
-    - **Advisors**: 
-    - **Monography title**: 
-    - **Project(s)**:
-    - **Conclusion date**: 
+1. [Roger Leitzke Granada](http://lattes.cnpq.br/8302681523696256)
+    - **Degree**: PhD in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    <!-- - **Monography title**:  -->
+    - **Project(s)**: Learning and Inference for Ambient Intelligence (sponsored by HP Inc. Brazil)
+    - **Conclusion date**: NA
     - **Papers**: NA 
 
 ### PhD
@@ -87,14 +87,28 @@ permalink: /people/
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
     - **Conclusion date**: Mar/2020
     - **Papers**: NA
-2. [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209)
+2. [Ramon Fraga Pereira](http://lattes.cnpq.br/1902571595925871)
+    - **Degree**: PhD in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    - **Monography title**: Multiagent plan recognition in incomplete domains
+    - **Project(s)**: Learning and Inference for Ambient Intelligence (sponsored by HP Inc. Brazil)
+    - **Conclusion date**: Mar/2020
+    - **Papers**: NA
+3. [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
     - **Monography title**: Navegação de barcos autônomos
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
     - **Conclusion date**: Jul/2020
     - **Papers**: NA
-    
+4. [Leonardo Rosa Amado](http://lattes.cnpq.br/7850470300503123)
+    - **Degree**: PhD in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    - **Monography title**: Learning how to act in a normative environment through observation
+    - **Project(s)**: Mobile Data Analytics (sponsored by Motorola Brazil)
+    - **Conclusion date**: Mar/2021
+    - **Papers**: NA
+
 ### Master
 
 1. [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734)
