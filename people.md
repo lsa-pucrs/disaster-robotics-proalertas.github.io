@@ -7,13 +7,13 @@ permalink: /people/
 ## Coordinators
 
 1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
-    - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
+    - **Research subjects**: embedded systems, robotic middleware, system integration, fault tolerance;
     - [webpage](https://amamory.github.io/)
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hratc), [Donnie assistive robot](../projects/donnie), [Undergraduate robot projects](../projects/undergrad-robots);
 2. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
-    - **Research subjects**: ;
-    - [webpage](http://www.inf.pucrs.br/felipe.meneguzzi/)
+    - **Research subjects**: AI, multi-agent systems, automated planning;
+    - [webpage](http://www.meneguzzi.eu/felipe)
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats);
 
@@ -57,7 +57,7 @@ permalink: /people/
     - **Papers**: NA
 8. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
     - **Research subjects**: AI, multi-agents systems;
-    - **Institution**: [SMART](https://smart-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
+    - **Institution**: [SMART](https://smart-pucs.github.io/) - PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
     - **Papers**: NA    
 9. [Regis Alexandre Lahm](http://lattes.cnpq.br/0407648694453994)
