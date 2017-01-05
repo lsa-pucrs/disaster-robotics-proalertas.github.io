@@ -57,7 +57,7 @@ permalink: /people/
     - **Papers**: NA
 8. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
     - **Research subjects**: AI, multi-agents systems;
-    - **Institution**: [SMART](https://smart-pucs.github.io/) - PPGCC/FACIN - PUCRS University;
+    - **Institution**: [SMART](https://smart-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
     - **Papers**: NA    
 9. [Regis Alexandre Lahm](http://lattes.cnpq.br/0407648694453994)
