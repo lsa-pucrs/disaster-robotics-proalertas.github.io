@@ -161,13 +161,7 @@ permalink: /people/
 
 ### PhD
 
-1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Felipe Meneguzzi
-    - **Monography title**: Bottom up induction of HTN methods
-    - **Project(s)**: [Planning for Agents](../projects/project6)
-    - **Conclusion date**: Agosto/2017
-    - **Papers**: NA
+- TBA
 
 ### Master
 
@@ -200,17 +194,10 @@ permalink: /people/
     
 ### End of Term Project
 
-1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Felipe Meneguzzi
-    - **Monography title**: Bottom up induction of HTN methods
-    - **Project(s)**: [Planning for Agents](../projects/)
-    - **Conclusion date**: Agosto/2017
-    - **Papers**: NA
+- TBA
 
 ### Undergraduate Research Assistant
 
 - Alessandro Collioni (Computer Science student);
 - Gustavo Robinson Moraes (Control and Automation Engineering student);
 - Douglas Antunes Tesch (Control and Automation Engineering student).
-
