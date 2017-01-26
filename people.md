@@ -80,6 +80,13 @@ permalink: /people/
 
 ### PhD
 
+1. [João Paulo de Souza Aires](http://lattes.cnpq.br/5295008908444866)
+    - **Degree**: PhD in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    - **Monography title**: 
+    - **Project(s)**: 
+    - **Conclusion date**: Jul/2019
+    - **Papers**: NA
 1. [Maurício Cecílio Magnaguagno](http://lattes.cnpq.br/9371795006843888)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
@@ -87,21 +94,21 @@ permalink: /people/
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
     - **Conclusion date**: Mar/2020
     - **Papers**: NA
-2. [Ramon Fraga Pereira](http://lattes.cnpq.br/1902571595925871)
+1. [Ramon Fraga Pereira](http://lattes.cnpq.br/1902571595925871)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
     - **Monography title**: Multiagent plan recognition in incomplete domains
     - **Project(s)**: Learning and Inference for Ambient Intelligence (sponsored by HP Inc. Brazil)
     - **Conclusion date**: Mar/2020
     - **Papers**: NA
-3. [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209)
+1. [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
     - **Monography title**: Navegação de barcos autônomos
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
     - **Conclusion date**: Jul/2020
     - **Papers**: NA
-4. [Leonardo Rosa Amado](http://lattes.cnpq.br/7850470300503123)
+1. [Leonardo Rosa Amado](http://lattes.cnpq.br/7850470300503123)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
     - **Monography title**: Learning how to act in a normative environment through observation
@@ -130,6 +137,13 @@ permalink: /people/
     - **Advisors**: Felipe Meneguzzi and Aurélio Salton
     - **Monography title**: Symbolic-geometric planning for Non-Holonomic Robotics
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
+    - **Conclusion date**: Mar/2018
+    - **Papers**: NA
+1. [Guilherme Krzisch](http://lattes.cnpq.br/5686088427787512)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    - **Monography title**: Bounded Monitor-placement in Normative Environments
+    - **Project(s)**: [Planning for Agents](../projects/)
     - **Conclusion date**: Mar/2018
     - **Papers**: NA
 1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
