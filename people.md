@@ -116,7 +116,7 @@ permalink: /people/
     - **Conclusion date**: Mar/2021
     - **Papers**: NA
 
-### Master
+### MSc
 
 1. [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734)
     - **Degree**: Master in Computer Science - PUCRS
@@ -125,34 +125,41 @@ permalink: /people/
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Demining Robot](../projects/hratc)
     - **Conclusion date**: Jan/2018
     - **Papers**: NA
-1. [Vagner Macedo Martins](http://lattes.cnpq.br/3353898327493243)
+2. [Vagner Macedo Martins](http://lattes.cnpq.br/3353898327493243)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
     - **Monography title**: Previsão de alagamento urbano baseados em dados de redes sociais
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
     - **Conclusion date**: Aug/2018
     - **Papers**: NA
-1. [Guilherme Villagran Barreto de Azevedo](http://lattes.cnpq.br/8032574985840371)
+3. [Guilherme Villagran Barreto de Azevedo](http://lattes.cnpq.br/8032574985840371)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi and Aurélio Salton
     - **Monography title**: Symbolic-geometric planning for Non-Holonomic Robotics
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
     - **Conclusion date**: Mar/2018
     - **Papers**: NA
-1. [Guilherme Krzisch](http://lattes.cnpq.br/5686088427787512)
+4. [Guilherme Krzisch](http://lattes.cnpq.br/5686088427787512)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
     - **Monography title**: Bounded Monitor-placement in Normative Environments
     - **Project(s)**: [Planning for Agents](../projects/)
     - **Conclusion date**: Mar/2018
     - **Papers**: NA
-1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
+5. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
     - **Monography title**: Bottom up induction of HTN methods
     - **Project(s)**: [Planning for Agents](../projects/)
-    - **Conclusion date**: Agosto/2017
+    - **Conclusion date**: Aug/2017
     - **Papers**: NA
+6. [Daniele Antunes Pinheiro](http://lattes.cnpq.br/4528265550915115)
+   - **Degree**: Master in Computer Science - PUCRS
+   - **Advisors**: Felipe Meneguzzi
+   - **Monography title**: TBA
+   - **Project(s)**: [Detecting Normative Conflicts in Contracts](../projects/)
+   - **Conclusion date**: Mar/2019
+   - **Papers**: NA
     
 ### Undergraduate
 
@@ -173,11 +180,21 @@ permalink: /people/
 
 ## Former Graduated Students
 
+### Post-Doc
+
+1. [Moser Silva Fagundes](http://lattes.cnpq.br/6749728142725127)
+    - **Degree**: PhD in Computer Science - Universidad Rey Juan Carlos, Espanha
+    - **Advisors**: Rafael Bordini, Felipe Meneguzzi
+    <!-- - **Monography title**:  -->
+    - **Project(s)**: Semantic Technologies and Multi-Agent Systems for Team Interaction (SeaTeaMS), sponsored by Samsung
+    - **Conclusion date**: Jan/2014
+    - **Papers**: NA 
+
 ### PhD
 
 - TBA
 
-### Master
+### MSc
 
 1. [Marcio Godoy Morais](http://lattes.cnpq.br/8817950522501166)
     - **Degree**: Master in Computer Science - PUCRS
@@ -198,12 +215,19 @@ permalink: /people/
     - **Repository**:  [Multirobot supervision system using Nagios and ROS](https://github.com/lsa-pucrs/multirobot-monitoring)
     - **Conclusion date**: March/2015
     - **Papers**: NA
-3. [Rodrigo Weiz]()
+3. [Rodrigo Wesz](http://lattes.cnpq.br/7637409943178710)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
-    - **Monography title**: 
+    - **Monography title**: Integrating Robot Control Into the AgentSpeak(L) Programming Language
     - **Project(s)**: 
     - **Conclusion date**: March/2015
+    - **Papers**: NA
+3. [Anibal Solon Heinsfeld](http://anibalsolon.com/)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Felipe Meneguzzi
+    - **Monography title**: Identification of Autism Disorder Through Functional MRI and Deep Learning
+    - **Project(s)**: 
+    - **Conclusion date**: March/2016
     - **Papers**: NA
     
 ### End of Term Project
