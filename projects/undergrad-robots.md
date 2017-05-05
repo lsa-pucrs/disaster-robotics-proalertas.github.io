@@ -55,8 +55,10 @@ Design a low cost biped robot to play soccer.
  - https://github.com/lsa-pucrs/rofi-biped-robot
 
 ## Media 
-
-videos and photos.
+ - [Rofi initial tests - standing up](https://www.youtube.com/watch?v=cq4cn0qiVCw)
+ - [Rofi initial tests - standing up 2](https://www.youtube.com/watch?v=Wgiu1Uitdgo)
+ - [Robot fight: Rofi vs Turtlebot](https://www.youtube.com/watch?v=F9bseFSYfcE)
+ - [Rofi and Turtlebot](https://www.youtube.com/watch?v=zG-TwigcAV8)
 
 ---
 
@@ -106,8 +108,7 @@ Design software for an autonomous hexapod for rough terrain, climbing obstacles 
 
 
 ## Media 
-
-videos and photos.
+- [Initial tests](https://www.youtube.com/watch?v=64y3ZN0myjk&list=PLecI7jQbTC3xvAOBQclS2AyaQPrt-5pPm).
 
 
 ---
@@ -163,5 +164,6 @@ A simple to control gripper to execute pick-and-place applications with Turtlebo
 
 
 ## Media 
-
-videos and photos.
+ - [Turtlebot with gripper](https://www.youtube.com/watch?v=GLh9wbNr9Os)
+ - [Turtlebot with gripper](https://www.youtube.com/watch?v=F9bseFSYfcE)
+ 
