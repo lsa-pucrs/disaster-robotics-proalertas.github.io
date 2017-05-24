@@ -46,7 +46,7 @@ Most milestones delayed given delays in government implementation of the project
 
 ### Academic Collaborators
 
- - - [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720), MIR/FACIN/PUCRS;
+ - [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720), MIR/FACIN/PUCRS;
  - [Paul Scerri](http://www.cs.cmu.edu/~pscerri/), [Platypus LLC](http://senseplatypus.com/), former member of [Robotics Institute/CMU](http://www.ri.cmu.edu/).
 
 
