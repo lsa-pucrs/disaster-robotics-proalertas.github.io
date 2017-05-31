@@ -27,7 +27,7 @@ permalink: /people/
     - **Papers**: NA
 2. [Edson Prestes](http://lattes.cnpq.br/2604911000898464)
     - **Research subjects**: Robotics, ontologies for robotics, robot ethics, positive robotics;
-    - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
+    - **Institution**: [Phi - Robotics Research Group(phi)](http://www.inf.ufrgs.br/phi-group/phi-r2/Welcome.html) - [Computer Science Graduate Program (PPGC)](http://www.inf.ufrgs.br/ppgc/);;
     - **Project(s)**: [Demining Robot](../projects/hratc)
     - **Papers**: NA
 3. [Edson Moreno](http://lattes.cnpq.br/4717801972607133)
