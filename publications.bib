@@ -1,4 +1,21 @@
-# Papers from Felipe
+
+@ENTRY{
+  FAVOR MANTER EM ORDEM CRONOLOGICA. MAIS NOVOS 1o
+}
+
+@inproceedings{Magnaguagno2017a,
+	author = {Mauricio Magnaguagno and Felipe Meneguzzi},
+	title = {Method Composition through Operator Pattern Identification},
+	booktitle = {ICAPS Workshop on Knowledge Engineering for Planning and Scheduling},
+	year = {2017},
+	keywords = {Planning, Hierarchical Task Network},
+	abstract = {Classical planning is a computationally expensive task, especially when tackling real world problems. 
+To overcome such limitations, most realistic applications of planning rely on domain knowledge configured by a domain expert, such as the hierarchy of tasks and methods used by Hierarchical Task Network (HTN) planning. 
+Thus, the efficiency of HTN approaches relies heavily on human-driven domain design.
+In this paper, we aim to address this limitation by developing an approach to generate useful methods based on classical domains.
+Our work does not require annotations in the classical planning operators or training examples, and instead, relies solely on operator descriptions to identify task patterns and the sub-problems related to each pattern.
+We propose the use of methods that solve common sub-problems to obtain HTN methods automatically.}
+}
 
 @Inbook{Silva2016,
 author={de Silva, Lavindra
@@ -22,46 +39,15 @@ doi={10.1007/978-3-319-30337-6_17},
 url={http://dx.doi.org/10.1007/978-3-319-30337-6_17}
 }
 
-@book{Koch2015,
-year={2015},
-isbn={978-3-662-46240-9},
-booktitle={Agent Technology for Intelligent Mobile Services and Smart Societies},
-editor={Fernando Koch and Felipe Meneguzzi and Kiran Lakkaraju},
-title={Agent Technology for Intelligent Mobile Services and Smart Societies},
-url={http://www.springer.com/computer/information+systems+and+applications/book/978-3-662-46240-9},
-publisher={Springer},
-language={English}
+@inproceedings{moraes2016comparing,
+  title={Comparing Approaches to Subjectivity Classification: A Study on Portuguese Tweets},
+  author={Moraes, Silvia MW and Santos, Andr{\'e} LL and Redecker, Matheus and Machado, Rackel M and Meneguzzi, Felipe R},
+  booktitle={International Conference on Computational Processing of the Portuguese Language},
+  pages={86--94},
+  year={2016},
+  organization={Springer}
 }
 
-@incollection{Oh2014,
-year={2014},
-isbn={978-0123985323},
-booktitle={Plan, Activity, and Intent Recognition: Theory and Practice},
-editor={Gita Sukthankar and Robert P. Goldman and Christopher Geib and David V. Pynadath and Hung  Hai Bui},
-title={Probabilistic Plan Recognition for Proactive Assistant Agents},
-url={http://store.elsevier.com/Plan-Activity-and-Intent-Recognition/isbn-9780123985323/},
-publisher={Elsevier},
-author={Jean Oh, Felipe Meneguzzi and Katia Sycara},
-pages={275-288},
-language={English}
-}
-
-
-@incollection{Luck2013,
-year={2013},
-isbn={978-94-007-5582-6},
-booktitle={Agreement Technologies},
-volume={8},
-series={Law, Governance and Technology Series},
-editor={Ossowski, Sascha},
-doi={10.1007/978-94-007-5583-3_14},
-title={Normative Agents},
-url={http://dx.doi.org/10.1007/978-94-007-5583-3_14},
-publisher={Springer Netherlands},
-author={Luck, Michael and Mahmoud, Samhar and Meneguzzi, Felipe and Kollingbaum, Martin and Norman, Timothy J. and Criado, Natalia and Fagundes, Moser Silva},
-pages={209-220},
-language={English}
-}
 
 @Article{CameronCraddock2016,
 author="Cameron Craddock, R.
@@ -81,7 +67,14 @@ and R. Franco, Alexandre
 and Seligman Froehlich, Caroline
 and J. Gerber, Andrew
 and S. Ghosh, Satrajit
-and J. Grabowski, Thomas
+and J. Grabowski, Thomas@inproceedings{moraes2016comparing,
+  title={Comparing Approaches to Subjectivity Classification: A Study on Portuguese Tweets},
+  author={Moraes, Silvia MW and Santos, Andr{\'e} LL and Redecker, Matheus and Machado, Rackel M and Meneguzzi, Felipe R},
+  booktitle={International Conference on Computational Processing of the Portuguese Language},
+  pages={86--94},
+  year={2016},
+  organization={Springer}
+}
 and Hill, Sean
 and S{\'o}lon Heinsfeld, Anibal
 and Matthew Hutchison, R.
@@ -121,6 +114,18 @@ issn="2047-217X",
 doi="10.1186/s13742-016-0121-x",
 url="http://dx.doi.org/10.1186/s13742-016-0121-x"
 }
+
+@book{Koch2015,
+year={2015},
+isbn={978-3-662-46240-9},
+booktitle={Agent Technology for Intelligent Mobile Services and Smart Societies},
+editor={Fernando Koch and Felipe Meneguzzi and Kiran Lakkaraju},
+title={Agent Technology for Intelligent Mobile Services and Smart Societies},
+url={http://www.springer.com/computer/information+systems+and+applications/book/978-3-662-46240-9},
+publisher={Springer},
+language={English}
+}
+
 
 @article{Meneguzzi2015,
 title = "\{BDI\} reasoning with normative considerations ",
@@ -172,75 +177,6 @@ pages={1-36},
 language={English}
 }
 
-@article{Oh2013,
-title = {Prognostic normative reasoning},
-journal = {Engineering Applications of Artificial Intelligence},
-volume = {26},
-number = {2},
-pages = {863 -- 872},
-year = {2013},
-issn = {0952-1976},
-doi = {10.1016/j.engappai.2012.12.006},
-url = {http://www.sciencedirect.com/science/article/pii/S0952197612003144},
-author = {Jean Oh and Felipe Meneguzzi and Katia Sycara and Timothy J. Norman},
-keywords = {Proactive agents},
-keywords = {Normative reasoning},
-keywords = {Agent architecture},
-abstract = {Human users planning for multiple objectives in complex environments are subjected to high levels of cognitive workload, which can severely impair the quality of the plans created. This paper describes a software agent that can proactively assist cognitively overloaded users by providing normative reasoning about prohibitions and obligations so that the user can focus on her primary objectives. In order to provide proactive assistance, we develop the notion of prognostic normative reasoning (PNR) that consists of the following steps: (1) recognizing the user's planned activities, (2) reasoning about norms to evaluate those predicted activities, and (3) providing necessary assistance so that the user's activities are consistent with norms. The idea of PNR integrates various AI techniques, namely, user intention recognition, normative reasoning over a user's intention, and planning, execution and replanning for assistive actions. In this paper, we describe an agent architecture for PNR and discuss practical applications.}
-}
-
-@article{Meneguzzi2012,
-title = {Applying electronic contracting to the aerospace aftercare domain},
-journal = {Engineering Applications of Artificial Intelligence},
-volume    = {25},
-number    = {7},
-year      = {2012},
-pages     = {1471-1487},
-issn = {0952-1976},
-doi = {10.1016/j.engappai.2012.06.004},
-url = {http://www.sciencedirect.com/science/article/pii/S0952197612001479},
-author = {Felipe Meneguzzi and Sanjay Modgil and Nir Oren and Simon Miles and Michael Luck and Noura Faci},
-keywords = {CONTRACT},
-keywords = {Norms},
-keywords = {Monitoring},
-keywords = {BDI},
-keywords = {ATN},
-abstract = {The contract project was a European Commission project whose aim was to develop frameworks, components and tools to model, build, verify and monitor distributed electronic business systems based on electronic contracts. In this context, an electronic contract provides a specification of the expected behaviours of individual services, with the assumption that these services are often enacted by autonomous agents. Using the theoretical tools created by the project, in this paper we describe the complete life cycle of instantiating an electronic contracting system using the contract framework within the aerospace aftercare domain. Thus, we use a natural language description of parts of the types of contracts used in this domain to generate individual norms amenable to a computational representation, and how these norms are used to generate a concrete contract monitor. Moreover, we describe a concrete implementation of contract agents in the AgentSpeak(L) language and how these agents interact within a concrete instantiation of contract.}
-}
-
-@article{DBLP:journals/aim/AzevedoBBCFHHHKKLLMMOPRSSD11,
-  author    = {Roger Azevedo and
-               Gautam Biswas and
-               Dan Bohus and
-               Ted Carmichael and
-               Mark A. Finlayson and
-               Mirsad Hadzikadic and
-               Catherine Havasi and
-               Eric Horvitz and
-               Takayuki Kanda and
-               Oluwasanmi Koyejo and
-               William F. Lawless and
-               Douglas B. Lenat and
-               Felipe Meneguzzi and
-               Bilge Mutlu and
-               Jean Oh and
-               Roberto Pirrone and
-               Antoine Raux and
-               Donald A. Sofge and
-               Gita Sukthankar and
-               Benjamin Van Durme},
-  title     = {Reports of the {AAAI} 2010 Fall Symposia},
-  journal   = {{AI} Magazine},
-  volume    = {32},
-  number    = {1},
-  pages     = {93--100},
-  year      = {2011},
-  url       = {http://www.aaai.org/ojs/index.php/aimagazine/article/view/2338},
-  timestamp = {Thu, 07 Jul 2011 21:51:18 +0200},
-  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/aim/AzevedoBBCFHHHKKLLMMOPRSSD11},
-  bibsource = {dblp computer science bibliography, http://dblp.org}
-}
-
 @INPROCEEDINGS{Cranefield2016,
   author = {Stephen Cranefield and Felipe Meneguzzi and Nir Oren and Bastin T. R. Savarimuthu},
   title = {A Bayesian approach to norm identification},
@@ -270,19 +206,6 @@ abstract = {The contract project was a European Commission project whose aim was
 	url = {http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12966}
 }
 
-@inproceedings{Magnaguagno2017a,
-	author = {Mauricio Magnaguagno and Felipe Meneguzzi},
-	title = {Method Composition through Operator Pattern Identification},
-	booktitle = {ICAPS Workshop on Knowledge Engineering for Planning and Scheduling},
-	year = {2017},
-	keywords = {Planning, Hierarchical Task Network},
-	abstract = {Classical planning is a computationally expensive task, especially when tackling real world problems. 
-To overcome such limitations, most realistic applications of planning rely on domain knowledge configured by a domain expert, such as the hierarchy of tasks and methods used by Hierarchical Task Network (HTN) planning. 
-Thus, the efficiency of HTN approaches relies heavily on human-driven domain design.
-In this paper, we aim to address this limitation by developing an approach to generate useful methods based on classical domains.
-Our work does not require annotations in the classical planning operators or training examples, and instead, relies solely on operator descriptions to identify task patterns and the sub-problems related to each pattern.
-We propose the use of methods that solve common sub-problems to obtain HTN methods automatically.}
-}
 
 @INPROCEEDINGS{Meneguzzi2015,
   author = {Felipe Meneguzzi and Pankaj Telang and Neil Yorke-Smith},
@@ -386,9 +309,23 @@ into account some of the key functionalities of existing robotic hardware and so
  file = {:http\://www.meneguzzi.eu/felipe/pubs/icar-ros-jason-2015.pdf:PDF},
  owner = {meneguzzi},
  timestamp = {2015.09.04},
- keywords = {userobots}
  url = {http://www.meneguzzi.eu/felipe/pubs/icar-ros-jason-2015.pdf}
 }
+
+
+@incollection{Oh2014,
+year={2014},
+isbn={978-0123985323},
+booktitle={Plan, Activity, and Intent Recognition: Theory and Practice},
+editor={Gita Sukthankar and Robert P. Goldman and Christopher Geib and David V. Pynadath and Hung  Hai Bui},
+title={Probabilistic Plan Recognition for Proactive Assistant Agents},
+url={http://store.elsevier.com/Plan-Activity-and-Intent-Recognition/isbn-9780123985323/},
+publisher={Elsevier},
+author={Jean Oh, Felipe Meneguzzi and Katia Sycara},
+pages={275-288},
+language={English}
+}
+
 
 @INPROCEEDINGS{Meneguzzi2014,
   author = {Felipe Meneguzzi and Brian Logan and Moser Fagundes},
@@ -403,6 +340,8 @@ abstract = {In this paper we consider the implications of imperfect monitoring i
   owner = {meneguzzi},
   timestamp = {2014.05.30}
 }
+
+
 
 @INPROCEEDINGS{Fagundes2014,
   author = {Moser Fagundes and Felipe Meneguzzi and Rafael H. Bordini and Renata Vieira},
@@ -489,12 +428,88 @@ abstract = {We consider the problem of relating an agent's internal state (its b
 }
 
 
-@inproceedings{moraes2016comparing,
-  title={Comparing Approaches to Subjectivity Classification: A Study on Portuguese Tweets},
-  author={Moraes, Silvia MW and Santos, Andr{\'e} LL and Redecker, Matheus and Machado, Rackel M and Meneguzzi, Felipe R},
-  booktitle={International Conference on Computational Processing of the Portuguese Language},
-  pages={86--94},
-  year={2016},
-  organization={Springer}
+@incollection{Luck2013,
+year={2013},
+isbn={978-94-007-5582-6},
+booktitle={Agreement Technologies},
+volume={8},
+series={Law, Governance and Technology Series},
+editor={Ossowski, Sascha},
+doi={10.1007/978-94-007-5583-3_14},
+title={Normative Agents},
+url={http://dx.doi.org/10.1007/978-94-007-5583-3_14},
+publisher={Springer Netherlands},
+author={Luck, Michael and Mahmoud, Samhar and Meneguzzi, Felipe and Kollingbaum, Martin and Norman, Timothy J. and Criado, Natalia and Fagundes, Moser Silva},
+pages={209-220},
+language={English}
 }
 
+
+@article{Oh2013,
+title = {Prognostic normative reasoning},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {26},
+number = {2},
+pages = {863 -- 872},
+year = {2013},
+issn = {0952-1976},
+doi = {10.1016/j.engappai.2012.12.006},
+url = {http://www.sciencedirect.com/science/article/pii/S0952197612003144},
+author = {Jean Oh and Felipe Meneguzzi and Katia Sycara and Timothy J. Norman},
+keywords = {Proactive agents},
+keywords = {Normative reasoning},
+keywords = {Agent architecture},
+abstract = {Human users planning for multiple objectives in complex environments are subjected to high levels of cognitive workload, which can severely impair the quality of the plans created. This paper describes a software agent that can proactively assist cognitively overloaded users by providing normative reasoning about prohibitions and obligations so that the user can focus on her primary objectives. In order to provide proactive assistance, we develop the notion of prognostic normative reasoning (PNR) that consists of the following steps: (1) recognizing the user's planned activities, (2) reasoning about norms to evaluate those predicted activities, and (3) providing necessary assistance so that the user's activities are consistent with norms. The idea of PNR integrates various AI techniques, namely, user intention recognition, normative reasoning over a user's intention, and planning, execution and replanning for assistive actions. In this paper, we describe an agent architecture for PNR and discuss practical applications.}
+}
+
+@article{Meneguzzi2012,
+title = {Applying electronic contracting to the aerospace aftercare domain},
+journal = {Engineering Applications of Artificial Intelligence},
+volume    = {25},
+number    = {7},
+year      = {2012},
+pages     = {1471-1487},
+issn = {0952-1976},
+doi = {10.1016/j.engappai.2012.06.004},
+url = {http://www.sciencedirect.com/science/article/pii/S0952197612001479},
+author = {Felipe Meneguzzi and Sanjay Modgil and Nir Oren and Simon Miles and Michael Luck and Noura Faci},
+keywords = {CONTRACT},
+keywords = {Norms},
+keywords = {Monitoring},
+keywords = {BDI},
+keywords = {ATN},
+abstract = {The contract project was a European Commission project whose aim was to develop frameworks, components and tools to model, build, verify and monitor distributed electronic business systems based on electronic contracts. In this context, an electronic contract provides a specification of the expected behaviours of individual services, with the assumption that these services are often enacted by autonomous agents. Using the theoretical tools created by the project, in this paper we describe the complete life cycle of instantiating an electronic contracting system using the contract framework within the aerospace aftercare domain. Thus, we use a natural language description of parts of the types of contracts used in this domain to generate individual norms amenable to a computational representation, and how these norms are used to generate a concrete contract monitor. Moreover, we describe a concrete implementation of contract agents in the AgentSpeak(L) language and how these agents interact within a concrete instantiation of contract.}
+}
+
+@article{DBLP:journals/aim/AzevedoBBCFHHHKKLLMMOPRSSD11,
+  author    = {Roger Azevedo and
+               Gautam Biswas and
+               Dan Bohus and
+               Ted Carmichael and
+               Mark A. Finlayson and
+               Mirsad Hadzikadic and
+               Catherine Havasi and
+               Eric Horvitz and
+               Takayuki Kanda and
+               Oluwasanmi Koyejo and
+               William F. Lawless and
+               Douglas B. Lenat and
+               Felipe Meneguzzi and
+               Bilge Mutlu and
+               Jean Oh and
+               Roberto Pirrone and
+               Antoine Raux and
+               Donald A. Sofge and
+               Gita Sukthankar and
+               Benjamin Van Durme},
+  title     = {Reports of the {AAAI} 2010 Fall Symposia},
+  journal   = {{AI} Magazine},
+  volume    = {32},
+  number    = {1},
+  pages     = {93--100},
+  year      = {2011},
+  url       = {http://www.aaai.org/ojs/index.php/aimagazine/article/view/2338},
+  timestamp = {Thu, 07 Jul 2011 21:51:18 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/aim/AzevedoBBCFHHHKKLLMMOPRSSD11},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
