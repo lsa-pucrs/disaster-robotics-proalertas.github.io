@@ -10,7 +10,7 @@ permalink: /links/
  - [Grupo de Automação e Controle de Sistemas (GACS)](http://www.feng.pucrs.br/~gacs/) - PUCRS
  - [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS;
  - [Laboratório de Pesquisas em Fotogrametria (LAFOTO)](https://www.ufrgs.br/lafoto/) - UFRGS
- --[Phi - Robotics Research Group(phi)](http://www.inf.ufrgs.br/phi-group/phi-r2/Welcome.html) - [Computer Science Graduate Program (PPGC)](http://www.inf.ufrgs.br/ppgc/); 
+ - [Phi - Robotics Research Group(phi)](http://www.inf.ufrgs.br/phi-group/phi-r2/Welcome.html) - [Computer Science Graduate Program (PPGC)](http://www.inf.ufrgs.br/ppgc/); 
  - [GPSEM](http://inf.unisc.br/gpsem/), UNISC;
  - UFSC
  - UFRN
