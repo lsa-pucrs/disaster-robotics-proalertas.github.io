@@ -78,6 +78,14 @@ permalink: /people/
     - **Conclusion date**: NA
     - **Papers**: NA 
 
+2. [Vitor Augusto Machado Jorge](http://lattes.cnpq.br/8302681523696256)
+    - **Degree**: PhD in Computer Science - UFRGS
+    - **Institution**: PPGCC/FACIN - PUCRS University
+    - **Advisors**: Alexandre de Morais Amory
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
+    - **Conclusion date**: Apr/2019
+    - **Papers**: NA 
+
 ### PhD
 
 1. [João Paulo de Souza Aires](http://lattes.cnpq.br/5295008908444866)
