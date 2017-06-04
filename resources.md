@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Computing Resources
 
- - 1 server PowerEdge T620 with 2 sockets for Intel Xeon E5-26 processors, 32G RAM, GPU XXXX
+ - 1 server PowerEdge T620 with 2 sockets for Intel Xeon E5-26 processors, 32G RAM, GPU Tesla K40 
  - 1 workstation T3610 w/ Intel Xeon E5-1650 v2, 32G RAM, Dual NVIDIA Quadro K4000 DUPLA w/ 3 GB 
  - 8 desktop PowerEdge T320, Xeon 1.90GHz Core i7, 16GB RAM, 2TB HD, GPU NVIDIA GT 640, and Linux OS;
  - laser printer;
@@ -75,4 +75,4 @@ permalink: /resources/
 
 ## Other Equipaments
 
- - Pequeno laboratório eletrônico para reparos equipados com osciloscópio, multímetro, estação de solda, trena laser, medidor de temperatura infravermelho, conjuntos de alicates e chaves;
+ - small electronics laboratory equipped with oscilloscope, multimeter, welding station, laser meter, infrared meter, among other tools;
