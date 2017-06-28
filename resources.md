@@ -25,14 +25,15 @@ permalink: /resources/
 ## Sensors
 
  - [GPS ultimate breakout v3 adafruit](https://www.adafruit.com/product/746)
- - [Laser Sick_tim551-2050001](https://www.sick.com/us/en/detection-and-ranging-solutions/2d-laser-scanners/tim5xx/tim551-2050001/p/p343045). Top laser.
+ - [Laser Sick_tim551-2050001](https://www.sick.com/us/en/detection-and-ranging-solutions/2d-laser-scanners/tim5xx/tim551-2050001/p/p343045). 
  - [IMU chrobotics um6](http://www.chrobotics.com/shop/orientation-sensor-um6)
- - [Laser Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html). Bottom laser, facing downwards with an angle of 37o.
+ - [Laser Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html). 
  - [Depth camera ZED](https://www.stereolabs.com/)
  - [Atlas environmental kit (pH, dissolved oxygen, condutivity, etc)](https://www.atlas-scientific.com/product_pages/kits/env-sds-kit.html)
  - PTZ camera Cannon
  - Depth camera Kinect
  - Other IMUs with EKF
+ - GPS RTK [emlid](https://emlid.com/reach/) 
  - Other GPSs
  - Infrared and ultrassonic sensors;
 
