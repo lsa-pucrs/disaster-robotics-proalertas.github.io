@@ -6,8 +6,8 @@ permalink: /resources/
 
 ## Computing Resources
 
- - 1 server PowerEdge T620 with 2 sockets for Intel Xeon E5-26 processors, 32G RAM, GPU Tesla K40 
- - 1 workstation T3610 w/ Intel Xeon E5-1650 v2, 32G RAM, Dual NVIDIA Quadro K4000 DUPLA w/ 3 GB 
+ - 1 server PowerEdge T620 with 2 sockets for Intel Xeon E5-26 processors, 32G RAM, 3 GPUs [Tesla K40](https://www.nvidia.com/content/PDF/kepler/Tesla-K40-Active-Board-Spec-BD-06949-001_v03.pdf) with 12GB each one
+ - 1 workstation T3610 w/ Intel Xeon E5-1650 v2, 32G RAM, Dual [NVIDIA Quadro K4000](https://www.nvidia.com/content/PDF/data-sheet/DS_NV_Quadro_K4000_OCT13_NV_US_LR.pdf) DUPLA w/ 3 GB 
  - 8 desktop PowerEdge T320, Xeon 1.90GHz Core i7, 16GB RAM, 2TB HD, GPU NVIDIA GT 640, and Linux OS;
  - laser printer;
  - 3D printer;
