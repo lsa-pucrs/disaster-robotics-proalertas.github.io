@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Computing Resources
 
- - 1 server PowerEdge T620 with 2 sockets for Intel [Xeon E5-2](https://ark.intel.com/PT-BR/products/64594/Intel-Xeon-Processor-E5-2620-15M-Cache-2_00-GHz-7_20-GTs-Intel-QPI) with 6 cores, 32G RAM, 2 GPUs [Tesla K40](https://www.nvidia.com/content/PDF/kepler/Tesla-K40-Active-Board-Spec-BD-06949-001_v03.pdf) and 1 GPU [Titan Xp](https://www.nvidia.com/en-us/geforce/products/10series/titan-xp/) with 12GB each one
+ - 1 server PowerEdge T620 with 2 sockets for Intel [Xeon E5-2](https://ark.intel.com/PT-BR/products/64594/Intel-Xeon-Processor-E5-2620-15M-Cache-2_00-GHz-7_20-GTs-Intel-QPI) with 6 cores, 32G RAM, 2 GPUs [Tesla K40](https://www.nvidia.com/content/PDF/kepler/Tesla-K40-Active-Board-Spec-BD-06949-001_v03.pdf) and 1 GPU [Titan Xp](https://www.nvidia.com/en-us/geforce/products/10series/titan-xp/) with 12GB;
  - 1 workstation T3610 w/ [Intel Xeon E5-1650 v2](https://ark.intel.com/pt-br/products/75780/Intel-Xeon-Processor-E5-1650-v2-12M-Cache-3_50-GHz) with 6 cores, 32G RAM, Dual [NVIDIA Quadro K4000](https://www.nvidia.com/content/PDF/data-sheet/DS_NV_Quadro_K4000_OCT13_NV_US_LR.pdf) DUPLA w/ 3 GB 
  - 8 desktop PowerEdge T320, Xeon 1.90GHz Core i7, 16GB RAM, 2TB HD, GPU NVIDIA GT 640, and Linux OS;
  - laser printer;
