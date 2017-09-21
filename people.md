@@ -74,13 +74,12 @@ permalink: /people/
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
     <!-- - **Monography title**:  -->
-    - **Project(s)**: Learning and Inference for Ambient Intelligence (sponsored by HP Inc. Brazil)
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), Learning and Inference for Ambient Intelligence (sponsored by HP Inc. Brazil)
     - **Conclusion date**: NA
     - **Papers**: NA 
 
-2. [Vitor Augusto Machado Jorge](http://lattes.cnpq.br/8302681523696256)
+2. [Vitor Augusto Machado Jorge](http://lattes.cnpq.br/3206235048453355)
     - **Degree**: PhD in Computer Science - UFRGS
-    - **Institution**: PPGCC/FACIN - PUCRS University
     - **Advisors**: Alexandre de Morais Amory
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
     - **Conclusion date**: Apr/2019
