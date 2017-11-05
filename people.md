@@ -171,19 +171,12 @@ permalink: /people/
 ### Undergraduate
 
 
-1. [Augusto Cezar Peschke Bergamin]()
+1. [name]()
     - **Degree**: Undergradute student in Computer Engineering - PUCRS
     - **Advisors**: Alexandre Amory
-    - **Project(s)**: [Donnie](../projects/donnie), [Demining robot](../projects/hratc)
+    - **Project(s)**: 
     - **Conclusion date**: 
     - **Papers**: NA
-2. [Guilherme Henrique Marculino Marques](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8705844Y2)
-    - **Degree**: Undergradute student in Computer Engineering - PUCRS
-    - **Advisors**: Alexandre Amory
-    - **Project(s)**: [Donnie](../projects/donnie), [Turtlebot gripper and Roffi](../projects/undergrad-robots)
-    - **Conclusion date**: 
-    - **Papers**: NA
-
 
 ## Former Graduated Students
 
@@ -243,6 +236,8 @@ permalink: /people/
 
 ### Undergraduate Research Assistant
 
+- [Augusto Cezar Peschke Bergamin]() (student in Computer Engineering)
+- [Guilherme Henrique Marculino Marques](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8705844Y2) (student in Computer Engineering)
 - Alessandro Collioni (Computer Science student);
 - Gustavo Robinson Moraes (Control and Automation Engineering student);
 - Douglas Antunes Tesch (Control and Automation Engineering student).
