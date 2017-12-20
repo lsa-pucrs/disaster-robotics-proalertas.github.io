@@ -102,6 +102,6 @@ with the same floorplan, he/she will be able to remember the floorplan and move 
 ## Media 
 
 
-[Youtube videos demonstrating the working robot, both in simulation and the actual robot](https://youtu.be/BRXAqvGPGmU)
+[Youtube videos demonstrating the working robot, both in simulation and the actual robot](https://www.youtube.com/playlist?list=PLecI7jQbTC3xtnuzPx3IBYijYhVuH0Aaq)
 
 
