@@ -46,14 +46,14 @@ The LSA's goal in the [HRATC2017](http://inf.ufrgs.br/hratc2017/HRATC2017/Welcom
 ## Papers
 
 ```
-@article{prestes20162016,
-  title={The 2016 Humanitarian Robotics and Automation Technology Challenge [Competitions]},
-  author={Prestes, Edson and Marques, Lino and Neuland, Renata and Mantelli, Mathias and Maffei, Renan and Dogru, Sedat and Prado, Jose and Macedo, Joao and Madhavan, Raj},
+@article{Madhavan2017,
+  title={TThe 2017 Humanitarian Robotics and Automation Technology Challenge [Humanitarian Technology]},
+  author={Raj Madhavan and Alexandre Amory and Edson Prestes and Renan Guedes and Augusto Bergamin and Renata Neuland and Mathias Mantelli and Diego Kindin and Fernanda Rodrigues},
   journal={IEEE Robotics \& Automation Magazine},
-  volume={23},
-  number={3},
-  pages={23--24},
-  year={2016},
+  volume={24},
+  number={4},
+  pages={127--129},
+  year={2017},
   publisher={IEEE}
 }
 ```
