@@ -45,7 +45,18 @@ The LSA's goal in the [HRATC2017](http://inf.ufrgs.br/hratc2017/HRATC2017/Welcom
 
 ## Papers
 
- - title and link. full bibio data is already available at ...
+```
+@article{prestes20162016,
+  title={The 2016 Humanitarian Robotics and Automation Technology Challenge [Competitions]},
+  author={Prestes, Edson and Marques, Lino and Neuland, Renata and Mantelli, Mathias and Maffei, Renan and Dogru, Sedat and Prado, Jose and Macedo, Joao and Madhavan, Raj},
+  journal={IEEE Robotics \& Automation Magazine},
+  volume={23},
+  number={3},
+  pages={23--24},
+  year={2016},
+  publisher={IEEE}
+}
+```
 
 ## Repositories
 
