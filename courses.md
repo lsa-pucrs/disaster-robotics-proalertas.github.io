@@ -17,5 +17,5 @@ permalink: /courses/
  - Automatic Planning - PPGCC/PUCRS
  - Convolutional Neural Networks for Computer Vision - PPGCC/PUCRS
  
-Check ou the other courses at [PPGCC](http://www.pucrs.br/politecnica/programa-de-pos-graduacao-em-ciencia-da-computacao/disciplinas/) webpage.
+Check out the other courses at [PPGCC](http://www.pucrs.br/technology/graduate-program-in-computer-science/courses/) webpage.
 
