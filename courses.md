@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Graduate Courses
 permalink: /courses/
 ---
 
@@ -11,11 +11,11 @@ permalink: /courses/
 ## LSA Related Courses
 
  - Machine Learning - PPGCC/PUCRS
- - Autonomous Agents
- - Multi Agent Systems
- - Computational Intelligence
- - Automatic Planning
- - Convolutional Neural Networks for Computer Vision
+ - Autonomous Agents - PPGCC/PUCRS
+ - Multi Agent Systems - PPGCC/PUCRS
+ - Computational Intelligence - PPGCC/PUCRS
+ - Automatic Planning - PPGCC/PUCRS
+ - Convolutional Neural Networks for Computer Vision - PPGCC/PUCRS
  
 Check ou the other courses at [PPGCC](http://www.pucrs.br/politecnica/programa-de-pos-graduacao-em-ciencia-da-computacao/disciplinas/) webpage.
 
