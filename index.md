@@ -32,7 +32,6 @@ Undergraduate, master, phd, pos-doc positions are available. Interested students
 <table width="70%" align="center" cellspacing="7" cellpadding="7"> 
 <tr> 
 <td align="center"><a href="http://mir-pucrs.github.io"        rel="lightbox" ><img src="../images/logos/mir-logo.png" alt="" width="107" height="160" /></a></td> 
-<td align="center"><a href="http://www.pucrs.br/facin/ppgcc/"  rel="lightbox" ><img src="../images/logos/facin.png" alt="" width="107" height="160" /></a></td> 
-<td align="center"><a href="http://www.pucrs.br/"              rel="lightbox" ><img src="../images/logos/pucrs.svg" alt="" width="107" height="160" /></a></td> 
+<td align="center"><a href="http://www.pucrs.br/technology/graduate-program-in-computer-science/"              rel="lightbox" ><img src="../images/logos/pucrs.svg" alt="" width="107" height="160" /></a></td> 
 </tr> 
 </table>
