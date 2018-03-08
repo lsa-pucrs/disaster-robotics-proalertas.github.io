@@ -5,7 +5,7 @@ title: Pró-Alertas Disaster Robotics
 
 ## Project description
 
-The ultimate goal of this project is to create a single system able to coordinate multiple heterogeneous agents (land robots, boats, rotatory wings, people) to help in disaster response and mitigation. [Pró-Alertas](https://disaster-robotics-proalertas.github.io/) also proposes a citywide simulation environment to test responses and planning under diferent disaster scenarios and flooding forecast and alert system which haverst crowdsourcing, social, and IoT data.
+The ultimate goal of this project is to create a single system able to coordinate multiple heterogeneous agents (land robots, boats, rotatory wings, people) to help in disaster response and mitigation. [Pró-Alertas](https://disaster-robotics-proalertas.github.io/) also proposes a citywide simulation environment to test responses and planning under different disaster scenarios and flooding forecast and alert system which harvest crowdsourcing, social, and IoT data.
 
 ![Alt text](./proj1.jpg?raw=true "Project diagram")
 
