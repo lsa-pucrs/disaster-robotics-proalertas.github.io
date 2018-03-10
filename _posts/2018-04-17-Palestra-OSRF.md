@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Palestra com Louise Poubel da Open Source Robotics Foundation (OSRF) - Mantenedora do ROS e Gazebo"
-date: 2018-17-04
+date: 2018-04-17
 ---
 
 
