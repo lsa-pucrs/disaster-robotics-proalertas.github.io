@@ -9,7 +9,7 @@ permalink: /people/
 1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
     - **Research subjects**: embedded systems, robotic middleware, system integration, fault tolerance;
     - [webpage](https://amamory.github.io/)
-    - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
+    - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/politecnica/ppgcc/)/[School of Thechnology](http://www.pucrs.br/politecnica) - [PUCRS University](http://www.pucrs.br/);
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hratc), [Donnie assistive robot](../projects/donnie), [Undergraduate robot projects](../projects/undergrad-robots);
 2. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
     - **Research subjects**: AI, multi-agent systems, automated planning;
@@ -22,7 +22,7 @@ permalink: /people/
 
 1. [Aurélio Tergolina Salton](http://lattes.cnpq.br/7181063742089743)
     - **Research subjects**: control, sensor fusion;
-    - **Institution**: [GACS](http://www.feng.pucrs.br/~gacs/) - PPGEE/FACIN - PUCRS University;
+    - **Institution**: [GACS](http://www.feng.pucrs.br/~gacs/) - PPGEE - PUCRS University;
     - **Project(s)**: [Environmental Monitoring Boats](../projects/pve-boats)
     - **Papers**: NA
 2. [Edson Prestes](http://lattes.cnpq.br/2604911000898464)
@@ -37,7 +37,7 @@ permalink: /people/
     - **Papers**: NA
 4. [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690)
     - **Research subjects**: computer vision;
-    - **Institution**: PPGCC/FACIN - PUCRS University;
+    - **Institution**: PPGCC - PUCRS University;
     - **Project(s)**: [Environmental Monitoring Boats](../projects/pve-boats), [Donnie assistive robot](../projects/donnie)
     - **Papers**: NA
 5. [Leonel Tedesco](http://lattes.cnpq.br/2520175088634553)
@@ -52,12 +52,12 @@ permalink: /people/
     - **Papers**: NA.
 7. [Marcia Borba Campos](http://lattes.cnpq.br/3266082770151361)
     - **Research subjects**: assitive technology;
-    - **Institution**: PPGCC/FACIN - PUCRS University;
+    - **Institution**: PPGCC - PUCRS University;
     - **Project(s)**: [Donnie assistive robot](../projects/donnie)
     - **Papers**: NA
 8. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
     - **Research subjects**: AI, multi-agents systems;
-    - **Institution**: [SMART](https://smart-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
+    - **Institution**: [SMART](https://smart-pucrs.github.io/) - PPGCC - PUCRS University;
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
     - **Papers**: NA    
 9. [Regis Alexandre Lahm](http://lattes.cnpq.br/0407648694453994)
@@ -122,16 +122,16 @@ permalink: /people/
     - **Project(s)**: Mobile Data Analytics (sponsored by Motorola Brazil)
     - **Conclusion date**: Mar/2021
     - **Papers**: NA
-
+1. [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734)
+    - **Degree**: PhD in Computer Science - PUCRS
+    - **Advisors**: Alexandre Amory and Aurélio Salton
+    - **Monography title**: Self Managment System for Autonomous Robots 
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Demining Robot](../projects/hratc)
+    - **Conclusion date**: Jan/2022
+    - **Papers**: NA
+    
 ### MSc
 
-1. [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Alexandre Amory and Aurélio Salton
-    - **Monography title**: Sistema modular de localização e percepção de barcos autônomos
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Demining Robot](../projects/hratc)
-    - **Conclusion date**: Jan/2018
-    - **Papers**: NA
 2. [Vagner Macedo Martins](http://lattes.cnpq.br/3353898327493243)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
@@ -229,6 +229,13 @@ permalink: /people/
     - **Project(s)**: 
     - **Conclusion date**: March/2016
     - **Papers**: NA
+1. [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Alexandre Amory and Aurélio Salton
+    - **Monography title**: Sistema modular de localização e percepção de barcos autônomos
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Demining Robot](../projects/hratc)
+    - **Conclusion date**: Mar/2018
+    - **Papers**: NA    
     
 ### End of Term Project
 
