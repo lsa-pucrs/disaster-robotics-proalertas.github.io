@@ -6,7 +6,9 @@ date: 2018-04-02
 
 
 <pre>
-A primeira série de seminários do MIR tratando de temas voltados para robótica e automação.
+Na próxima semana será iniciada a 1a série de seminários internos do MIR de 2018
+tratando de temas voltados para robótica e automação. 
+
 O objetivo da série de seminários é difundir conhecimento entre membros da PUC-RS. 
 Após as apresentações discussões e possibilidades de colaboração serão levantadas.
 
