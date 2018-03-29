@@ -6,7 +6,9 @@ date: 2018-04-02
 
 
 <pre>
-A primeira série de seminários do MIR tratando de temas voltados para robótica e automação.  O objetivo da série de seminários é difundir conhecimento entre membros da PUC-RS. Após as apresentações discussões e possibilidades de colaboração serão levantadas
+A primeira série de seminários do MIR tratando de temas voltados para robótica e automação.
+O objetivo da série de seminários é difundir conhecimento entre membros da PUC-RS. 
+Após as apresentações discussões e possibilidades de colaboração serão levantadas.
 
 Data: 02/04/2018
 Horário: 14h00
