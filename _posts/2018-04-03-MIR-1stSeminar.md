@@ -14,7 +14,7 @@ Após as apresentações discussões e possibilidades de colaboração serão le
 
 Data: 03/04/2018
 Horário: 14h00
-Local: FACIN
+Local: P32, sala 516
 
 Agenda:
 
