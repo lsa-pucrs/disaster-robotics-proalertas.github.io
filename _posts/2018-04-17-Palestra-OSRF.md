@@ -9,7 +9,7 @@ date: 2018-04-17
 A palestra apresentará novidades do ROS e Gazebo seguida de Q&A e ocorrerá no período da tarde.
 Data: 17/04/2018
 Horário: 14h00
-Local: FACIN, Sala a definir
+Local: FACIN, Sala 516
 
 
 Título: ROS & Gazebo: Novidades na robótica de código aberto
