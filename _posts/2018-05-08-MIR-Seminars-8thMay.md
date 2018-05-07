@@ -58,6 +58,7 @@ cation, running on a Raspberry Pi 2 embedded computer, which validates the propo
 Duração (estimativa): 20 minutos
 
 
+Apresentador: Mauricio Cecilio Magnaguagno
 Título: Symbolic-Geometric planning for disaster/rescue situations
 Abstract:
 Classical planners, with actions described with preconditions and effects, create a way to 
