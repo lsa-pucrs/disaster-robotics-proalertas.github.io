@@ -13,7 +13,7 @@ Após as apresentações haverá discussões sobre os temas abordados.
  
 Data: 08/05/2018
 Horário: 14h00
-Local: P32, sala 516
+Local: P32, mini auditório 207
 
 Agenda:
 =======
