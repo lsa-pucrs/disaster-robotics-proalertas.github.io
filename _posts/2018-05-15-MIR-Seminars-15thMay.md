@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminários MIR: Gerenciamento de Recursos e Planejamento/Simulação de Desastres"
+title: "Seminários MIR: Gerenciamento de Recursos e Planejamento/Simulação de Desastres PARTE II"
 date: 2018-05-15
 ---
 
