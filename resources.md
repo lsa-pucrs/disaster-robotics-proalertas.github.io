@@ -11,6 +11,7 @@ permalink: /resources/
  - 8 desktop PowerEdge T320, Xeon 1.90GHz Core i7, 16GB RAM, 2TB HD, GPU NVIDIA GT 640, and Linux OS;
  - laser printer;
  - [Cliever 3D](https://www.cliever.com/) printer;
+ - [Cliever 3D printer](cliever_3D_printer.md);
 
 ## Mobile bases
 
