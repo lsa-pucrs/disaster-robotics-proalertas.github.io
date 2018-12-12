@@ -10,7 +10,7 @@ permalink: /resources/
  - 1 workstation T3610 w/ [Intel Xeon E5-1650 v2](https://ark.intel.com/pt-br/products/75780/Intel-Xeon-Processor-E5-1650-v2-12M-Cache-3_50-GHz) with 6 cores, 32G RAM, Dual [NVIDIA Quadro K4000](https://www.nvidia.com/content/PDF/data-sheet/DS_NV_Quadro_K4000_OCT13_NV_US_LR.pdf) DUPLA w/ 3 GB 
  - 8 desktop PowerEdge T320, Xeon 1.90GHz Core i7, 16GB RAM, 2TB HD, GPU NVIDIA GT 640, and Linux OS;
  - laser printer;
- - 3D printer;
+ - [Cliever 3D](https://www.cliever.com/) printer;
 
 ## Mobile bases
 
@@ -18,9 +18,11 @@ permalink: /resources/
  - 2 [turtlebots](http://store.clearpathrobotics.com/products/turtlebot-2);
  - [PhantomX AX Metal Hexapod Mark III Kit - 18 DOF](http://www.trossenrobotics.com/phantomx-ax-hexapod.aspx);
  - 2 [Lutra Airboats](http://senseplatypus.com/lutra-airboat/);
+ - 1 [Lutra Prop boat](http://senseplatypus.com/lutra-prop/);
+ - 2 quadrotor with [Navio2 autopilot](https://emlid.com.br/navio/) with ROS integration;
+ - 1 hexarotor with [Navio2 autopilot](https://emlid.com.br/navio/) with ROS integration;
  - Neato Robot;
  - ARDrone quadrotor;
- - 2 quadrotor by 3D Robotics;
 
 ## Sensors
 
@@ -41,7 +43,7 @@ permalink: /resources/
 
  - [Wifi adaptator - tp-link wn722n](http://www.tp-link.com/en/download/TL-WN722N.html)
  - omni, sector, focused external antennas
- - antenna boosters
+ - antenna boosters for field trials
  - wifi signal extension
  - [long range external xbee (900MHz)](https://www.digi.com/products/xbee-rf-solutions/modules/xbee-pro-900hp)
  - zigbee dongles
@@ -59,11 +61,12 @@ permalink: /resources/
 ## Embedded Computers
 
  - Embedded programing for robotics (Arduino, Beaglebone and Raspberry Pi);
- - 3 [NVIDIA Jetson TK1 boards](http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html)
- - 2 [ODROID XU4](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825) with 8 cores
+ - 2 [NVIDIA Jetson TK1 boards](http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html)
+ - 2 [NVIDIA Jetson TX2 boards](https://developer.nvidia.com/embedded/buy/jetson-tx2)
+ - 3 [ODROID XU4](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825) with 8 cores
+ - 6 [Navio (emlid)](https://emlid.com.br/navio/) Autopilot boards with support to ROS 
  - Android phone
- - Autopilot boards
-
+ 
 ## Software Resources
 
  - ROS and Gazebo simulator;
