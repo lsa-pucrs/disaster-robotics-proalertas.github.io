@@ -14,7 +14,8 @@ permalink: /resources/
 
 ## Mobile bases
 
- - [Pioneer 3-AT - 4 wheels](http://www.mobilerobots.com/ResearchRobots/P3AT.aspx);
+ - [Pioneer 3-AT w/ 4 wheels](https://robots.ros.org/pioneer-3-at/);
+     1. [Tutorial](https://github.com/lsa-pucrs/lsa-pucrs.github.io/master/resources/bulletm2.md) for configuring Ubiquiti Bullet M2 as LAN/WLAN bridge and access point
  - 2 [turtlebots](http://store.clearpathrobotics.com/products/turtlebot-2);
  - [PhantomX AX Metal Hexapod Mark III Kit - 18 DOF](http://www.trossenrobotics.com/phantomx-ax-hexapod.aspx);
  - 2 [Lutra Airboats](http://senseplatypus.com/lutra-airboat/);
