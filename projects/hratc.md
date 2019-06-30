@@ -86,6 +86,7 @@ The LSA's goal in the [HRATC2017](http://inf.ufrgs.br/hratc2017/HRATC2017/Welcom
 videos and photos.
 
 [Youtube videos about the competition](https://www.youtube.com/playlist?list=PLecI7jQbTC3z4A3bb6W49LBs-n3-Lczji)
+[PUCRS Magazine - Robótica do Bem](http://www.pucrs.br/revista/robotica-do-bem/)
 
 Photo taken with the finalist at ICRA 2017, in Singapore.
 

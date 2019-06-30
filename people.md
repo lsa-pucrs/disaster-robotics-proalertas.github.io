@@ -78,12 +78,6 @@ permalink: /people/
     - **Conclusion date**: NA
     - **Papers**: NA 
 
-2. [Vitor Augusto Machado Jorge](http://lattes.cnpq.br/3206235048453355)
-    - **Degree**: PhD in Computer Science - UFRGS
-    - **Advisors**: Alexandre de Morais Amory
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
-    - **Conclusion date**: Apr/2019
-    - **Papers**: NA 
 
 ### PhD
 
@@ -132,20 +126,7 @@ permalink: /people/
     
 ### MSc
 
-2. [Vagner Macedo Martins](http://lattes.cnpq.br/3353898327493243)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Alexandre Amory
-    - **Monography title**: Previsão de alagamento urbano baseados em dados de redes sociais
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
-    - **Conclusion date**: Aug/2018
-    - **Papers**: NA
-3. [Guilherme Villagran Barreto de Azevedo](http://lattes.cnpq.br/8032574985840371)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Felipe Meneguzzi and Aurélio Salton
-    - **Monography title**: Symbolic-geometric planning for Non-Holonomic Robotics
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
-    - **Conclusion date**: Mar/2018
-    - **Papers**: NA
+
 4. [Guilherme Krzisch](http://lattes.cnpq.br/5686088427787512)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
@@ -167,6 +148,14 @@ permalink: /people/
    - **Project(s)**: [Detecting Normative Conflicts in Contracts](../projects/)
    - **Conclusion date**: Mar/2019
    - **Papers**: NA
+6. [Darlan Alves Jurak](http://lattes.cnpq.br/3671839515715788)
+   - **Degree**: Master in Computer Science - PUCRS
+   - **Advisors**: Alexandre Amory
+   - **Monography title**: TBA
+   - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
+   - **Conclusion date**: Mar/2020
+   - **Papers**: NA
+  
     
 ### Undergraduate
 
@@ -189,6 +178,18 @@ permalink: /people/
     - **Project(s)**: Semantic Technologies and Multi-Agent Systems for Team Interaction (SeaTeaMS), sponsored by Samsung
     - **Conclusion date**: Jan/2014
     - **Papers**: NA 
+2. [Vitor Augusto Machado Jorge](http://lattes.cnpq.br/3206235048453355)
+    - **Degree**: PhD in Computer Science - UFRGS
+    - **Advisors**: Alexandre de Morais Amory
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
+    - **Conclusion date**: Jan/2019
+    - **Papers**: NA     
+2. [Guilherme Heck](http://lattes.cnpq.br/6819197962067492)
+    - **Degree**: PhD in Computer Science - PUCRS
+    - **Advisors**: Alexandre de Morais Amory
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
+    - **Conclusion date**: May/2019
+    - **Papers**: NA        
 
 ### PhD
 
@@ -243,8 +244,10 @@ permalink: /people/
 
 ### Undergraduate Research Assistant
 
-- [Augusto Cezar Peschke Bergamin]() (student in Computer Engineering)
-- [Guilherme Henrique Marculino Marques](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8705844Y2) (student in Computer Engineering)
+- [Igor de Souza Azevedo](http://lattes.cnpq.br/7915554198308070) (student in Computer Engineering)
+- [Augusto Cezar Peschke Bergamin](http://lattes.cnpq.br/8493843392871924) (student in Computer Engineering)
+- [Guilherme Henrique Marculino Marques](http://lattes.cnpq.br/8307857868218780) (student in Computer Engineering)
+- [Joice Alves Marek](http://lattes.cnpq.br/3104728994254013) (student in Computer Engineering);
 - Alessandro Collioni (Computer Science student);
 - Gustavo Robinson Moraes (Control and Automation Engineering student);
 - Douglas Antunes Tesch (Control and Automation Engineering student).

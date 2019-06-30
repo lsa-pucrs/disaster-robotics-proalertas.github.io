@@ -15,41 +15,48 @@ permalink: /resources/
 ## Mobile bases
 
  - [Pioneer 3-AT w/ 4 wheels](https://robots.ros.org/pioneer-3-at/);
-     1. [Tutorial](https://github.com/lsa-pucrs/lsa-pucrs.github.io/blob/master/resources/bulletm2.md) for configuring Ubiquiti Bullet M2 as LAN/WLAN bridge and access point
  - 2 [turtlebots](http://store.clearpathrobotics.com/products/turtlebot-2);
  - [PhantomX AX Metal Hexapod Mark III Kit - 18 DOF](http://www.trossenrobotics.com/phantomx-ax-hexapod.aspx);
- - 2 [Lutra Airboats](http://senseplatypus.com/lutra-airboat/);
- - 1 [Lutra Prop boat](http://senseplatypus.com/lutra-prop/);
- - 2 quadrotor with [Navio2 autopilot](https://emlid.com.br/navio/) with ROS integration;
- - 1 hexarotor with [Navio2 autopilot](https://emlid.com.br/navio/) with ROS integration;
+ - 2 [Lutra Airboats](http://senseplatypus.com/lutra-airboat/) with [Navio2 autopilot](https://emlid.com.br/navio/) with ROS integration;
+ - 1 [Lutra Prop boat](http://senseplatypus.com/lutra-prop/) with [Navio2 autopilot](https://emlid.com.br/navio/) with ROS integration;
+ - 1 quadrotor with [Navio2 autopilot](https://emlid.com.br/navio/) with ROS integration;
+ - 2 hexarotor with [Navio2 autopilot](https://emlid.com.br/navio/) with ROS integration;
  - Neato Robot;
  - ARDrone quadrotor;
 
 ## Sensors
 
  - [GPS ultimate breakout v3 adafruit](https://www.adafruit.com/product/746)
- - [Laser Sick_tim551-2050001](https://www.sick.com/us/en/detection-and-ranging-solutions/2d-laser-scanners/tim5xx/tim551-2050001/p/p343045). 
+ - 1 [Laser Sick_tim551-2050001](https://www.sick.com/us/en/detection-and-ranging-solutions/2d-laser-scanners/tim5xx/tim551-2050001/p/p343045). 
  - [IMU chrobotics um6](http://www.chrobotics.com/shop/orientation-sensor-um6)
- - [Laser Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html). 
- - [Depth camera ZED](https://www.stereolabs.com/)
- - [Atlas environmental kit (pH, dissolved oxygen, condutivity, etc)](https://www.atlas-scientific.com/product_pages/kits/env-sds-kit.html)
- - PTZ camera Cannon
- - Depth camera Kinect
+ - 1 [Laser Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html). 
+ - 4 [RPLiDAR A1M8 360 Degree Laser Scanner Kit](https://www.robotshop.com/en/rplidar-a1m8-360-degree-laser-scanner-development-kit.html)
+ - 2 [Atlas environmental kit (pH, dissolved oxygen, condutivity, etc)](https://www.atlas-scientific.com/product_pages/kits/env-sds-kit.html)
+ - 1 [Lowrance depth sonar sensor (Elite Ti5)](https://www.lowrance.com/lowrance/type/fishfinders-chartplotters/elite-5-ti-no-xdcr)
  - Other IMUs with EKF
  - GPS RTK [emlid](https://emlid.com/reach/) 
  - Other GPSs
  - Infrared and ultrassonic sensors;
 
+## Cameras
+ - [flir duo thermal camera](https://www.flir.com/support/products/duo/)
+ - 2 [Depth camera ZED](https://www.stereolabs.com/)
+ - Depth camera Kinect
+ - PTZ camera Cannon
+ - several raspicam
+ 
+
 ## Wireless
 
  - [Wifi adaptator - tp-link wn722n](http://www.tp-link.com/en/download/TL-WN722N.html)
+ - [Ubiquiti external wifi](https://github.com/lsa-pucrs/lsa-pucrs.github.io/blob/master/resources/bulletm2.md) for configuring Ubiquiti Bullet M2 as LAN/WLAN bridge and access point
+ - [long range external xbee (900MHz)](https://www.digi.com/products/xbee-rf-solutions/modules/xbee-pro-900hp)
+ - 6 remote controls [FrSky 2.4GHz TARANIS X9D PLUS](https://hobbyking.com/pt_pt/frsky-2-4ghz-accst-taranis-x9d-plus-and-x8r-combo-digital-telemetry-radio-system-mode-2.html?___store=pt_pt)
  - omni, sector, focused external antennas
  - antenna boosters for field trials
  - wifi signal extension
- - [long range external xbee (900MHz)](https://www.digi.com/products/xbee-rf-solutions/modules/xbee-pro-900hp)
  - zigbee dongles
  - bluethooth dongles
- - remote controllers
  - high power wifi routers
  - 5G routers
 
