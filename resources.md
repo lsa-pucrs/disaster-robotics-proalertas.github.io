@@ -31,7 +31,7 @@ permalink: /resources/
  - [IMU chrobotics um6](http://www.chrobotics.com/shop/orientation-sensor-um6)
  - 1 [Laser Hokuyo URG-04LX-UG01](https://www.hokuyo-aut.jp/02sensor/07scanner/urg_04lx_ug01.html). 
  - 4 [RPLiDAR A1M8 360 Degree Laser Scanner Kit](https://www.robotshop.com/en/rplidar-a1m8-360-degree-laser-scanner-development-kit.html)
- - 2 [Atlas environmental kit (pH, dissolved oxygen, condutivity, etc)](https://www.atlas-scientific.com/product_pages/kits/env-sds-kit.html)
+ - 2 [Atlas environmental kit (pH, dissolved oxygen, condutivity, ORP, temperature)](https://www.atlas-scientific.com/product_pages/kits/env-sds-kit.html)
  - 1 [Lowrance depth sonar sensor (Elite Ti5)](https://www.lowrance.com/lowrance/type/fishfinders-chartplotters/elite-5-ti-no-xdcr)
  - Other IMUs with EKF
  - GPS RTK [emlid](https://emlid.com/reach/) 
@@ -59,6 +59,9 @@ permalink: /resources/
  - bluethooth dongles
  - high power wifi routers
  - 5G routers
+ - [3G/4G modem for outdoors](https://www.elsys.com.br/produto-detalhes/AMPLIMAX) 
+ - [RF Wireless LoRa 433MHz](https://www.filipeflop.com/produto/modulo-rf-wireless-lora-433mhz/)
+ - [Wireless NRF24L01 Transceiver w/ SMA Antena](https://www.filipeflop.com/produto/modulo-wireless-nrf24l01-transceiver-com-antena-sma/)
 
 ## Actuators
 
