@@ -6,17 +6,25 @@ permalink: /people/
 
 ## Coordinators
 
-1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
+1. [Rafael Fraga Garibotti](http://lattes.cnpq.br/9888662772740183)
     - **Research subjects**: embedded systems, robotic middleware, system integration, fault tolerance;
     - [webpage](https://amamory.github.io/)
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/politecnica/ppgcc/)/[School of Thechnology](http://www.pucrs.br/politecnica) - [PUCRS University](http://www.pucrs.br/);
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hratc), [Donnie assistive robot](../projects/donnie), [Undergraduate robot projects](../projects/undergrad-robots);
+    - **Project(s)**: ;
 2. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
     - **Research subjects**: AI, multi-agent systems, automated planning;
     - [webpage](http://www.meneguzzi.eu/felipe)
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats);
 
+## Former Coordinator
+
+1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
+    - **Research subjects**: embedded systems, robotic middleware, system integration, fault tolerance;
+    - [webpage](https://amamory.github.io/)
+    - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/politecnica/ppgcc/)/[School of Thechnology](http://www.pucrs.br/politecnica) - [PUCRS University](http://www.pucrs.br/);
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hratc), [Donnie assistive robot](../projects/donnie), [Undergraduate robot projects](../projects/undergrad-robots);
+    
     
 ## Academic Collaborators
 
@@ -102,13 +110,6 @@ permalink: /people/
     - **Project(s)**: Learning and Inference for Ambient Intelligence (sponsored by HP Inc. Brazil)
     - **Conclusion date**: Mar/2020
     - **Papers**: NA
-1. [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209)
-    - **Degree**: PhD in Computer Science - PUCRS
-    - **Advisors**: Alexandre Amory
-    - **Monography title**: Navegação de barcos autônomos
-    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
-    - **Conclusion date**: Jul/2020
-    - **Papers**: NA
 1. [Leonardo Rosa Amado](http://lattes.cnpq.br/7850470300503123)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Felipe Meneguzzi
@@ -148,13 +149,6 @@ permalink: /people/
    - **Project(s)**: [Detecting Normative Conflicts in Contracts](../projects/)
    - **Conclusion date**: Mar/2019
    - **Papers**: NA
-6. [Darlan Alves Jurak](http://lattes.cnpq.br/3671839515715788)
-   - **Degree**: Master in Computer Science - PUCRS
-   - **Advisors**: Alexandre Amory
-   - **Monography title**: TBA
-   - **Project(s)**: [Pró-Alertas](../projects/pro-alertas)
-   - **Conclusion date**: Mar/2020
-   - **Papers**: NA
   
     
 ### Undergraduate
@@ -193,8 +187,17 @@ permalink: /people/
 
 ### PhD
 
-- TBA
-
+1. [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209)
+    - **Degree**: PhD in Computer Science - PUCRS
+    - **Advisors**: Alexandre Amory
+    - **Research proposal**: [PEP doc](TBD), [PEP ppt](.TBD), [SA doc](TBD)
+    - **Monography title**: [A Robotic Simulator for Natural Disasters Considering Environment Disturbances](TBD)
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats)
+    - **Conclusion date**: Jul/2020
+    - **Repository**: [USV_SIM: unmanned surface vehicle simulator](https://github.com/disaster-robotics-proalertas/usv_sim_lsa)
+    - **Papers**: [Unmanned surface vehicle simulator with realistic environmental disturbances](https://www.mdpi.com/1424-8220/19/5/1068)
+    - **Demo Video**: [youtube](https://www.youtube.com/watch?feature=player_embedded&v=JEhY3h-BKGQ)    
+    
 ### MSc
 
 1. [Marcio Godoy Morais](http://lattes.cnpq.br/8817950522501166)
@@ -236,6 +239,13 @@ permalink: /people/
     - **Monography title**: Sistema modular de localização e percepção de barcos autônomos
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Demining Robot](../projects/hratc)
     - **Conclusion date**: Mar/2018
+    - **Papers**: NA    
+1. [Darlan Alves Jurak](http://lattes.cnpq.br/3671839515715788)
+    - **Degree**: Master in Computer Science - PUCRS
+    - **Advisors**: Alexandre Amory
+    - **Monography title**: A COLREGS Compliant Collision Avoidance System for Unmanned Surface Vehicles
+    - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats),
+    - **Conclusion date**: Mar/2020
     - **Papers**: NA    
     
 ### End of Term Project
