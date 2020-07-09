@@ -236,10 +236,10 @@ permalink: /people/
 1. [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory and Aurélio Salton
-    - **Monography title**: Sistema modular de localização e percepção de barcos autônomos
+    - **Monography title**: Outdoor Localization System for Mobile Robots Based on Radio-Frequency Signal Strength
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Demining Robot](../projects/hratc)
     - **Conclusion date**: Mar/2018
-    - **Papers**: NA    
+    - **Papers**: [Outdoor Localization System with Augmented State Extended Kalman Filter and Radio-Frequency Received Signal Strength](https://doi.org/10.1109/ICAR46387.2019.8981637)
 1. [Darlan Alves Jurak](http://lattes.cnpq.br/3671839515715788)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
