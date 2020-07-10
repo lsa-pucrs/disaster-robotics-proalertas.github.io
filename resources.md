@@ -4,6 +4,11 @@ title: Resources
 permalink: /resources/
 ---
 
+## Video Presentation
+
+checkout [these videos](https://www.youtube.com/playlist?list=PLecI7jQbTC3zUh1MWmnS3Y9gDGLlVwRMH) to take a look at the resources available at LSA by July 2020
+
+
 ## Computing Resources
 
  - 1 server PowerEdge T620 with 2 sockets for Intel [Xeon E5-2](https://ark.intel.com/PT-BR/products/64594/Intel-Xeon-Processor-E5-2620-15M-Cache-2_00-GHz-7_20-GTs-Intel-QPI) with 6 cores, 32G RAM, 2 GPUs [Tesla K40](https://www.nvidia.com/content/PDF/kepler/Tesla-K40-Active-Board-Spec-BD-06949-001_v03.pdf) and 1 GPU [Titan Xp](https://www.nvidia.com/en-us/geforce/products/10series/titan-xp/) with 12GB;
