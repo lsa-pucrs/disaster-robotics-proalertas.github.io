@@ -7,10 +7,10 @@ permalink: /people/
 ## Coordinators
 
 1. [Rafael Fraga Garibotti](http://lattes.cnpq.br/9888662772740183)
-    - **Research subjects**: embedded systems, robotic middleware, system integration, fault tolerance;
-    - [webpage](https://amamory.github.io/)
-    - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/politecnica/ppgcc/)/[School of Thechnology](http://www.pucrs.br/politecnica) - [PUCRS University](http://www.pucrs.br/);
-    - **Project(s)**: ;
+    - **Research subjects**: multi/many-core systems, embedded systems, high-level synthesis, fault tolerance;
+    - [webpage](https://scholar.google.com.br/citations?user=5dYEOW0AAAAJ)
+    - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGEE](http://www.pucrs.br/politecnica/programa-de-pos-graduacao-em-engenharia-eletrica/)/[School of Technology](http://www.pucrs.br/politecnica) - [PUCRS University](http://www.pucrs.br/);
+    - **Project(s)**: MultiRad;
 2. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
     - **Research subjects**: AI, multi-agent systems, automated planning;
     - [webpage](http://www.meneguzzi.eu/felipe)
@@ -22,7 +22,7 @@ permalink: /people/
 1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
     - **Research subjects**: embedded systems, robotic middleware, system integration, fault tolerance;
     - [webpage](https://amamory.github.io/)
-    - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/politecnica/ppgcc/)/[School of Thechnology](http://www.pucrs.br/politecnica) - [PUCRS University](http://www.pucrs.br/);
+    - **Institution**: [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/politecnica/ppgcc/)/[School of Technology](http://www.pucrs.br/politecnica) - [PUCRS University](http://www.pucrs.br/);
     - **Project(s)**: [Pró-Alertas](../projects/pro-alertas), [Environmental Monitoring Boats](../projects/pve-boats), [Painter Robot](../projects/instor), [Demining Robot](../projects/hratc), [Donnie assistive robot](../projects/donnie), [Undergraduate robot projects](../projects/undergrad-robots);
     
     
